@@ -1161,9 +1161,9 @@
   },
   {
     "id": 240,
-    "nombre": "BOTELLA  TERMICA  DEPORTIVA DE 500 ML",
-    "precio": 13200,
-    "foto": "https://i.postimg.cc/W183nfXL/Whats-App-Image-2025-09-10-at-23-33-21.jpg",
+    "nombre": "BOTELLA  TERMICA  DEPORTIVA DE 700 ML",
+    "precio": 14500,
+    "foto": "https://i.postimg.cc/8CgT9Bct/IMG-8126.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
@@ -1185,9 +1185,9 @@
   },
   {
     "id": 244,
-    "nombre": "BOTELLA TERMICA DEPORTIVA  DE 500ML SPORT",
+    "nombre": "BOTELLA TERMICA DEPORTIVA COLORES  DE 500ML",
     "precio": 13200,
-    "foto": "https://i.postimg.cc/XJyvsMZZ/FLK1543.jpg",
+    "foto": "https://i.postimg.cc/0ycCHZVy/IMG-8125.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
@@ -1973,6 +1973,502 @@
     "precio": 1250,
     "foto": "https://i.postimg.cc/JnrTXrWw/IMG-8084.jpg",
     "categoria": "ELECTRICIDAD",
+    "suspendido": false
+  },
+  {
+    "id": 386,
+    "nombre": "SET DE LLAVES TUBO GRANDE DE 32PCS",
+    "precio": 19600,
+    "foto": "https://i.postimg.cc/rmh9t7Tn/IMG-8088.png",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 387,
+    "nombre": "SET DE HERRAMIENTAS DE 129 PIEZAS",
+    "precio": 35900,
+    "foto": "https://i.postimg.cc/vBpzGks4/IMG-8085.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 388,
+    "nombre": "SET DE LLAVES TUBO X53 PIEZAS",
+    "precio": 16400,
+    "foto": "https://i.postimg.cc/tRWdhrb9/IMG-8086.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 389,
+    "nombre": "SET DE MECHAS COPA X4",
+    "precio": 5800,
+    "foto": "https://i.postimg.cc/Dy5XgHM4/IMG-8087.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 390,
+    "nombre": "MECHAS COPAS SET X4",
+    "precio": 5300,
+    "foto": "https://i.postimg.cc/QdwVY3kL/IMG-8094.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 391,
+    "nombre": "SET DE DESTORNILLADOR DE GOLPE X6",
+    "precio": 7100,
+    "foto": "https://i.postimg.cc/pLFPTnzP/IMG-8089.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 392,
+    "nombre": "SET DE DESTORNILLADOR X2",
+    "precio": 2400,
+    "foto": "https://i.postimg.cc/QCwRG06N/IMG-8090.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 393,
+    "nombre": "SET DE DESTORNILLADOR X 6",
+    "precio": 3800,
+    "foto": "https://i.postimg.cc/fRNMVRKJ/IMG-8091.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 394,
+    "nombre": "LLAVE FRANCESA DE 10 PULGADAS",
+    "precio": 7200,
+    "foto": "https://i.postimg.cc/k4V0j0sq/IMG-8093.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 395,
+    "nombre": "PICO LORO",
+    "precio": 8900,
+    "foto": "https://i.postimg.cc/ZKmQ3B1g/IMG-8092.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 396,
+    "nombre": "SET X 9 DE LLAVES ALLEN GRANDE",
+    "precio": 4850,
+    "foto": "https://i.postimg.cc/526SFf2x/IMG-8103.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 397,
+    "nombre": "LAVVES TORK X 9 PIEZAS",
+    "precio": 4950,
+    "foto": "https://i.postimg.cc/90DQYgRz/IMG-8101.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 398,
+    "nombre": "PINZA UNIVERSAL DE 8 PULGADAS",
+    "precio": 5800,
+    "foto": "https://i.postimg.cc/K82gmFgy/IMG-8109.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 399,
+    "nombre": "SOLDADOR DE ESTAÑO LAPIZ",
+    "precio": 2600,
+    "foto": "https://i.postimg.cc/qq2MFhwv/IMG-8108.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 400,
+    "nombre": "CUTTER REFORZADO",
+    "precio": 1450,
+    "foto": "https://i.postimg.cc/kX9n45wG/IMG-8110.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 401,
+    "nombre": "LUBRICANTE W40 DE 163 G 240 ML",
+    "precio": 4650,
+    "foto": "https://i.postimg.cc/kGYwkGgc/IMG-8114.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 402,
+    "nombre": "GAS PARA ENCENDEDORES  160CM",
+    "precio": 4400,
+    "foto": "https://i.postimg.cc/bwxkndjP/IMG-8115.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 403,
+    "nombre": "CABLE PARA AUTO BOOSTER 500 MP",
+    "precio": 8400,
+    "foto": "https://i.postimg.cc/fLtxJCWQ/IMG-8113.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 404,
+    "nombre": "CANDADO CON CODIGO",
+    "precio": 5600,
+    "foto": "https://i.postimg.cc/DyCtTfNf/IMG-8099.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 405,
+    "nombre": "LINGA PARA MOTO GRUESO 1MT",
+    "precio": 11000,
+    "foto": "https://i.postimg.cc/Kc92Z5KC/IMG-8096.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 406,
+    "nombre": "LINGA PARA BICI GRUESO",
+    "precio": 4100,
+    "foto": "https://i.postimg.cc/cLWyhkP6/IMG-8098.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 407,
+    "nombre": "LINGA PARA BICI COLORES 1,2 MTS",
+    "precio": 4950,
+    "foto": "https://i.postimg.cc/jdKZFVq8/IMG-8097.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 408,
+    "nombre": "CANDADO DE 20MM",
+    "precio": 950,
+    "foto": "https://i.postimg.cc/xjgznB3T/IMG-8124.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 409,
+    "nombre": "CANDADO 32MM",
+    "precio": 1550,
+    "foto": "https://i.postimg.cc/nV5n4kHs/IMG-8123.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 410,
+    "nombre": "CANDADO DE 63MM",
+    "precio": 3450,
+    "foto": "https://i.postimg.cc/gJ1k2qjr/IMG-8122.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 411,
+    "nombre": "CANDADO CON ALARMA BICI-MOTO",
+    "precio": 8500,
+    "foto": "https://i.postimg.cc/QtKhw9mj/IMG-8121.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 412,
+    "nombre": "PISTOLA DE SILICONA GRANDE 40 W",
+    "precio": 3600,
+    "foto": "https://i.postimg.cc/RhmydNDF/cbe3e6cb-64fb-4822-9c41-237e2a7060ce.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 413,
+    "nombre": "PISTOLA DE SILICONA CHICA 10 W",
+    "precio": 2600,
+    "foto": "https://i.postimg.cc/brvHqPGH/263784a7-b55f-448e-807d-c200f3830af1.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 414,
+    "nombre": "PISTOLA DE SILICONA CHICA CANDELA 10 W",
+    "precio": 4400,
+    "foto": "https://i.postimg.cc/tTvntxT4/cf38c403-966f-4b1f-a887-b35697c89c16.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 415,
+    "nombre": "PISTOLA DE ILICONA GRANDE CANDELA 40 W",
+    "precio": 5900,
+    "foto": "https://i.postimg.cc/gcwHtzPT/811d2e75-3a43-44a4-92e5-73ce3c20e26b.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 416,
+    "nombre": "CINTA DOBLE FAZ X 5 MT",
+    "precio": 1950,
+    "foto": "https://i.postimg.cc/ZqKr8Zc2/IMG-8116.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 417,
+    "nombre": "CINTA METRICA 10 MTS",
+    "precio": 5950,
+    "foto": "https://i.postimg.cc/3JF4nVWF/IMG-8111.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 418,
+    "nombre": "CANILLA ESFERICA METALICA DE 1/2 PULGADAS COMUN",
+    "precio": 2600,
+    "foto": "https://i.postimg.cc/dQmVYdvq/IMG-8095.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 419,
+    "nombre": "GUANTES DE TRABAJO",
+    "precio": 1950,
+    "foto": "https://i.postimg.cc/P5D7gbnr/IMG-8112.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 420,
+    "nombre": "BOTELLA TERMICA DEPORTIVA DE 500ML",
+    "precio": 12200,
+    "foto": "https://i.postimg.cc/1zK4KYBC/IMG-8128.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 421,
+    "nombre": "VASO TERMICO DE CAFE DE 380ML",
+    "precio": 6600,
+    "foto": "https://i.postimg.cc/Jn2r6wks/IMG-8127.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 422,
+    "nombre": "SET DE TERMO Y TAZA PARA CAMPING",
+    "precio": 10800,
+    "foto": "https://i.postimg.cc/dQgd3pxW/IMG-8129.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 423,
+    "nombre": "VASO TERMICO CON TAPA ANTIDERRAME 500ML",
+    "precio": 10800,
+    "foto": "https://i.postimg.cc/Nf1yMMTG/IMG-8130.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 424,
+    "nombre": "TAPON DE TERMO CON PICO",
+    "precio": 2100,
+    "foto": "https://i.postimg.cc/tJFgYSss/IMG-8132.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 425,
+    "nombre": "TAPON DE TERMO MATERO",
+    "precio": 2050,
+    "foto": "https://i.postimg.cc/jdXsmJPq/IMG-8133.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 426,
+    "nombre": "TAPON DE TERMO MATERO MEDIANO 1/2 LITRO",
+    "precio": 1650,
+    "foto": "https://i.postimg.cc/jdXsmJPq/IMG-8133.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 427,
+    "nombre": "LINTERNA METAL LED",
+    "precio": 1750,
+    "foto": "https://i.postimg.cc/x8xDtLNf/IMG-8152.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 428,
+    "nombre": "LINTERNA LED USB RECARGABLE",
+    "precio": 6650,
+    "foto": "https://i.postimg.cc/4yFqzZjN/IMG-8150.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 429,
+    "nombre": "LINTERNA LISA USB RECARCABLE + ZOOM",
+    "precio": 3450,
+    "foto": "https://i.postimg.cc/7ZzdTF93/IMG-8149.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 430,
+    "nombre": "LINTERNA LEDUSB RECARGABLE S 65",
+    "precio": 6250,
+    "foto": "https://i.postimg.cc/ryYPZVYr/IMG-8148.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 431,
+    "nombre": "LINTERNA USB RECARGABLE DE TRABAJO",
+    "precio": 6200,
+    "foto": "https://i.postimg.cc/85zZw9RB/IMG-8147.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 432,
+    "nombre": "LINTERNA MINERA HIGH POWER",
+    "precio": 3300,
+    "foto": "https://i.postimg.cc/Nj8btBb6/IMG-8159.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 433,
+    "nombre": "MINI LINTERNA USB RECARGABLE",
+    "precio": 2100,
+    "foto": "https://i.postimg.cc/HWJqg8Mv/IMG-8155.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 434,
+    "nombre": "MINI LINTERNA USB RECARGABLE + ENCENDEDOR",
+    "precio": 4250,
+    "foto": "https://i.postimg.cc/NFTCrT70/IMG-8156.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 435,
+    "nombre": "LUZ DE EMERGENCIA 92 LED USB RECARGABLE",
+    "precio": 14800,
+    "foto": "https://i.postimg.cc/jjFMgvMj/IMG-8146.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 436,
+    "nombre": "LINTERNA FAROL CAMPING SOLAR + USB RECARGABLE",
+    "precio": 8750,
+    "foto": "https://i.postimg.cc/63ZfHK7n/IMG-8139.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 437,
+    "nombre": "LAMPARA FAROL LED CAMPING USB RECARGABLE",
+    "precio": 9300,
+    "foto": "https://i.postimg.cc/rwpGBx0c/IMG-8143.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 438,
+    "nombre": "LINTERNA COB LUZ DE TRABAJO",
+    "precio": 8750,
+    "foto": "https://i.postimg.cc/QNkpV0c5/IMG-8140.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 439,
+    "nombre": "REFLECTOR 20 LED CON SENSOR SOLAR",
+    "precio": 4550,
+    "foto": "https://i.postimg.cc/KcNMm4yK/IMG-8145.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 440,
+    "nombre": "LAMPARA CON SENSOR SOLAR BK100",
+    "precio": 5100,
+    "foto": "https://i.postimg.cc/LXv8FYZ2/IMG-8142.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 441,
+    "nombre": "FOCO LED 12 W 2 EN 1 MATA MOSQUITO",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/1zQmgcGP/IMG-8144.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 442,
+    "nombre": "PUNTERO LASER PROFESIONAL",
+    "precio": 5600,
+    "foto": "https://i.postimg.cc/PfRdbkW6/IMG-8151.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 443,
+    "nombre": "LINTERNA LASER 3 EN 1",
+    "precio": 1300,
+    "foto": "https://i.postimg.cc/B6vGDhXv/IMG-8153.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 444,
+    "nombre": "LUZ BOLICHERA DOBLE",
+    "precio": 4750,
+    "foto": "https://i.postimg.cc/ZY2hBxmQ/IMG-8154.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 445,
+    "nombre": "TIRA LED RGB 50 X 50   5MT",
+    "precio": 9700,
+    "foto": "https://i.postimg.cc/ZY2hBxmQ/IMG-8154.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 446,
+    "nombre": "LUZ LINTERNA PARA BICI",
+    "precio": 2550,
+    "foto": "https://i.postimg.cc/k5Y7j3rM/IMG-8157.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 447,
+    "nombre": "LUZ BICI  BLANCO/ROJO USB RECARGABLE",
+    "precio": 2150,
+    "foto": "https://i.postimg.cc/SKRhYTn5/IMG-8158.jpg",
+    "categoria": "ILUMINACION",
     "suspendido": false
   }
 ]
