@@ -436,7 +436,7 @@
     "nombre": "TAPON TERMO TIPO STANLEY",
     "precio": 2200,
     "foto": "https://i.postimg.cc/qB92s8np/Captura-de-pantalla-2025-09-11-171821.png",
-    "categoria": "HOGAR",
+    "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
   {
@@ -676,7 +676,7 @@
     "nombre": "PILAS AAA X 4 UNIDADES",
     "precio": 850,
     "foto": "https://i.postimg.cc/3wdMKSRZ/EEL0140.jpg",
-    "categoria": "VARIOS",
+    "categoria": "LIBRERIA",
     "suspendido": false
   },
   {
@@ -700,7 +700,7 @@
     "nombre": "PILAS AA PAQUETES X 4",
     "precio": 850,
     "foto": "https://i.postimg.cc/Vs9hcQg8/OR-0155.jpg",
-    "categoria": "VARIOS",
+    "categoria": "LIBRERIA",
     "suspendido": false
   },
   {
@@ -717,7 +717,7 @@
     "precio": 3500,
     "foto": "https://i.postimg.cc/RV0QbyBH/pelota2.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 149,
@@ -809,7 +809,7 @@
   },
   {
     "id": 165,
-    "nombre": "FOCO COMUN GIRATORIO",
+    "nombre": "LUZ BOLICHERA SIMPLE",
     "precio": 2550,
     "foto": "https://i.postimg.cc/QdCp8wLC/TMFOC9751.jpg",
     "categoria": "ILUMINACION",
@@ -852,7 +852,7 @@
     "nombre": "LUZ DE BICI X 2PCS",
     "precio": 2100,
     "foto": "https://i.postimg.cc/ZYfHfLXq/luz-bici.png",
-    "categoria": "VARIOS",
+    "categoria": "ILUMINACION",
     "suspendido": false
   },
   {
@@ -1264,14 +1264,6 @@
     "suspendido": false
   },
   {
-    "id": 261,
-    "nombre": "VELADOR DE MESA TACTIL TOUCH 3 TONOS MELECH-",
-    "precio": 9400,
-    "foto": "https://i.postimg.cc/qMph2yvW/velador.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
-  },
-  {
     "id": 270,
     "nombre": "AURICULAR  BT INALAMBRICOS  JK 601",
     "precio": 7200,
@@ -1307,7 +1299,7 @@
     "id": 276,
     "nombre": "PELOTA  DE FUTBOL N°5 DE ARGENTINA",
     "precio": 8400,
-    "foto": "https://i.postimg.cc/MK2qrV6X/PELONRO5.jpg",
+    "foto": "https://i.postimg.cc/NGSx80dt/IMG-8173.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
   },
@@ -2470,5 +2462,109 @@
     "foto": "https://i.postimg.cc/SKRhYTn5/IMG-8158.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
+  },
+  {
+    "id": 448,
+    "nombre": "CALCULADORA KARUIDA 12 DIGITOS KK8835",
+    "precio": 4650,
+    "foto": "https://i.postimg.cc/BQCbxzvx/IMG-8160.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 449,
+    "nombre": "CALCULADORA KK402",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/BbBSB84w/IMG-8161.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 450,
+    "nombre": "CALCULADORA COLORES 8 DIGITOS",
+    "precio": 1850,
+    "foto": "https://i.postimg.cc/QxSNBW6F/IMG-8163.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 451,
+    "nombre": "CALCULADORA CON PANTALLA LCD",
+    "precio": 3500,
+    "foto": "https://i.postimg.cc/T1fG1RgF/IMG-8162.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 452,
+    "nombre": "PIZARRA LCD A COLOR DE 16 PULGADAS",
+    "precio": 6100,
+    "foto": "https://i.postimg.cc/LXBKrrwZ/IMG-8164.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 453,
+    "nombre": "PIZARRA LCD A COLOR DE 12 PULGADAS",
+    "precio": 4550,
+    "foto": "https://i.postimg.cc/SRN5HjWb/IMG-8165.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 454,
+    "nombre": "PIZARRA LCD A COLOR 8.5 PULGADAS",
+    "precio": 3050,
+    "foto": "https://i.postimg.cc/nzTSKZNv/IMG-8166.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 455,
+    "nombre": "FIBRONES CAJA X10",
+    "precio": 3600,
+    "foto": "https://i.postimg.cc/NfZJkdPY/IMG-8167.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 456,
+    "nombre": "PELUCHE LABUBU SORPRESA",
+    "precio": 9900,
+    "foto": "https://i.postimg.cc/BbXpxFTb/IMG-8168.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 457,
+    "nombre": "PILAS AAA X2 RECARGABLE NOGA",
+    "precio": 4950,
+    "foto": "https://i.postimg.cc/qv8LX43y/IMG-8169.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 458,
+    "nombre": "PILAS AA X2 RECARGABLE NOGA",
+    "precio": 7550,
+    "foto": "https://i.postimg.cc/RZz10yDW/IMG-8170.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 459,
+    "nombre": "VELADOR CAPYBARA  83066",
+    "precio": 7200,
+    "foto": "https://i.postimg.cc/RF3Hq75F/IMG-8137.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 460,
+    "nombre": "VELADOR LED PINZA USB RECARGABLE",
+    "precio": 6100,
+    "foto": "https://i.postimg.cc/wTx9V6Mw/2c242dfe-de36-4ec6-a392-860dfef2dbca.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": true
   }
 ]
