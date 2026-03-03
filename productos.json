@@ -4,7 +4,7 @@
     "nombre": "RECEPTOR BT PARA  AUTO",
     "precio": 3100,
     "foto": "https://i.postimg.cc/C5nDwTLf/cargadorauto.png",
-    "categoria": "CARGADORES",
+    "categoria": "TECNOLOGIA",
     "suspendido": false
   },
   {
@@ -13,14 +13,6 @@
     "precio": 2600,
     "foto": "https://i.postimg.cc/sfHwysKf/cableiph.png",
     "categoria": "CABLES",
-    "suspendido": false
-  },
-  {
-    "id": 3,
-    "nombre": "CABLE TIPO C USB EXTENDER 4 PUERTOS",
-    "precio": 3950,
-    "foto": "https://i.postimg.cc/Th8jwQX2/USB.jpg",
-    "categoria": "CARGADORES",
     "suspendido": false
   },
   {
@@ -129,8 +121,8 @@
   },
   {
     "id": 20,
-    "nombre": "CABEZAL TIME USB TIPO C 18W",
-    "precio": 3310,
+    "nombre": "CARGADOR CABEZAL I PHONE USB C 18W",
+    "precio": 3350,
     "foto": "https://i.postimg.cc/zGfFFRHP/TMCC607.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -148,7 +140,7 @@
     "nombre": "TRANSMISOR BT DE AUTO GTS C 935",
     "precio": 4350,
     "foto": "https://i.postimg.cc/q7DV6D9B/GTS-C935.jpg",
-    "categoria": "CARGADORES",
+    "categoria": "TECNOLOGIA",
     "suspendido": false
   },
   {
@@ -200,26 +192,10 @@
     "suspendido": false
   },
   {
-    "id": 32,
-    "nombre": "CABLE USB V8 EN BOLSA 3.1A",
-    "precio": 1150,
-    "foto": "https://i.postimg.cc/SxtJFnT5/TMCB-6232.jpg",
-    "categoria": "CABLES",
-    "suspendido": false
-  },
-  {
     "id": 33,
     "nombre": "CABLE ADAPTADOR HDMI A VGA",
     "precio": 3350,
     "foto": "https://i.postimg.cc/5tPSZg9D/CAB-45003.jpg",
-    "categoria": "CABLES",
-    "suspendido": false
-  },
-  {
-    "id": 34,
-    "nombre": "CABLE 2 A 1 1.5M",
-    "precio": 900,
-    "foto": "https://i.postimg.cc/xCSxNt5H/CAB-46008.jpg",
     "categoria": "CABLES",
     "suspendido": false
   },
@@ -828,7 +804,7 @@
     "nombre": "ADAPTADOR PARA FOCO",
     "precio": 850,
     "foto": "https://i.postimg.cc/cCqCLxQr/ADAPTADOR-PARA-FOCO.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ELECTRICIDAD",
     "suspendido": false
   },
   {
@@ -972,7 +948,7 @@
     "nombre": "ENCHUFE AMERICANO FICHA PLANA",
     "precio": 700,
     "foto": "https://i.postimg.cc/kXW2NWMP/Captura-de-pantalla-2025-09-11-161544.png",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ELECTRICIDAD",
     "suspendido": false
   },
   {
@@ -980,7 +956,7 @@
     "nombre": "ENCHUFE HEMBRA",
     "precio": 1150,
     "foto": "https://i.postimg.cc/rygDfx7B/Captura-de-pantalla-2025-09-11-170802.png",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ELECTRICIDAD",
     "suspendido": false
   },
   {
@@ -988,7 +964,7 @@
     "nombre": "ENCHUFE MACHO",
     "precio": 1150,
     "foto": "https://i.postimg.cc/kMzJpGYM/Whats-App-Image-2025-09-10-at-20-57-08-1.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ELECTRICIDAD",
     "suspendido": false
   },
   {
@@ -996,7 +972,7 @@
     "nombre": "LAPIZ TESTER",
     "precio": 3900,
     "foto": "https://i.postimg.cc/MGDwzb0x/Captura-de-pantalla-2025-09-11-171216.png",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ELECTRICIDAD",
     "suspendido": false
   },
   {
@@ -1012,7 +988,7 @@
     "nombre": "TRIPLE PIRAMIDE",
     "precio": 1950,
     "foto": "https://i.postimg.cc/13J5MHL2/Whats-App-Image-2025-09-10-at-20-57-08-3.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ELECTRICIDAD",
     "suspendido": false
   },
   {
@@ -1020,7 +996,7 @@
     "nombre": "TRIPLE DOBLE PLANO REFORZADO",
     "precio": 1950,
     "foto": "https://i.postimg.cc/L5pT9Lmk/Whats-App-Image-2025-09-10-at-20-57-08-2.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ELECTRICIDAD",
     "suspendido": false
   },
   {
@@ -1028,7 +1004,7 @@
     "nombre": "ZAPATILLA X 3 MTS. REFORZADO",
     "precio": 3550,
     "foto": "https://i.postimg.cc/J4p922zN/Captura-de-pantalla-2025-09-11-161504.png",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ELECTRICIDAD",
     "suspendido": false
   },
   {
@@ -1036,7 +1012,7 @@
     "nombre": "ZAPATILLA X 5 MTS. REFORZADO",
     "precio": 4850,
     "foto": "https://i.postimg.cc/J4p922zN/Captura-de-pantalla-2025-09-11-161504.png",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ELECTRICIDAD",
     "suspendido": false
   },
   {
@@ -1476,7 +1452,7 @@
     "nombre": "ZAPATILLA EXAGONAL X 5 BOCAS + 2 USB",
     "precio": 9000,
     "foto": "https://i.postimg.cc/3NSs6qNP/zapaflor.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ELECTRICIDAD",
     "suspendido": false
   },
   {
@@ -1501,14 +1477,6 @@
     "precio": 10200,
     "foto": "https://i.postimg.cc/xdV1tXW7/CANDADOMOTO.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
-    "id": 317,
-    "nombre": "FUENTE DE ALIMENTACIÓN 5V 2A",
-    "precio": 3000,
-    "foto": "https://i.postimg.cc/pXnv42YN/FUENTE.jpg",
-    "categoria": "CARGADORES",
     "suspendido": false
   },
   {
@@ -1717,6 +1685,294 @@
     "precio": 15900,
     "foto": "https://i.postimg.cc/mrxQNzLL/IMG-8039.jpg",
     "categoria": "ACCESORIOS MASCULINOS",
+    "suspendido": false
+  },
+  {
+    "id": 350,
+    "nombre": "CABLE USB I PHONE 5 AMP ROYALCELL",
+    "precio": 1850,
+    "foto": "https://i.postimg.cc/Kv3SsjSm/IMG-8044.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 351,
+    "nombre": "CABLE USB TIPO C IBEK 6 AMP",
+    "precio": 1950,
+    "foto": "https://i.postimg.cc/hv9wczS8/IMG-8045.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 352,
+    "nombre": "CABLE USB V8 3.1 BOLSA",
+    "precio": 1150,
+    "foto": "https://i.postimg.cc/pVYqVtf7/IMG-8046.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 353,
+    "nombre": "CABLE TIPO C A TIPO C",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/qMvXk6Mp/IMG-8047.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 354,
+    "nombre": "CABLE USB V8 BLISTER MOTOROLA",
+    "precio": 1450,
+    "foto": "https://i.postimg.cc/TYsmfk49/IMG-8048.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 355,
+    "nombre": "CABLE USB TIPO C MOTOROLA BLISTER",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/TYsmfk49/IMG-8048.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 356,
+    "nombre": "CABLE USB TIPO LEGATUS 5 AMP",
+    "precio": 1350,
+    "foto": "https://i.postimg.cc/mktDn4Bc/IMG-8050.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 357,
+    "nombre": "CABLE USB V8 3.1 BLANCO",
+    "precio": 1200,
+    "foto": "https://i.postimg.cc/cCgxmcBw/IMG-8051.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 358,
+    "nombre": "CABLE USB TIPO 3.1 CON LUZ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/853Dj6gT/IMG-8052.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 359,
+    "nombre": "CABLE AUXILIAR A I PHONE",
+    "precio": 2400,
+    "foto": "https://i.postimg.cc/XvYp5dm9/IMG-8053.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 360,
+    "nombre": "ADAPTADOR EXTENCION TIPO C CON 4 PUERTOS USB",
+    "precio": 3950,
+    "foto": "https://i.postimg.cc/Fz5rTLWf/IMG-8054.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 361,
+    "nombre": "CABLE AUXILIAR A TIPO C",
+    "precio": 2400,
+    "foto": "https://i.postimg.cc/Xvrn38tm/IMG-8055.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 362,
+    "nombre": "CABLE USB I PHONE 5.0 IBEK MALLADO",
+    "precio": 1950,
+    "foto": "https://i.postimg.cc/5ybcHqk0/IMG-8056.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 363,
+    "nombre": "CABLE PARA IMPRESORA 1.5 MT",
+    "precio": 1600,
+    "foto": "https://i.postimg.cc/0QGFqK5w/IMG-8057.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 364,
+    "nombre": "CABLE RCA DE 3 A 3",
+    "precio": 1150,
+    "foto": "https://i.postimg.cc/TY17t4bC/IMG-8058.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 365,
+    "nombre": "CABLE DE AUDIO DE 2 A 1",
+    "precio": 900,
+    "foto": "https://i.postimg.cc/h4yMQ1Yr/IMG-8059.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 366,
+    "nombre": "CABLE HDMI A V8",
+    "precio": 2800,
+    "foto": "https://i.postimg.cc/7hf3njRC/IMG-8060.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 367,
+    "nombre": "CABLE HDMI 3 MTS",
+    "precio": 2900,
+    "foto": "https://i.postimg.cc/x8JmzMk6/IMG-8061.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 368,
+    "nombre": "CABLE AUXILIAR COLORES 1MT",
+    "precio": 850,
+    "foto": "https://i.postimg.cc/rmz0Bx9V/IMG-8062.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 369,
+    "nombre": "ADAPTADOR OTG DE TIPO C A V8",
+    "precio": 850,
+    "foto": "https://i.postimg.cc/y8zQXXmm/IMG-8063.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 370,
+    "nombre": "ADAPTADOR OTG USB A V8",
+    "precio": 800,
+    "foto": "https://i.postimg.cc/5N5q1cz0/IMG-8064.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 371,
+    "nombre": "ADAPTADOR VINCHA GAMER A PS4",
+    "precio": 500,
+    "foto": "https://i.postimg.cc/xdXzXBXT/55957e56-ec92-4df2-9cdd-f4d07c48165c.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 372,
+    "nombre": "ADAPTADOR DE PC A PS4",
+    "precio": 500,
+    "foto": "https://i.postimg.cc/L6vYNmfC/ee8e66dd-4f36-4dea-b2ae-4939dca0d577.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 373,
+    "nombre": "CARGADOR V8 IBEK 3.8",
+    "precio": 2750,
+    "foto": "https://i.postimg.cc/GtR08wmG/IMG-8070.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 374,
+    "nombre": "CARGADOR TIPO C IBEK 3.8",
+    "precio": 2850,
+    "foto": "https://i.postimg.cc/GtR08wmG/IMG-8070.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 375,
+    "nombre": "CARGADOR TIPO C AITECH 5.8 CARGA RAPIDA",
+    "precio": 4350,
+    "foto": "https://i.postimg.cc/T1tkRZyj/IMG-8072.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 376,
+    "nombre": "CARGADOR TIPO C 3.1 CON CABLE DESMONTABLE",
+    "precio": 2850,
+    "foto": "https://i.postimg.cc/g0yHzfQX/IMG-8073.png",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 377,
+    "nombre": "CARGADOR V8 3.1 CON CABLE DESMONTABLE",
+    "precio": 2750,
+    "foto": "https://i.postimg.cc/635n9Tds/IMG-8075.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 378,
+    "nombre": "CARGADOR CABEZAL KOSMO 2 AMP",
+    "precio": 2800,
+    "foto": "https://i.postimg.cc/0QFYcPwb/IMG-8077.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 379,
+    "nombre": "CARGADOR POWER BANK IBEK 20.000 AMP",
+    "precio": 21500,
+    "foto": "https://i.postimg.cc/PfDYdGDN/IMG-8078.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 380,
+    "nombre": "CARGADOR UNIVERSAL DIGITAL",
+    "precio": 2300,
+    "foto": "https://i.postimg.cc/fy7VmN7B/IMG-8079.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 381,
+    "nombre": "ALARGUE 4 USB + 4 ENCHUFE + 2 TIPO C",
+    "precio": 18500,
+    "foto": "https://i.postimg.cc/jjJdyTtg/IMG-8080.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 382,
+    "nombre": "ENCHUFE + 2 USB CON SOPORTE CELULAR",
+    "precio": 5200,
+    "foto": "https://i.postimg.cc/J7TV7gWs/IMG-8081.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 383,
+    "nombre": "TESTER DIGITAL",
+    "precio": 5500,
+    "foto": "https://i.postimg.cc/HxFpxPfb/IMG-8082.jpg",
+    "categoria": "ELECTRICIDAD",
+    "suspendido": false
+  },
+  {
+    "id": 384,
+    "nombre": "CABEZAL ADAPTADOR ENCHUFE",
+    "precio": 750,
+    "foto": "https://i.postimg.cc/FzPwzfdX/IMG-8083.jpg",
+    "categoria": "ELECTRICIDAD",
+    "suspendido": false
+  },
+  {
+    "id": 385,
+    "nombre": "PORTA LAMPARA",
+    "precio": 1250,
+    "foto": "https://i.postimg.cc/JnrTXrWw/IMG-8084.jpg",
+    "categoria": "ELECTRICIDAD",
     "suspendido": false
   }
 ]
