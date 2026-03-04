@@ -3182,5 +3182,13 @@
     "foto": "https://i.postimg.cc/1tfnDFxZ/dd92a749-c796-47d5-a300-fa1c1d7f1aa7.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
+  },
+  {
+    "id": 543,
+    "nombre": "PARLANTE BT INALAMBRICO GTS 2159",
+    "precio": 8500,
+    "foto": "https://i.postimg.cc/vByXM9B8/IMG-20260304-164257.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
   }
 ]
