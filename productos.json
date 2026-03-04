@@ -290,7 +290,7 @@
   {
     "id": 47,
     "nombre": "PARLANTE BT INALAMBRICO GTS 2166 3\"",
-    "precio": 5800,
+    "precio": 7300,
     "foto": "https://i.postimg.cc/9fVbJ69C/PARLAN.png",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -357,7 +357,7 @@
     "precio": 5500,
     "foto": "https://i.postimg.cc/Z5PW6zGV/S20B.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 78,
@@ -394,10 +394,10 @@
   {
     "id": 86,
     "nombre": "SET DE DUCHA DE MANO",
-    "precio": 5400,
+    "precio": 4800,
     "foto": "https://i.postimg.cc/rsbfGrrX/SH-60.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "categoria": "HOGAR",
+    "suspendido": false
   },
   {
     "id": 87,
@@ -578,10 +578,10 @@
   {
     "id": 123,
     "nombre": "CORTA PELO RECARGABLE+LINTERNA",
-    "precio": 8700,
+    "precio": 7900,
     "foto": "https://i.postimg.cc/qR00LcQV/CRT-110017.jpg",
     "categoria": "ACCESORIOS MASCULINOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 127,
@@ -693,15 +693,15 @@
     "precio": 3500,
     "foto": "https://i.postimg.cc/RV0QbyBH/pelota2.jpg",
     "categoria": "NIÑOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 149,
     "nombre": "PARAGUAS DISEÑO INFANTIL",
-    "precio": 4385,
+    "precio": 4200,
     "foto": "https://i.postimg.cc/y86ksZZT/B-505.jpg",
     "categoria": "NIÑOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 150,
@@ -714,18 +714,18 @@
   {
     "id": 151,
     "nombre": "PIZARRA 8.5\"  PERSONAJES",
-    "precio": 4200,
+    "precio": 2700,
     "foto": "https://i.postimg.cc/zGT0Z4Th/PIZ-140-N13.jpg",
     "categoria": "NIÑOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 156,
     "nombre": "VELADOR BROCHE PINZA",
-    "precio": 7795,
+    "precio": 7300,
     "foto": "https://i.postimg.cc/R0hDKXjb/VEL-81053.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 159,
@@ -1005,15 +1005,15 @@
     "precio": 7900,
     "foto": "https://i.postimg.cc/Pqtx2kS5/MA200.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 206,
     "nombre": "TECLADO INALAMBRICO COLOR",
-    "precio": 14000,
+    "precio": 13500,
     "foto": "https://i.postimg.cc/Dz97RkgG/150T08.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 208,
@@ -1100,7 +1100,7 @@
     "nombre": "KIT AURICULAR Y RELOJ SMART C/MALLA INTERCAMBIABLE",
     "precio": 22400,
     "foto": "https://i.postimg.cc/nzWG0zZv/RELOS-7-MALLAS.jpg",
-    "categoria": "RELOJES",
+    "categoria": "TECNOLOGIA",
     "suspendido": false
   },
   {
@@ -1108,7 +1108,7 @@
     "nombre": "RELOJ SMARTWATCH ULTRA 10 BIG C/ 7 MALLAS",
     "precio": 14800,
     "foto": "https://i.postimg.cc/QCtxx8Wn/TH7-3.jpg",
-    "categoria": "RELOJES",
+    "categoria": "TECNOLOGIA",
     "suspendido": false
   },
   {
@@ -1313,7 +1313,7 @@
   },
   {
     "id": 291,
-    "nombre": "SOPORTE TV REFORZADO BRAZO FLEXIBLE 14-65 PLG",
+    "nombre": "SOPORTE TV REFORZADO BRAZO FLEXIBLE 14-55 PLG",
     "precio": 11700,
     "foto": "https://i.postimg.cc/3wMz5Yht/soportetv.jpg",
     "categoria": "VARIOS",
@@ -1322,10 +1322,10 @@
   {
     "id": 292,
     "nombre": "RELOJ DIGITAL ALARMA/FECHA/TERMOMETRO",
-    "precio": 4100,
+    "precio": 3900,
     "foto": "https://i.postimg.cc/nzZ9Nzrt/reloj.jpg",
-    "categoria": "RELOJES",
-    "suspendido": true
+    "categoria": "TECNOLOGIA",
+    "suspendido": false
   },
   {
     "id": 293,
@@ -2525,7 +2525,7 @@
     "precio": 6100,
     "foto": "https://i.postimg.cc/wTx9V6Mw/2c242dfe-de36-4ec6-a392-860dfef2dbca.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 461,
@@ -2933,6 +2933,254 @@
     "precio": 11200,
     "foto": "https://i.postimg.cc/XJ37wndY/IMG-8238.jpg",
     "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 512,
+    "nombre": "PENDRIVE SANDISK 16 GB",
+    "precio": 10800,
+    "foto": "https://i.postimg.cc/QxWCGY8F/700ff112-7619-4110-b08c-eea406a85422.jpg",
+    "categoria": "MEMORIA Y PENDRIVE",
+    "suspendido": false
+  },
+  {
+    "id": 513,
+    "nombre": "PENDRIVE SANDISK 32 GB",
+    "precio": 15400,
+    "foto": "https://i.postimg.cc/zDhv4PXf/d9f2d3d5-738d-4048-b762-6734611f00a2.jpg",
+    "categoria": "MEMORIA Y PENDRIVE",
+    "suspendido": false
+  },
+  {
+    "id": 514,
+    "nombre": "PENDRIVE SANDISK 64 GB",
+    "precio": 16200,
+    "foto": "https://i.postimg.cc/fL9WnJZ4/1842a881-d064-45f1-9b8d-61ef109831c4.jpg",
+    "categoria": "MEMORIA Y PENDRIVE",
+    "suspendido": false
+  },
+  {
+    "id": 515,
+    "nombre": "PENDRIVE SANDISK 128 GB",
+    "precio": 23000,
+    "foto": "https://i.postimg.cc/FsD46jcr/2459d471-795d-4e14-ac10-58aad0c8b72c.jpg",
+    "categoria": "MEMORIA Y PENDRIVE",
+    "suspendido": false
+  },
+  {
+    "id": 516,
+    "nombre": "PENDRIVE KINGSTON 64 GB",
+    "precio": 18200,
+    "foto": "https://i.postimg.cc/TwqSD6JG/756fa3d8-ac81-4744-8fa5-da8d7d4658e9.jpg",
+    "categoria": "MEMORIA Y PENDRIVE",
+    "suspendido": false
+  },
+  {
+    "id": 517,
+    "nombre": "MEMORIA SANDISK 16 GB",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/nV3SbTRf/c21d5071-657a-4d72-b9a3-f1ad63034f9d.jpg",
+    "categoria": "MEMORIA Y PENDRIVE",
+    "suspendido": false
+  },
+  {
+    "id": 518,
+    "nombre": "MEMORIA SANDISK 32 GB",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/RVjR4Yw7/f27526a9-22b6-4f82-9904-5c51c9fb26bf.jpg",
+    "categoria": "MEMORIA Y PENDRIVE",
+    "suspendido": false
+  },
+  {
+    "id": 519,
+    "nombre": "MEMORIA SANDISK 64 GB",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/gc7yH7tw/651723b6-772d-4f95-bf1d-d691ab11c2c7.jpg",
+    "categoria": "MEMORIA Y PENDRIVE",
+    "suspendido": false
+  },
+  {
+    "id": 520,
+    "nombre": "MEMORIA SANDISK 128 GB",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/266v4d48/04fe86c2-b2c5-4368-9d67-4891c40cafa5.jpg",
+    "categoria": "MEMORIA Y PENDRIVE",
+    "suspendido": false
+  },
+  {
+    "id": 521,
+    "nombre": "SOPORTE AUTO MAGNETICO",
+    "precio": 5300,
+    "foto": "https://i.postimg.cc/RZXmJwGM/IMG-8250.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 522,
+    "nombre": "SOPORTE CELULAR PINZA",
+    "precio": 1000,
+    "foto": "https://i.postimg.cc/CK3QR1ym/IMG-8251.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 523,
+    "nombre": "SOPORTE CELULAR AUTO FLEXIBLE",
+    "precio": 2350,
+    "foto": "https://i.postimg.cc/h4r2BMG8/IMG-8252.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 524,
+    "nombre": "SOPORTE CELULAR AUTO",
+    "precio": 2600,
+    "foto": "https://i.postimg.cc/bvkRF9M2/IMG-8253.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 525,
+    "nombre": "ORGANIZADOR DE AUTOS",
+    "precio": 5400,
+    "foto": "https://i.postimg.cc/mk5MrPqv/IMG-8254.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 526,
+    "nombre": "PARAGUAS ARGENTINA",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/vBD2J0nL/f57064e4-ee5f-4375-98c9-974abca997f9.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 527,
+    "nombre": "CORNETA TRIPLE SONIDO 18 CM",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/sgcn1k9K/4c4f8ccf-dfb9-44a4-88a5-a4c4812780ee.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 528,
+    "nombre": "CORNETA BOCINA CON BANDERA",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/dQrjhMJ0/daa5fb3a-0d3f-4296-863e-4beed7061ce1.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 529,
+    "nombre": "VUVUZELA MEDIANA 34 CM",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/TP5WBmwL/7dfbea7c-5986-4cfb-ae46-5f9475f20e05.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 530,
+    "nombre": "CORNETA 20 CM",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/5y4y9Fxk/ea95d074-d4d6-4a1c-ac25-9d0720148f7e.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 531,
+    "nombre": "GORRO ARLEQUIN 3 PUNTAS",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/8PqGtrqZ/7afe5490-2836-4fa4-ba5d-d43fc505bb8c.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 532,
+    "nombre": "VINCHA CON BANDERA MUNDIAL",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/tR8Rmf6v/aa5d4196-58c0-42ac-9931-131bd308a8ba.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 533,
+    "nombre": "VUVUZELA CHICA MUNDIAL 18 CM",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/y6RCWNJD/4611ef83-eb50-46aa-8a7f-9386ca7c8710.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 534,
+    "nombre": "GORRO PILUSO",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/Zn8QHCpm/80d5c8d2-44a8-4f13-ae59-97ab1eb75061.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 535,
+    "nombre": "VUVUZELA CURVA ARGENTINA MUNDIAL",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/J05TJSV2/acdf010f-b209-43ae-a653-9b6b90cf87d1.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 536,
+    "nombre": "VUVUZELA GRANDE MUNDIAL 42 CM",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/j2cXCNPm/bdd102e0-706c-4abb-ac58-49e55e3ac8af.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 537,
+    "nombre": "VUVUZELA GRANDE",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/cJ3BwPff/dbb08f7f-fdc6-4d91-8610-070296d69d5b.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 538,
+    "nombre": "MANITOS APLAUDIDORA",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/c45RjdhN/5562ab51-c404-411a-b89b-d8eb7f59a637.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 539,
+    "nombre": "BANDERA AUTO ARGENTINA",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/6qbvDhdn/e1c1aef3-6345-479f-affb-5ac83276b0c4.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 540,
+    "nombre": "BANDERA AUTO",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/DyWJSLrP/db1ed6b7-f289-40a1-b2d5-d38538babd9f.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 541,
+    "nombre": "CORNETA MUNDIAL",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/VkQ65TLS/196376ad-05d7-47ff-8f8d-7ea4472d1755.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 542,
+    "nombre": "CORNETA PELOTA TRIPLE SONIDO 22 CM",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/1tfnDFxZ/dd92a749-c796-47d5-a300-fa1c1d7f1aa7.jpg",
+    "categoria": "MUNDIAL",
     "suspendido": false
   }
 ]
