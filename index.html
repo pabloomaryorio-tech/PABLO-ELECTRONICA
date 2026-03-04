@@ -464,6 +464,7 @@
                     id: producto.id,
                     nombre: producto.nombre,
                     precio: producto.precio,
+                    foto: producto.foto, // CAMBIO: GUARDAR FOTO PARA CARRITO
                     cantidad: cantidad
                 });
             }
@@ -472,6 +473,21 @@
             renderizarCarrito();
             actualizarContadorCarrito();
             Swal.fire({ toast: true, position: 'top-end', icon: 'success', title: '¡PRODUCTO AGREGADO!', showConfirmButton: false, timer: 1500 });
+        };
+
+        const cambiarCantidadCarrito = (productoId, nuevaCantidad) => {
+            const cantidad = parseInt(nuevaCantidad);
+            if (isNaN(cantidad) || cantidad <= 0) {
+                eliminarDelCarrito(productoId);
+                return;
+            }
+            const item = carrito.find(item => item.id === productoId);
+            if (item) {
+                item.cantidad = cantidad;
+                guardarCarrito();
+                renderizarCarrito();
+                actualizarContadorCarrito();
+            }
         };
 
         const renderizarCarrito = () => {
@@ -494,9 +510,15 @@
                 const divItem = document.createElement('div');
                 divItem.className = 'carrito-item';
                 divItem.innerHTML = `
-                    <div>
-                        <strong>${item.nombre}</strong><br>
-                        <small>$${item.precio.toFixed(2)} x ${item.cantidad}</small>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                        <img src="${item.foto}" style="width: 40px; height: 40px; object-fit: cover; border-radius: 4px;" onerror="this.src='https://placehold.co/40x40';">
+                        <div>
+                            <strong>${item.nombre}</strong><br>
+                            <small>$${item.precio.toFixed(2)} x </small>
+                            <input type="number" value="${item.cantidad}" min="1" 
+                                style="width: 60px; padding: 2px; border: 1px solid var(--color-borde); border-radius: 4px;"
+                                onchange="cambiarCantidadCarrito(${item.id}, this.value)">
+                        </div>
                     </div>
                     <div>
                         <span style="font-weight:bold; margin-right: 15px;">$${subtotal.toFixed(2)}</span>
@@ -517,12 +539,29 @@
         };
 
         const vaciarCarrito = () => {
-            if (confirm("¿ESTÁ SEGURO DE QUE DESEA VACIAR EL CARRITO?")) {
-                carrito = [];
-                guardarCarrito();
-                renderizarCarrito();
-                actualizarContadorCarrito();
-            }
+            Swal.fire({
+                title: '¿ESTÁS SEGURO?',
+                text: "SE BORRARÁN TODOS LOS PRODUCTOS DEL CARRITO",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonColor: '#191970',
+                cancelButtonColor: '#d33',
+                confirmButtonText: 'SÍ, VACIAR',
+                cancelButtonText: 'CANCELAR'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    carrito = [];
+                    guardarCarrito();
+                    renderizarCarrito();
+                    actualizarContadorCarrito();
+                    Swal.fire({
+                        title: 'VACIADO',
+                        text: 'TU CARRITO ESTÁ VACÍO.',
+                        icon: 'success',
+                        confirmButtonColor: '#191970'
+                    });
+                }
+            });
         };
 
         const guardarCarrito = () => {
@@ -538,11 +577,11 @@
             const nombreCliente = document.getElementById('nombre-cliente-whatsapp').value.trim();
             
             if (carrito.length === 0) {
-                alert("EL CARRITO ESTÁ VACÍO.");
+                Swal.fire({ title: "CARRITO VACÍO", text: "POR FAVOR, AGREGA PRODUCTOS PRIMERO.", icon: "info", confirmButtonColor: "#191970" });
                 return;
             }
             if (nombreCliente === "") {
-                alert("POR FAVOR, INGRESE SU NOMBRE PARA EL PEDIDO.");
+                Swal.fire({ title: "FALTA TU NOMBRE", text: "POR FAVOR, INGRESA TU NOMBRE PARA EL PEDIDO.", icon: "warning", confirmButtonColor: "#191970" });
                 return;
             }
 
@@ -593,8 +632,16 @@
             filtrados.forEach(p => {
                 const div = document.createElement('div');
                 div.className = `admin-producto-item ${p.suspendido ? 'admin-producto-suspendido' : ''}`;
+                
+                // CAMBIO: ESTILO PARA MOSTRAR FOTO A LA IZQUIERDA EN ADMIN
+                div.style.display = 'flex';
+                div.style.alignItems = 'center';
+                div.style.gap = '15px';
+
                 div.innerHTML = `
-                    <div class="admin-producto-info">
+                    <img src="${p.foto}" style="width: 50px; height: 50px; object-fit: cover; border-radius: 4px; border: 1px solid #ddd;" onerror="this.src='https://placehold.co/50x50';">
+                    
+                    <div class="admin-producto-info" style="flex-grow: 1;">
                         <strong>[ID: ${p.id}] ${p.nombre}</strong> - $${p.precio.toFixed(2)}<br>
                         <small>CAT: ${p.categoria} | ${p.suspendido ? '🔴 SIN STOCK' : '🟢 CON STOCK'}</small>
                     </div>
@@ -741,4 +788,3 @@
     </script>
 </body>
 </html>
-
