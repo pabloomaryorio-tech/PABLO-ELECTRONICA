@@ -259,7 +259,7 @@
     "id": 43,
     "nombre": "CABLE USB TIPO C 3.0 MOTO",
     "precio": 1500,
-    "foto": "https://i.postimg.cc/cL2zVdDQ/Captura-de-pantalla-2025-09-11-195558.png",
+    "foto": "https://i.postimg.cc/26399Z4H/398b63d6-d961-4c55-ad34-98027b959dcf.jpg",
     "categoria": "CABLES",
     "suspendido": false
   },
@@ -267,7 +267,7 @@
     "id": 44,
     "nombre": "CABLE USB V8 3.0 MOTO",
     "precio": 1450,
-    "foto": "https://i.postimg.cc/YS764V05/Captura-de-pantalla-2025-09-11-195733.png",
+    "foto": "https://i.postimg.cc/8zBhG0y8/84bd91c3-4158-4f6a-8975-ffe1758c8649.jpg",
     "categoria": "CABLES",
     "suspendido": false
   },
@@ -310,22 +310,6 @@
     "foto": "https://i.postimg.cc/3rqG6Gdx/PARLANTEL-UZ.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
-  },
-  {
-    "id": 50,
-    "nombre": "PARLANTE BT 4X2 PLG C/MICROFONO MP3/FM",
-    "precio": 30600,
-    "foto": "https://i.postimg.cc/Z5r5wzzp/PARLANTE.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": true
-  },
-  {
-    "id": 58,
-    "nombre": "PARLANTE BT INALAMBRICO C/MICROFONO 4PLG KTS 1916",
-    "precio": 15300,
-    "foto": "https://i.postimg.cc/3RhS0kRw/KTS-1916.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": true
   },
   {
     "id": 59,
@@ -704,14 +688,6 @@
     "suspendido": false
   },
   {
-    "id": 145,
-    "nombre": "TENSIOMETRO",
-    "precio": 17600,
-    "foto": "https://i.postimg.cc/W3P0RZmM/Captura-de-pantalla-2025-09-11-175949.png",
-    "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
     "id": 146,
     "nombre": "PELOTA DE FUTBOL N°2 PERSONAJES",
     "precio": 3500,
@@ -741,14 +717,6 @@
     "precio": 4200,
     "foto": "https://i.postimg.cc/zGT0Z4Th/PIZ-140-N13.jpg",
     "categoria": "NIÑOS",
-    "suspendido": true
-  },
-  {
-    "id": 153,
-    "nombre": "VENTILADOR RECARGABLE HR2490",
-    "precio": 5600,
-    "foto": "https://i.postimg.cc/5NRVCmDh/VENTI.png",
-    "categoria": "VARIOS",
     "suspendido": true
   },
   {
@@ -849,7 +817,7 @@
   },
   {
     "id": 177,
-    "nombre": "LUZ DE BICI X 2PCS",
+    "nombre": "LUZ DE BICI X 2 PIEZAS",
     "precio": 2100,
     "foto": "https://i.postimg.cc/ZYfHfLXq/luz-bici.png",
     "categoria": "ILUMINACION",
@@ -1248,16 +1216,8 @@
     "suspendido": false
   },
   {
-    "id": 259,
-    "nombre": "MICROFONO KARAOKE EFECTO DE VOZ",
-    "precio": 7600,
-    "foto": "https://i.postimg.cc/j2PHCbvN/micro.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": false
-  },
-  {
     "id": 260,
-    "nombre": "POPPIT ELECTRONICO DE MEMORIA C/LUZ/SONIDO",
+    "nombre": "POP IT ELECTRONICO DE MEMORIA C/LUZ/SONIDO",
     "precio": 5500,
     "foto": "https://i.postimg.cc/MTjRrwkx/popit.jpg",
     "categoria": "NIÑOS",
@@ -1297,7 +1257,7 @@
   },
   {
     "id": 276,
-    "nombre": "PELOTA  DE FUTBOL N°5 DE ARGENTINA",
+    "nombre": "PELOTA  DE FUTBOL N°5 DE MUNDIAL",
     "precio": 8400,
     "foto": "https://i.postimg.cc/NGSx80dt/IMG-8173.jpg",
     "categoria": "NIÑOS",
@@ -1627,7 +1587,7 @@
     "id": 343,
     "nombre": "ORGANIZADOR DE JOYAS CON ESPEJO",
     "precio": 3300,
-    "foto": "https://i.postimg.cc/52DHdZTm/IMG-8032.jpg",
+    "foto": "https://i.postimg.cc/6QcLrmRL/IMG-8231.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
     "suspendido": false
   },
@@ -2321,7 +2281,7 @@
   },
   {
     "id": 430,
-    "nombre": "LINTERNA LEDUSB RECARGABLE S 65",
+    "nombre": "LINTERNA LED USB RECARGABLE S 65",
     "precio": 6250,
     "foto": "https://i.postimg.cc/ryYPZVYr/IMG-8148.jpg",
     "categoria": "ILUMINACION",
@@ -2443,7 +2403,7 @@
     "id": 445,
     "nombre": "TIRA LED RGB 50 X 50   5MT",
     "precio": 9700,
-    "foto": "https://i.postimg.cc/ZY2hBxmQ/IMG-8154.jpg",
+    "foto": "https://i.postimg.cc/nhc41tKP/ba64385e-a8ff-4387-ad68-f011c00ef7fc.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
   },
@@ -2465,7 +2425,7 @@
   },
   {
     "id": 448,
-    "nombre": "CALCULADORA KARUIDA 12 DIGITOS KK8835",
+    "nombre": "CALCULADORA KARUIDA 12 DIGITOS KK 8835",
     "precio": 4650,
     "foto": "https://i.postimg.cc/BQCbxzvx/IMG-8160.jpg",
     "categoria": "LIBRERIA",
@@ -2473,7 +2433,7 @@
   },
   {
     "id": 449,
-    "nombre": "CALCULADORA KK402",
+    "nombre": "CALCULADORA 8 DIGITOS KK 402",
     "precio": 1800,
     "foto": "https://i.postimg.cc/BbBSB84w/IMG-8161.jpg",
     "categoria": "LIBRERIA",
@@ -2537,7 +2497,7 @@
   },
   {
     "id": 457,
-    "nombre": "PILAS AAA X2 RECARGABLE NOGA",
+    "nombre": "PILAS AAA X 2 RECARGABLE NOGA",
     "precio": 4950,
     "foto": "https://i.postimg.cc/qv8LX43y/IMG-8169.jpg",
     "categoria": "LIBRERIA",
@@ -2545,7 +2505,7 @@
   },
   {
     "id": 458,
-    "nombre": "PILAS AA X2 RECARGABLE NOGA",
+    "nombre": "PILAS AA X 2 RECARGABLE NOGA",
     "precio": 7550,
     "foto": "https://i.postimg.cc/RZz10yDW/IMG-8170.jpg",
     "categoria": "LIBRERIA",
@@ -2603,7 +2563,7 @@
     "id": 465,
     "nombre": "BOMBA DISPENSER CON LUZ",
     "precio": 6550,
-    "foto": "https://i.postimg.cc/s21FLcZp/IMG-8176.jpg",
+    "foto": "https://i.postimg.cc/T3G7MSVH/4e529e53-49c2-4252-ad5b-da4b2deb0bf4.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -2667,7 +2627,7 @@
     "id": 473,
     "nombre": "PELA PAPAS",
     "precio": 1300,
-    "foto": "https://i.postimg.cc/gJDv6vgz/IMG-8203.jpg",
+    "foto": "https://i.postimg.cc/65xznS1z/IMG-8235.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -2761,7 +2721,7 @@
   },
   {
     "id": 485,
-    "nombre": "CONTROL UNIVERSAL",
+    "nombre": "CONTROL REMOTO UNIVERSAL TV COMUN",
     "precio": 2950,
     "foto": "https://i.postimg.cc/L82gjqZh/IMG-8192.jpg",
     "categoria": "HOGAR",
@@ -2769,7 +2729,7 @@
   },
   {
     "id": 486,
-    "nombre": "CONTROL DE AIRE",
+    "nombre": "CONTROL REMOTO UNIVERSAL DE AIRE ACONDICIONADO",
     "precio": 3900,
     "foto": "https://i.postimg.cc/QdhKcBWC/IMG-8193.jpg",
     "categoria": "HOGAR",
@@ -2841,7 +2801,7 @@
   },
   {
     "id": 495,
-    "nombre": "PARLANTE BT INALAMBRICO GTAS 2265",
+    "nombre": "PARLANTE BT INALAMBRICO GTS 2265",
     "precio": 9950,
     "foto": "https://i.postimg.cc/pV0nKVJ9/IMG-8213.jpg",
     "categoria": "PARLANTES",
@@ -2956,6 +2916,22 @@
     "nombre": "MICROFONO KARAOKE",
     "precio": 7600,
     "foto": "https://i.postimg.cc/c6yK6CfB/IMG-8227.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 510,
+    "nombre": "CARTEL LUMINICO ABIERTO",
+    "precio": 14000,
+    "foto": "https://i.postimg.cc/J4RZ1WFz/d9b99bc1-a446-43ef-a38a-b8af90af2128.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 511,
+    "nombre": "PARLANTE BT INALAMBRICO GTS 2083",
+    "precio": 11200,
+    "foto": "https://i.postimg.cc/XJ37wndY/IMG-8238.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
   }
