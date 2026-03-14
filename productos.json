@@ -17,7 +17,7 @@
   },
   {
     "id": 4,
-    "nombre": "CARGADOR I PHONE ROYALCELL 5.0 AMP",
+    "nombre": "CARGADOR ROYALCELL I PHONE 5.0 AMP",
     "precio": 4350,
     "foto": "https://i.postimg.cc/PxSyymsB/cargador5A.jpg",
     "categoria": "CARGADORES",
@@ -33,7 +33,7 @@
   },
   {
     "id": 9,
-    "nombre": "CARGADOR 20W USB C + C/ CABLE TIPO C A TIPO C",
+    "nombre": "CARGADOR 20W USB C + CABLE TIPO C A TIPO C",
     "precio": 4300,
     "foto": "https://i.postimg.cc/fLzFcbZz/TMCC408.jpg",
     "categoria": "CARGADORES",
@@ -57,7 +57,7 @@
   },
   {
     "id": 12,
-    "nombre": "CARGADOR CABEZAL DE AUTO CARGA RAPIDA 3.1 USB +2 C",
+    "nombre": "CARGADOR CABEZAL DE AUTO CARGA RAPIDA 3.1 USB + 2 C",
     "precio": 2950,
     "foto": "https://i.postimg.cc/Wz956m8S/CAR-53004.jpg",
     "categoria": "CARGADORES",
@@ -65,7 +65,7 @@
   },
   {
     "id": 13,
-    "nombre": "CARGADOR DE AUTO PD 20W USB + TIPO C",
+    "nombre": "CARGADOR CABEZAL DE AUTO PD 20W USB + TIPO C",
     "precio": 4100,
     "foto": "https://i.postimg.cc/vHRNJ8fX/CAR-53001.jpg",
     "categoria": "CARGADORES",
@@ -113,7 +113,7 @@
   },
   {
     "id": 19,
-    "nombre": "CARGADOR CQABEZAL PREMIUM 3.1 TIPO C 2USB",
+    "nombre": "CARGADOR CABEZAL PREMIUM 3.1 TIPO C 2 USB",
     "precio": 3450,
     "foto": "https://i.postimg.cc/02Vpj2XG/TMCC818.jpg",
     "categoria": "CARGADORES",
@@ -201,7 +201,7 @@
   },
   {
     "id": 35,
-    "nombre": "CABLE AUXILIAR 1,5M BOLSA",
+    "nombre": "CABLE AUXILIAR 1,5 M BOLSA",
     "precio": 850,
     "foto": "https://i.postimg.cc/Mphrk22Q/Whats-App-Image-2025-09-10-at-20-57-07-1.jpg",
     "categoria": "CABLES",
@@ -217,7 +217,7 @@
   },
   {
     "id": 37,
-    "nombre": "CABLE AUXILIAR 3M",
+    "nombre": "CABLE AUXILIAR 3 MTS. BOLSA",
     "precio": 1400,
     "foto": "https://i.postimg.cc/K8SLVVP1/Captura-de-pantalla-2025-09-11-200114.png",
     "categoria": "CABLES",
@@ -409,7 +409,7 @@
   },
   {
     "id": 88,
-    "nombre": "SET X3 PELA PAPAS/DESTAPADOR/CUCHILLA",
+    "nombre": "SET X 3 PELA PAPAS/DESTAPADOR/CUCHILLA",
     "precio": 3450,
     "foto": "https://i.postimg.cc/TYLCGdj3/Captura-de-pantalla-2025-09-11-172211.png",
     "categoria": "HOGAR",
@@ -489,7 +489,7 @@
   },
   {
     "id": 106,
-    "nombre": "ESPEJO METAL AUMENTO 7´",
+    "nombre": "ESPEJO METAL + ZOOM DE 7´",
     "precio": 2900,
     "foto": "https://i.postimg.cc/4yCnJ5PW/MIRROR.png",
     "categoria": "ACCESORIOS FEMENINOS",
@@ -497,7 +497,7 @@
   },
   {
     "id": 107,
-    "nombre": "ESPEJO LED LUZ FRIA  A PILA Y USB REDCARGFABLE",
+    "nombre": "ESPEJO LED LUZ FRIA  A PILA Y USB RECARGABLE",
     "precio": 11000,
     "foto": "https://i.postimg.cc/qM00tvwj/ESP-91013.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
@@ -521,7 +521,7 @@
   },
   {
     "id": 111,
-    "nombre": "PERFILADOR DE CEJAS SET X3",
+    "nombre": "PERFILADOR DE CEJAS SET X 3",
     "precio": 1100,
     "foto": "https://i.postimg.cc/TPvXdjzL/RA001.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
@@ -577,7 +577,7 @@
   },
   {
     "id": 123,
-    "nombre": "CORTA PELO RECARGABLE+LINTERNA",
+    "nombre": "CORTA PELO RECARGABLE + LINTERNA",
     "precio": 7900,
     "foto": "https://i.postimg.cc/qR00LcQV/CRT-110017.jpg",
     "categoria": "ACCESORIOS MASCULINOS",
@@ -657,7 +657,7 @@
   },
   {
     "id": 140,
-    "nombre": "PILAS AAA X 4 UNIDADES",
+    "nombre": "PILAS AAA  PAQUETES X 4 UNIDADES",
     "precio": 850,
     "foto": "https://i.postimg.cc/3wdMKSRZ/EEL0140.jpg",
     "categoria": "LIBRERIA",
@@ -681,7 +681,7 @@
   },
   {
     "id": 143,
-    "nombre": "PILAS AA PAQUETES X 4",
+    "nombre": "PILAS AA PAQUETES X 4 UNIDADES",
     "precio": 850,
     "foto": "https://i.postimg.cc/Vs9hcQg8/OR-0155.jpg",
     "categoria": "LIBRERIA",
@@ -716,7 +716,7 @@
     "nombre": "PIZARRA 8.5\"  PERSONAJES",
     "precio": 2700,
     "foto": "https://i.postimg.cc/zGT0Z4Th/PIZ-140-N13.jpg",
-    "categoria": "NIÑOS",
+    "categoria": "LIBRERIA",
     "suspendido": false
   },
   {
@@ -825,7 +825,7 @@
   },
   {
     "id": 179,
-    "nombre": "TIRA LED RGB 28 X 35 , 5 MTS.",
+    "nombre": "TIRA LED RGB 28 X 35 X 5 MTS.",
     "precio": 6300,
     "foto": "https://i.postimg.cc/DfGpFWrH/LED-9727.jpg",
     "categoria": "ILUMINACION",
@@ -833,7 +833,7 @@
   },
   {
     "id": 180,
-    "nombre": "CADENA LINGA CON CANDADO PARA MOTO /BIC",
+    "nombre": "CADENA CANDADO LINGA GRUESA PARA MOTO /BIC",
     "precio": 13270,
     "foto": "https://i.postimg.cc/J09K4h21/LINGA.jpg",
     "categoria": "HERRAMIENTAS",
@@ -841,7 +841,7 @@
   },
   {
     "id": 181,
-    "nombre": "CANDADO MALETERO 25 MM EN CAJITA",
+    "nombre": "CANDADO DE 25 MM MALETERO",
     "precio": 1200,
     "foto": "https://i.postimg.cc/jdHv7zmY/K20MM.jpg",
     "categoria": "HERRAMIENTAS",
@@ -849,7 +849,7 @@
   },
   {
     "id": 182,
-    "nombre": "CANDADO MEDIANO 38 MM",
+    "nombre": "CANDADO DE 38 MM MEDIANO ",
     "precio": 1650,
     "foto": "https://i.postimg.cc/vHhfyXCT/0360.jpg",
     "categoria": "HERRAMIENTAS",
@@ -857,7 +857,7 @@
   },
   {
     "id": 183,
-    "nombre": "CANDADO GRANDE DE 50 MM",
+    "nombre": "CANDADO DE 50 MM GRANDE ",
     "precio": 2650,
     "foto": "https://i.postimg.cc/tgKVkcnS/C265.jpg",
     "categoria": "HERRAMIENTAS",
@@ -889,17 +889,9 @@
   },
   {
     "id": 187,
-    "nombre": "CINTA METRICA X 7.5 METROS",
+    "nombre": "CINTA METRICA X 7.5 MTS.",
     "precio": 4750,
     "foto": "https://i.postimg.cc/mDnpmByx/1903.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
-    "id": 188,
-    "nombre": "CUTTER REFORZADO",
-    "precio": 1450,
-    "foto": "https://i.postimg.cc/W3s8js9h/Whats-App-Image-2025-09-10-at-20-57-07.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
@@ -985,7 +977,7 @@
   },
   {
     "id": 203,
-    "nombre": "JOSTICK PLAY 2",
+    "nombre": "JOYSTICK PLAY 2",
     "precio": 9800,
     "foto": "https://i.postimg.cc/JhNH1JgQ/Whats-App-Image-2025-09-10-at-20-57-10-3.jpg",
     "categoria": "COMPUTACION",
@@ -1144,14 +1136,6 @@
     "suspendido": false
   },
   {
-    "id": 242,
-    "nombre": "BOTELLA DE SILICONA PLEGABLES",
-    "precio": 5600,
-    "foto": "https://i.postimg.cc/50rKq65D/Captura-de-pantalla-2025-09-11-173540.png",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
     "id": 244,
     "nombre": "BOTELLA TERMICA DEPORTIVA COLORES  DE 500ML",
     "precio": 13200,
@@ -1161,7 +1145,7 @@
   },
   {
     "id": 248,
-    "nombre": "AURICULAR TIME AU-11010",
+    "nombre": "AURICULAR MANOS LIBRES  AU-11010",
     "precio": 1350,
     "foto": "https://i.postimg.cc/zBFSBTGb/AURITAKE.jpg",
     "categoria": "AURICULARES C/CABLE",
@@ -1169,7 +1153,7 @@
   },
   {
     "id": 249,
-    "nombre": "AURICULAR BLANCO BOLSITA",
+    "nombre": "AURICULAR MANOS LIBRES BLANCO BOLSITA",
     "precio": 1000,
     "foto": "https://i.postimg.cc/T1P7hxfh/AURI.jpg",
     "categoria": "AURICULARES C/CABLE",
@@ -1177,7 +1161,7 @@
   },
   {
     "id": 251,
-    "nombre": "AURICULAR MANOS LIBRES S 30 + SAMSUNG",
+    "nombre": "AURICULAR MANOS LIBRES SAMSUNG S 30 ",
     "precio": 1990,
     "foto": "https://i.postimg.cc/sxVTFH13/AR-12.jpg",
     "categoria": "AURICULARES C/CABLE",
@@ -1193,7 +1177,7 @@
   },
   {
     "id": 253,
-    "nombre": "AURICULAR MANOS LIBRES S10 + SAMSUNG",
+    "nombre": "AURICULAR MANOS LIBRES SAMSUNG S10 ",
     "precio": 1990,
     "foto": "https://i.postimg.cc/02LNbfTq/Whats-App-Image-2025-09-10-at-20-57-09-3.jpg",
     "categoria": "AURICULARES C/CABLE",
@@ -1353,7 +1337,7 @@
   },
   {
     "id": 297,
-    "nombre": "AURICULAR M-LIBRES AU-11011",
+    "nombre": "AURICULAR MANOS LIBRES AU-11011",
     "precio": 1350,
     "foto": "https://i.postimg.cc/y8MLGjKJ/auri11011.jpg",
     "categoria": "AURICULARES C/CABLE",
@@ -1361,7 +1345,7 @@
   },
   {
     "id": 298,
-    "nombre": "AURICULAR BT INALAMBRICOS BLUETOOTH JS 602",
+    "nombre": "AURICULAR BT INALAMBRICO BLUETOOTH JS 602",
     "precio": 6100,
     "foto": "https://i.postimg.cc/Y9Kqj5Hm/auribt.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
@@ -1369,7 +1353,7 @@
   },
   {
     "id": 300,
-    "nombre": "CARGADOR CABEZAL IPHONE 20W PATA ARGENTINA USB-C",
+    "nombre": "CARGADOR CABEZAL IPHONE 20W PATA ARGENTINA USB C",
     "precio": 4400,
     "foto": "https://i.postimg.cc/bvGW4r4w/cabezal20w.jpg",
     "categoria": "CARGADORES",
@@ -1785,7 +1769,7 @@
   },
   {
     "id": 368,
-    "nombre": "CABLE AUXILIAR COLORES 1MT",
+    "nombre": "CABLE AUXILIAR COLORES 1 MT",
     "precio": 850,
     "foto": "https://i.postimg.cc/rmz0Bx9V/IMG-8062.jpg",
     "categoria": "CABLES",
@@ -1825,7 +1809,7 @@
   },
   {
     "id": 373,
-    "nombre": "CARGADOR V8 IBEK 3.8",
+    "nombre": "CARGADOR IBEK V8 3.8",
     "precio": 2750,
     "foto": "https://i.postimg.cc/GtR08wmG/IMG-8070.jpg",
     "categoria": "CARGADORES",
@@ -1833,7 +1817,7 @@
   },
   {
     "id": 374,
-    "nombre": "CARGADOR TIPO C IBEK 3.8",
+    "nombre": "CARGADOR IBEK TIPO C 3.8",
     "precio": 2850,
     "foto": "https://i.postimg.cc/GtR08wmG/IMG-8070.jpg",
     "categoria": "CARGADORES",
@@ -1953,7 +1937,7 @@
   },
   {
     "id": 389,
-    "nombre": "SET DE MECHAS COPA X4",
+    "nombre": "MECHAS COPA X 4 CAJA",
     "precio": 5800,
     "foto": "https://i.postimg.cc/Dy5XgHM4/IMG-8087.jpg",
     "categoria": "HERRAMIENTAS",
@@ -1961,7 +1945,7 @@
   },
   {
     "id": 390,
-    "nombre": "MECHAS COPAS SET X4",
+    "nombre": "MECHAS COPAS SET X 4",
     "precio": 5300,
     "foto": "https://i.postimg.cc/QdwVY3kL/IMG-8094.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2009,7 +1993,7 @@
   },
   {
     "id": 396,
-    "nombre": "SET X 9 DE LLAVES ALLEN GRANDE",
+    "nombre": "LLAVES ALLEN X 9 PIEZAS GRANDE",
     "precio": 4850,
     "foto": "https://i.postimg.cc/526SFf2x/IMG-8103.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2017,7 +2001,7 @@
   },
   {
     "id": 397,
-    "nombre": "LAVVES TORK X 9 PIEZAS",
+    "nombre": "LLAVES TORK X 9 PIEZAS GRANDE",
     "precio": 4950,
     "foto": "https://i.postimg.cc/90DQYgRz/IMG-8101.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2073,7 +2057,7 @@
   },
   {
     "id": 404,
-    "nombre": "CANDADO CON CODIGO",
+    "nombre": "CADENA CANDADO LINGA CON CODIGO",
     "precio": 5600,
     "foto": "https://i.postimg.cc/DyCtTfNf/IMG-8099.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2089,7 +2073,7 @@
   },
   {
     "id": 406,
-    "nombre": "LINGA PARA BICI GRUESO",
+    "nombre": "CADENA LINGA PARA BICI GRUESO",
     "precio": 4100,
     "foto": "https://i.postimg.cc/cLWyhkP6/IMG-8098.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2097,7 +2081,7 @@
   },
   {
     "id": 407,
-    "nombre": "LINGA PARA BICI COLORES 1,2 MTS",
+    "nombre": "CADENA LINGA PARA BICI COLORES 1,2 MTS",
     "precio": 4950,
     "foto": "https://i.postimg.cc/jdKZFVq8/IMG-8097.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2105,7 +2089,7 @@
   },
   {
     "id": 408,
-    "nombre": "CANDADO DE 20MM",
+    "nombre": "CANDADO DE 20 MM CHICO",
     "precio": 950,
     "foto": "https://i.postimg.cc/xjgznB3T/IMG-8124.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2113,7 +2097,7 @@
   },
   {
     "id": 409,
-    "nombre": "CANDADO 32MM",
+    "nombre": "CANDADO DE 32 MM MEDIANO",
     "precio": 1550,
     "foto": "https://i.postimg.cc/nV5n4kHs/IMG-8123.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2121,7 +2105,7 @@
   },
   {
     "id": 410,
-    "nombre": "CANDADO DE 63MM",
+    "nombre": "CANDADO DE 63 MM EXTRA GRANDE ",
     "precio": 3450,
     "foto": "https://i.postimg.cc/gJ1k2qjr/IMG-8122.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2177,7 +2161,7 @@
   },
   {
     "id": 417,
-    "nombre": "CINTA METRICA 10 MTS",
+    "nombre": "CINTA METRICA X 10 MTS.",
     "precio": 5950,
     "foto": "https://i.postimg.cc/3JF4nVWF/IMG-8111.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2401,7 +2385,7 @@
   },
   {
     "id": 445,
-    "nombre": "TIRA LED RGB 50 X 50   5MT",
+    "nombre": "TIRA LED RGB 50 X 50 X 5 MTS.",
     "precio": 9700,
     "foto": "https://i.postimg.cc/nhc41tKP/ba64385e-a8ff-4387-ad68-f011c00ef7fc.jpg",
     "categoria": "ILUMINACION",
@@ -2481,7 +2465,7 @@
   },
   {
     "id": 455,
-    "nombre": "FIBRONES CAJA X10",
+    "nombre": "FIBRONES CAJA X 10",
     "precio": 3600,
     "foto": "https://i.postimg.cc/NfZJkdPY/IMG-8167.jpg",
     "categoria": "LIBRERIA",
@@ -2497,7 +2481,7 @@
   },
   {
     "id": 457,
-    "nombre": "PILAS AAA X 2 RECARGABLE NOGA",
+    "nombre": "PILAS RECARGABLES AAA X 2 UNIDADES NOGA",
     "precio": 4950,
     "foto": "https://i.postimg.cc/qv8LX43y/IMG-8169.jpg",
     "categoria": "LIBRERIA",
@@ -2505,7 +2489,7 @@
   },
   {
     "id": 458,
-    "nombre": "PILAS AA X 2 RECARGABLE NOGA",
+    "nombre": "PILAS RECARGABLES AA X 2 UNIDADES NOGA",
     "precio": 7550,
     "foto": "https://i.postimg.cc/RZz10yDW/IMG-8170.jpg",
     "categoria": "LIBRERIA",
@@ -2537,7 +2521,7 @@
   },
   {
     "id": 462,
-    "nombre": "RELOJ DESPERTADOR GRANDE DE 12 X 12,5",
+    "nombre": "RELOJ DESPERTADOR GRANDE DE 12,5  X 12,5",
     "precio": 6200,
     "foto": "https://i.postimg.cc/3N4PwJZj/IMG-8194.jpg",
     "categoria": "HOGAR",
@@ -2585,7 +2569,7 @@
   },
   {
     "id": 468,
-    "nombre": "SACA CORCGO DE METAL",
+    "nombre": "SACA CORCHO DE METAL",
     "precio": 3950,
     "foto": "https://i.postimg.cc/cLbkvNrD/IMG-8179.jpg",
     "categoria": "HOGAR",
@@ -2633,7 +2617,7 @@
   },
   {
     "id": 474,
-    "nombre": "COLADOR 10CM DE DIAMETRO",
+    "nombre": "COLADOR 10 CM DE DIAMETRO",
     "precio": 1550,
     "foto": "https://i.postimg.cc/9Q7ZB3Ln/IMG-8206.jpg",
     "categoria": "HOGAR",
@@ -2681,7 +2665,7 @@
   },
   {
     "id": 480,
-    "nombre": "BALANZA DE COCINA CON BOUL 10KG",
+    "nombre": "BALANZA DE COCINA CON BOWL 10KG",
     "precio": 5950,
     "foto": "https://i.postimg.cc/wj2y26hq/IMG-8186.jpg",
     "categoria": "HOGAR",
@@ -2777,7 +2761,7 @@
   },
   {
     "id": 492,
-    "nombre": "BT INALAMBRICO C/MICROFONO GTS 1222",
+    "nombre": "PARLANTE BT INALAMBRICO C/MICROFONO GTS 1222",
     "precio": 17900,
     "foto": "https://i.postimg.cc/LXKVK9bq/IMG-8210.jpg",
     "categoria": "PARLANTES",
