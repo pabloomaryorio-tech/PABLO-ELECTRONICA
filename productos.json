@@ -316,7 +316,7 @@
     "nombre": "PARLANTE K12 CON 2 MICROFONO Y RELOJ SMART OK-2",
     "precio": 30400,
     "foto": "https://i.postimg.cc/pdbk3mKB/H83.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "RELOJES",
     "suspendido": false
   },
   {
@@ -1092,7 +1092,7 @@
     "nombre": "KIT AURICULAR Y RELOJ SMART C/MALLA INTERCAMBIABLE",
     "precio": 22400,
     "foto": "https://i.postimg.cc/nzWG0zZv/RELOS-7-MALLAS.jpg",
-    "categoria": "TECNOLOGIA",
+    "categoria": "RELOJES",
     "suspendido": false
   },
   {
@@ -1100,7 +1100,7 @@
     "nombre": "RELOJ SMARTWATCH ULTRA 10 BIG C/ 7 MALLAS",
     "precio": 14800,
     "foto": "https://i.postimg.cc/QCtxx8Wn/TH7-3.jpg",
-    "categoria": "TECNOLOGIA",
+    "categoria": "RELOJES",
     "suspendido": false
   },
   {
@@ -3181,6 +3181,22 @@
     "precio": 5600,
     "foto": "https://i.postimg.cc/YqWp59dG/IMG-20260306-120039.jpg",
     "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773596981432,
+    "nombre": "SET DE RELOJ SMART WATCH Y AURICULAR PRO MAX",
+    "precio": 17500,
+    "foto": "https://i.postimg.cc/L5Fh2rSs/IMG-8535.jpg",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1773597043232,
+    "nombre": "SMART WATCH AURICULAR + 2 MALLAS ",
+    "precio": 20500,
+    "foto": "https://i.postimg.cc/zXj3YtcX/IMG-8537.jpg",
+    "categoria": "RELOJES",
     "suspendido": false
   }
 ]
