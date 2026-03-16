@@ -3198,5 +3198,29 @@
     "foto": "https://i.postimg.cc/zXj3YtcX/IMG-8537.jpg",
     "categoria": "RELOJES",
     "suspendido": false
+  },
+  {
+    "id": 1773689418257,
+    "nombre": "PLANCHA DE PELO DE 45 W",
+    "precio": 10800,
+    "foto": "https://i.postimg.cc/5tdc3fnt/IMG-20260316-162430.jpg",
+    "categoria": "ACCESORIOS FEMENINOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773689617197,
+    "nombre": "RADIO AM/FM PARLANTE BT CON LINTERNA KTF 1489",
+    "precio": 14800,
+    "foto": "https://i.postimg.cc/5NLD2hfZ/IMG-20260315-191815.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1773689722414,
+    "nombre": "PARLANTE BT INALAMBRICO GTS 1942",
+    "precio": 5700,
+    "foto": "https://i.postimg.cc/4yTbLFjQ/IMG-20260315-191755.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
   }
 ]
