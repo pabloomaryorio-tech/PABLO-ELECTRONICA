@@ -549,7 +549,7 @@
     "precio": 13700,
     "foto": "https://i.postimg.cc/PqMf0FCr/OSR198.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 116,
@@ -1133,7 +1133,7 @@
     "precio": 6800,
     "foto": "https://i.postimg.cc/gkM9ZZpQ/vasos.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 244,
@@ -1209,11 +1209,11 @@
   },
   {
     "id": 270,
-    "nombre": "AURICULAR  BT INALAMBRICOS  JK 601",
+    "nombre": "AURICULAR BT INALAMBRICOS JK 601",
     "precio": 7200,
     "foto": "https://i.postimg.cc/6QShf9dY/auriinalam.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 271,
@@ -1469,7 +1469,7 @@
     "precio": 1600,
     "foto": "https://i.postimg.cc/4xztB278/IMG-8018.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 331,
@@ -1477,7 +1477,7 @@
     "precio": 2500,
     "foto": "https://i.postimg.cc/JzbJPYDP/IMG-8020.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 332,
@@ -1597,7 +1597,7 @@
     "precio": 8300,
     "foto": "https://i.postimg.cc/NM2vhnhR/IMG-8036.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 347,
@@ -2021,7 +2021,7 @@
     "precio": 2600,
     "foto": "https://i.postimg.cc/qq2MFhwv/IMG-8108.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 400,
@@ -2065,7 +2065,7 @@
   },
   {
     "id": 405,
-    "nombre": "LINGA PARA MOTO GRUESO 1MT",
+    "nombre": "CADENA LINGA PARA MOTO GRUESO 1MT",
     "precio": 11000,
     "foto": "https://i.postimg.cc/Kc92Z5KC/IMG-8096.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2309,7 +2309,7 @@
     "precio": 14800,
     "foto": "https://i.postimg.cc/jjFMgvMj/IMG-8146.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 436,
@@ -2357,7 +2357,7 @@
     "precio": 1,
     "foto": "https://i.postimg.cc/1zQmgcGP/IMG-8144.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 442,
@@ -2824,14 +2824,6 @@
     "suspendido": false
   },
   {
-    "id": 500,
-    "nombre": "PARLANTE BT INALAMBRICO GTS 2159",
-    "precio": 8600,
-    "foto": "https://i.postimg.cc/g0T2nrWj/IMG-8218.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 501,
     "nombre": "PARLANTE BT INALAMBRICO GTS 2072",
     "precio": 1,
@@ -3209,7 +3201,7 @@
   },
   {
     "id": 1773689617197,
-    "nombre": "RADIO AM/FM PARLANTE BT CON LINTERNA KTF 1489",
+    "nombre": "RADIO AM/FM PARLANTE BT CON PANEL SOLAR Y LINTERNA KTF 1489",
     "precio": 14800,
     "foto": "https://i.postimg.cc/5NLD2hfZ/IMG-20260315-191815.jpg",
     "categoria": "PARLANTES",
