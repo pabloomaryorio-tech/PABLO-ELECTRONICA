@@ -17,7 +17,7 @@
   },
   {
     "id": 4,
-    "nombre": "CARGADOR ROYALCELL I PHONE 5.0 AMP",
+    "nombre": "CARGADOR ROYALCELL I PHONE 4.8 AMP",
     "precio": 4350,
     "foto": "https://i.postimg.cc/PxSyymsB/cargador5A.jpg",
     "categoria": "CARGADORES",
@@ -109,7 +109,7 @@
     "precio": 3700,
     "foto": "https://i.postimg.cc/43XfHbgL/Whats-App-Image-2025-09-10-at-20-57-09-1.jpg",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 19,
@@ -445,7 +445,7 @@
     "precio": 6550,
     "foto": "https://i.postimg.cc/c4s6Vj8d/AURIJK604.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 94,
@@ -1481,7 +1481,7 @@
   },
   {
     "id": 332,
-    "nombre": "AURICULAR MANOS LIBRE U24 BOLSA",
+    "nombre": "AURICULAR MANOS LIBRE U19 BOLSA",
     "precio": 1400,
     "foto": "https://i.postimg.cc/wM2Lc0WF/17c918c6-4777-4ef3-982d-4e325a193721.jpg",
     "categoria": "AURICULARES C/CABLE",
@@ -1597,7 +1597,7 @@
     "precio": 8300,
     "foto": "https://i.postimg.cc/NM2vhnhR/IMG-8036.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 347,
@@ -1617,7 +1617,7 @@
   },
   {
     "id": 349,
-    "nombre": "CORTADORA DE PELO CP-1028",
+    "nombre": "CORTADORA DE PELO CP-1047",
     "precio": 15900,
     "foto": "https://i.postimg.cc/mrxQNzLL/IMG-8039.jpg",
     "categoria": "ACCESORIOS MASCULINOS",
@@ -1673,7 +1673,7 @@
   },
   {
     "id": 356,
-    "nombre": "CABLE USB TIPO LEGATUS 5 AMP",
+    "nombre": "CABLE USB TIPO C LEGATUS 5 AMP",
     "precio": 1350,
     "foto": "https://i.postimg.cc/mktDn4Bc/IMG-8050.jpg",
     "categoria": "CABLES",
@@ -1883,7 +1883,7 @@
     "id": 382,
     "nombre": "ENCHUFE + 2 USB CON SOPORTE CELULAR",
     "precio": 5200,
-    "foto": "https://i.postimg.cc/J7TV7gWs/IMG-8081.jpg",
+    "foto": "https://i.postimg.cc/mDN27GLY/e49e9635-52b6-461e-bb68-148cccda7c6b.jpg",
     "categoria": "CABLES",
     "suspendido": false
   },
@@ -2793,7 +2793,7 @@
   },
   {
     "id": 496,
-    "nombre": "PARLANTE BT INALAMBRICO KARAOKE CON MICROFONO Y VOCES VARIAS KTS 1943",
+    "nombre": "PARLANTE BT INALAMBRICO KARAOKE CON MICROFONO Y VOCES VARIAS KTS 2010",
     "precio": 11700,
     "foto": "https://i.postimg.cc/6pC3bBnY/IMG-8214.jpg",
     "categoria": "PARLANTES",
@@ -3213,6 +3213,94 @@
     "precio": 5700,
     "foto": "https://i.postimg.cc/4yTbLFjQ/IMG-20260315-191755.jpg",
     "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1774984430027,
+    "nombre": "PIOJOS",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/GtxCZ3Wf/1e629727-d0a8-46fd-b35c-96f7f20c8599.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1774984520477,
+    "nombre": "BOTELLA TERMICA 500 ML ",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/R0KbPp5j/f66ae5e5-d0b8-4bf6-8152-8f902e491ab1.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1774984606626,
+    "nombre": "BOTELLA TERMICA STANLEY 650 ML COLORES",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/dtgBzRB1/e3f9cc17-daba-449f-a1d6-5364ad09cabe.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1774984674314,
+    "nombre": "CARGADOR PD 125W DE TIPO C A C",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/DzvbDmtW/b3389c52-ef20-4ab5-97d8-3d05a1275be9.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1774984731068,
+    "nombre": "CARGADOR TIPO C ROYALCELL 5 AMP",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/853wdxZ8/3e50ae9d-e34d-4935-8e8a-2796ee0e1589.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1774984831738,
+    "nombre": "CARGADOR V8 ROYALCELL 2.4 ",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/RVTK4jKY/99d6793c-e769-4034-b198-1a6871a94118.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1774985106642,
+    "nombre": "MATE LISTO",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/Zq51wtxz/99be78ff-748f-4870-b5b6-09e7a0a6c403.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1774985225294,
+    "nombre": "CONSOLA 400 EN 1",
+    "precio": 11500,
+    "foto": "https://i.postimg.cc/bvrBQ0q2/cdf07ea6-be45-4fab-b6ca-6ae8540d320c.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false
+  },
+  {
+    "id": 1774985332308,
+    "nombre": "PAVA ELECTRICA COMUN 2 L ",
+    "precio": 17800,
+    "foto": "https://i.postimg.cc/fLjmyF1V/046dbed7-a24d-4bdc-aace-7610f314a064.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1774985425956,
+    "nombre": "SARTEN MULTIFUNCIONAL PIEDRA VOLCANICA",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/jq3Cct6c/22e115c3-c66c-475c-af49-014886dadaf2.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1774985488355,
+    "nombre": "JUEGO DE CARTA UNO",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/N0G5bMnj/66077605-1d4b-440f-b72c-78eed76e5a59.jpg",
+    "categoria": "NIÑOS",
     "suspendido": false
   }
 ]
