@@ -106,7 +106,7 @@
   {
     "id": 18,
     "nombre": "CARGADOR ROYALCEL V8 5A",
-    "precio": 3700,
+    "precio": 3600,
     "foto": "https://i.postimg.cc/43XfHbgL/Whats-App-Image-2025-09-10-at-20-57-09-1.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -626,8 +626,8 @@
   {
     "id": 135,
     "nombre": "BALANZA GRAMERA DE PRECISION 0.01-500G",
-    "precio": 7850,
-    "foto": "https://i.postimg.cc/DwDCxBgW/CS200.jpg",
+    "precio": 4900,
+    "foto": "https://i.postimg.cc/BnscHD25/84dbcfe5-065c-4428-8998-feda9999bcef.jpg",
     "categoria": "VARIOS",
     "suspendido": false
   },
@@ -670,14 +670,6 @@
     "foto": "https://i.postimg.cc/BvpV1RYF/M-55.jpg",
     "categoria": "VARIOS",
     "suspendido": false
-  },
-  {
-    "id": 142,
-    "nombre": "PEINE SACA PIOJOS",
-    "precio": 850,
-    "foto": "https://i.postimg.cc/7bvD7zQN/peine-piojos.jpg",
-    "categoria": "VARIOS",
-    "suspendido": true
   },
   {
     "id": 143,
@@ -741,7 +733,7 @@
     "precio": 4250,
     "foto": "https://i.postimg.cc/yxVqghXs/LINTERNAESTUCHE.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 161,
@@ -1730,7 +1722,7 @@
   {
     "id": 363,
     "nombre": "CABLE PARA IMPRESORA 1.5 MT",
-    "precio": 1600,
+    "precio": 2100,
     "foto": "https://i.postimg.cc/0QGFqK5w/IMG-8057.jpg",
     "categoria": "CABLES",
     "suspendido": false
@@ -2084,14 +2076,6 @@
     "nombre": "CADENA LINGA PARA BICI COLORES 1,2 MTS",
     "precio": 4950,
     "foto": "https://i.postimg.cc/jdKZFVq8/IMG-8097.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
-    "id": 408,
-    "nombre": "CANDADO DE 20 MM CHICO",
-    "precio": 950,
-    "foto": "https://i.postimg.cc/xjgznB3T/IMG-8124.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
@@ -2738,7 +2722,7 @@
   {
     "id": 489,
     "nombre": "SET DE PICOS PARA INFLADOR",
-    "precio": 850,
+    "precio": 1300,
     "foto": "https://i.postimg.cc/NfypZzN9/IMG-8201.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -3218,7 +3202,7 @@
   {
     "id": 1774984430027,
     "nombre": "PIOJOS",
-    "precio": 1,
+    "precio": 950,
     "foto": "https://i.postimg.cc/GtxCZ3Wf/1e629727-d0a8-46fd-b35c-96f7f20c8599.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -3234,15 +3218,15 @@
   {
     "id": 1774984606626,
     "nombre": "BOTELLA TERMICA STANLEY 650 ML COLORES",
-    "precio": 1,
+    "precio": 17600,
     "foto": "https://i.postimg.cc/dtgBzRB1/e3f9cc17-daba-449f-a1d6-5364ad09cabe.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
   {
     "id": 1774984674314,
-    "nombre": "CARGADOR PD 125W DE TIPO C A C",
-    "precio": 1,
+    "nombre": "CARGADOR ULTRA RAPIDO PD 125W DE TIPO C A C",
+    "precio": 7300,
     "foto": "https://i.postimg.cc/DzvbDmtW/b3389c52-ef20-4ab5-97d8-3d05a1275be9.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -3250,7 +3234,7 @@
   {
     "id": 1774984731068,
     "nombre": "CARGADOR TIPO C ROYALCELL 5 AMP",
-    "precio": 1,
+    "precio": 3700,
     "foto": "https://i.postimg.cc/853wdxZ8/3e50ae9d-e34d-4935-8e8a-2796ee0e1589.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -3258,15 +3242,15 @@
   {
     "id": 1774984831738,
     "nombre": "CARGADOR V8 ROYALCELL 2.4 ",
-    "precio": 1,
+    "precio": 2650,
     "foto": "https://i.postimg.cc/RVTK4jKY/99d6793c-e769-4034-b198-1a6871a94118.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
   },
   {
     "id": 1774985106642,
-    "nombre": "MATE LISTO",
-    "precio": 1,
+    "nombre": "MATE LISTO 750 ML ",
+    "precio": 19500,
     "foto": "https://i.postimg.cc/Zq51wtxz/99be78ff-748f-4870-b5b6-09e7a0a6c403.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -3298,7 +3282,7 @@
   {
     "id": 1774985488355,
     "nombre": "JUEGO DE CARTA UNO",
-    "precio": 1,
+    "precio": 1800,
     "foto": "https://i.postimg.cc/N0G5bMnj/66077605-1d4b-440f-b72c-78eed76e5a59.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
