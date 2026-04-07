@@ -45,7 +45,7 @@
     "precio": 5600,
     "foto": "https://i.postimg.cc/90DJvKF6/CC-59251.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 11,
@@ -94,14 +94,6 @@
     "foto": "https://i.postimg.cc/025bhs3X/Whats-App-Image-2025-09-10-at-23-33-24.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
-  },
-  {
-    "id": 17,
-    "nombre": "CARGADOR LEGATUS TIPO C 5.0 2USB",
-    "precio": 4250,
-    "foto": "https://i.postimg.cc/y8sPyx8w/cargadorc.png",
-    "categoria": "CARGADORES",
-    "suspendido": true
   },
   {
     "id": 18,
@@ -165,7 +157,7 @@
     "precio": 1500,
     "foto": "https://i.postimg.cc/wMK5Yd3B/CABLE-PUNTA-METAL.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 29,
@@ -173,11 +165,11 @@
     "precio": 1450,
     "foto": "https://i.postimg.cc/MpBny6Kj/CAB-41002.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 30,
-    "nombre": "CABLE TIPO C A TIPO C 1M",
+    "nombre": "CABLE TIPO C A TIPO C ",
     "precio": 2500,
     "foto": "https://i.postimg.cc/cJpyfWC6/CAB-44002.jpg",
     "categoria": "CABLES",
@@ -608,14 +600,6 @@
     "suspendido": false
   },
   {
-    "id": 131,
-    "nombre": "PISTOLA SILICONA CHICA DE 10 W",
-    "precio": 2600,
-    "foto": "https://i.postimg.cc/RZKfPcx0/PISTOLA-SILICONA.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": false
-  },
-  {
     "id": 134,
     "nombre": "INFLADOR MULTIUSO METALIZADO",
     "precio": 3950,
@@ -645,7 +629,7 @@
     "precio": 1900,
     "foto": "https://i.postimg.cc/kGLMczDf/calentador-agua.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 139,
@@ -789,7 +773,7 @@
     "precio": 11900,
     "foto": "https://i.postimg.cc/ZqSr20z7/LUZ-EMERGENCIA-60LED.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 173,
@@ -893,7 +877,7 @@
     "precio": 2350,
     "foto": "https://i.postimg.cc/wM6Pt02M/TP-6036B.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 190,
@@ -974,14 +958,6 @@
     "foto": "https://i.postimg.cc/JhNH1JgQ/Whats-App-Image-2025-09-10-at-20-57-10-3.jpg",
     "categoria": "COMPUTACION",
     "suspendido": false
-  },
-  {
-    "id": 204,
-    "nombre": "JOYSTICK PS4 COLORES SIN MARCA",
-    "precio": 21500,
-    "foto": "https://i.postimg.cc/133Wtd9T/12098.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": true
   },
   {
     "id": 205,
@@ -1113,8 +1089,8 @@
   },
   {
     "id": 240,
-    "nombre": "BOTELLA  TERMICA  DEPORTIVA DE 700 ML",
-    "precio": 14500,
+    "nombre": "BOTELLA  TERMICA  DEPORTIVA DE 500 ML",
+    "precio": 13300,
     "foto": "https://i.postimg.cc/8CgT9Bct/IMG-8126.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -1130,7 +1106,7 @@
   {
     "id": 244,
     "nombre": "BOTELLA TERMICA DEPORTIVA COLORES  DE 500ML",
-    "precio": 13200,
+    "precio": 13300,
     "foto": "https://i.postimg.cc/0ycCHZVy/IMG-8125.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -1213,7 +1189,7 @@
     "precio": 1250,
     "foto": "https://i.postimg.cc/SQLWJLvx/cabletipoc.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 273,
@@ -1229,7 +1205,7 @@
     "precio": 8400,
     "foto": "https://i.postimg.cc/sXdTRjvH/PELOMESSI.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 276,
@@ -1300,7 +1276,7 @@
     "nombre": "RELOJ DIGITAL ALARMA/FECHA/TERMOMETRO",
     "precio": 3900,
     "foto": "https://i.postimg.cc/nzZ9Nzrt/reloj.jpg",
-    "categoria": "TECNOLOGIA",
+    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -1461,15 +1437,15 @@
     "precio": 1600,
     "foto": "https://i.postimg.cc/4xztB278/IMG-8018.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 331,
     "nombre": "AURICULAR MANOS LIBRE FICHA I PHONE",
-    "precio": 2500,
+    "precio": 4700,
     "foto": "https://i.postimg.cc/JzbJPYDP/IMG-8020.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 332,
@@ -1525,7 +1501,7 @@
     "precio": 4800,
     "foto": "https://i.postimg.cc/RhC5DZRr/IMG-8026.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 339,
@@ -1594,7 +1570,7 @@
   {
     "id": 347,
     "nombre": "KIT DE MANICURE",
-    "precio": 1200,
+    "precio": 2500,
     "foto": "https://i.postimg.cc/hGhHxYtY/IMG-8037.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
     "suspendido": false
@@ -1637,11 +1613,11 @@
     "precio": 1150,
     "foto": "https://i.postimg.cc/pVYqVtf7/IMG-8046.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 353,
-    "nombre": "CABLE TIPO C A TIPO C",
+    "nombre": "CABLE TIPO C A TIPO C 1 MT",
     "precio": 2500,
     "foto": "https://i.postimg.cc/qMvXk6Mp/IMG-8047.jpg",
     "categoria": "CABLES",
@@ -1669,7 +1645,7 @@
     "precio": 1350,
     "foto": "https://i.postimg.cc/mktDn4Bc/IMG-8050.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 357,
@@ -1701,7 +1677,7 @@
     "precio": 3950,
     "foto": "https://i.postimg.cc/Fz5rTLWf/IMG-8054.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 361,
@@ -1856,14 +1832,6 @@
     "suspendido": false
   },
   {
-    "id": 380,
-    "nombre": "CARGADOR UNIVERSAL DIGITAL",
-    "precio": 2300,
-    "foto": "https://i.postimg.cc/fy7VmN7B/IMG-8079.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
     "id": 381,
     "nombre": "ALARGUE 4 USB + 4 ENCHUFE + 2 TIPO C",
     "precio": 18500,
@@ -1941,7 +1909,7 @@
     "precio": 5300,
     "foto": "https://i.postimg.cc/QdwVY3kL/IMG-8094.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 391,
@@ -2061,7 +2029,7 @@
     "precio": 11000,
     "foto": "https://i.postimg.cc/Kc92Z5KC/IMG-8096.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 406,
@@ -2077,7 +2045,7 @@
     "precio": 4950,
     "foto": "https://i.postimg.cc/jdKZFVq8/IMG-8097.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 409,
@@ -2109,7 +2077,7 @@
     "precio": 3600,
     "foto": "https://i.postimg.cc/RhmydNDF/cbe3e6cb-64fb-4822-9c41-237e2a7060ce.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 413,
@@ -2125,7 +2093,7 @@
     "precio": 4400,
     "foto": "https://i.postimg.cc/tTvntxT4/cf38c403-966f-4b1f-a887-b35697c89c16.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 415,
@@ -2197,7 +2165,7 @@
     "precio": 10800,
     "foto": "https://i.postimg.cc/Nf1yMMTG/IMG-8130.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 424,
@@ -2237,7 +2205,7 @@
     "precio": 6650,
     "foto": "https://i.postimg.cc/4yFqzZjN/IMG-8150.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 429,
@@ -2245,7 +2213,7 @@
     "precio": 3450,
     "foto": "https://i.postimg.cc/7ZzdTF93/IMG-8149.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 430,
@@ -2320,14 +2288,6 @@
     "suspendido": false
   },
   {
-    "id": 439,
-    "nombre": "REFLECTOR 20 LED CON SENSOR SOLAR",
-    "precio": 4550,
-    "foto": "https://i.postimg.cc/KcNMm4yK/IMG-8145.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
     "id": 440,
     "nombre": "LAMPARA CON SENSOR SOLAR BK100",
     "precio": 5100,
@@ -2397,7 +2357,7 @@
     "precio": 4650,
     "foto": "https://i.postimg.cc/BQCbxzvx/IMG-8160.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 449,
@@ -2493,7 +2453,7 @@
     "precio": 6100,
     "foto": "https://i.postimg.cc/wTx9V6Mw/2c242dfe-de36-4ec6-a392-860dfef2dbca.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 461,
@@ -2509,7 +2469,7 @@
     "precio": 6200,
     "foto": "https://i.postimg.cc/3N4PwJZj/IMG-8194.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 463,
@@ -2517,7 +2477,7 @@
     "precio": 3950,
     "foto": "https://i.postimg.cc/vBkGhKqL/IMG-8197.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 464,
@@ -2597,7 +2557,7 @@
     "precio": 1300,
     "foto": "https://i.postimg.cc/65xznS1z/IMG-8235.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 474,
@@ -2784,14 +2744,6 @@
     "suspendido": false
   },
   {
-    "id": 497,
-    "nombre": "PARLANTE BT INALAMBRICO KTX 1473",
-    "precio": 11800,
-    "foto": "https://i.postimg.cc/mkFRcSS0/IMG-8215.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 498,
     "nombre": "PARLANTE BT INALAMBRICO BT 113",
     "precio": 8700,
@@ -2804,14 +2756,6 @@
     "nombre": "PARLANTE BT BARRA BD 68",
     "precio": 16400,
     "foto": "https://i.postimg.cc/jqJLn629/IMG-8217.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 501,
-    "nombre": "PARLANTE BT INALAMBRICO GTS 2072",
-    "precio": 1,
-    "foto": "https://i.postimg.cc/X7kN9sbQ/IMG-8219.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
   },
@@ -2853,7 +2797,7 @@
     "precio": 16400,
     "foto": "https://i.postimg.cc/FKgxv55k/IMG-8224.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 507,
@@ -2861,15 +2805,7 @@
     "precio": 23900,
     "foto": "https://i.postimg.cc/9QydP5Mh/IMG-8225.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 508,
-    "nombre": "MICROFONO CHICO CON CABLE",
-    "precio": 3700,
-    "foto": "https://i.postimg.cc/Y0JFgbBM/IMG-8226.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 509,
@@ -2938,7 +2874,7 @@
   {
     "id": 517,
     "nombre": "MEMORIA SANDISK 16 GB",
-    "precio": 1,
+    "precio": 12500,
     "foto": "https://i.postimg.cc/nV3SbTRf/c21d5071-657a-4d72-b9a3-f1ad63034f9d.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2949,7 +2885,7 @@
     "precio": 1,
     "foto": "https://i.postimg.cc/RVjR4Yw7/f27526a9-22b6-4f82-9904-5c51c9fb26bf.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 519,
@@ -2957,7 +2893,7 @@
     "precio": 1,
     "foto": "https://i.postimg.cc/gc7yH7tw/651723b6-772d-4f95-bf1d-d691ab11c2c7.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 520,
@@ -2965,21 +2901,13 @@
     "precio": 1,
     "foto": "https://i.postimg.cc/266v4d48/04fe86c2-b2c5-4368-9d67-4891c40cafa5.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 521,
     "nombre": "SOPORTE AUTO MAGNETICO",
     "precio": 5300,
     "foto": "https://i.postimg.cc/RZXmJwGM/IMG-8250.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
-    "id": 522,
-    "nombre": "SOPORTE CELULAR PINZA",
-    "precio": 1000,
-    "foto": "https://i.postimg.cc/CK3QR1ym/IMG-8251.jpg",
     "categoria": "VARIOS",
     "suspendido": false
   },
@@ -2997,15 +2925,7 @@
     "precio": 2600,
     "foto": "https://i.postimg.cc/bvkRF9M2/IMG-8253.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
-    "id": 525,
-    "nombre": "ORGANIZADOR DE AUTOS",
-    "precio": 5400,
-    "foto": "https://i.postimg.cc/mk5MrPqv/IMG-8254.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 526,
@@ -3201,7 +3121,7 @@
   },
   {
     "id": 1774984430027,
-    "nombre": "PIOJOS",
+    "nombre": "PEINE PARA PIOJOS",
     "precio": 950,
     "foto": "https://i.postimg.cc/GtxCZ3Wf/1e629727-d0a8-46fd-b35c-96f7f20c8599.jpg",
     "categoria": "VARIOS",
