@@ -369,8 +369,8 @@
   },
   {
     "id": 80,
-    "nombre": "JARRA PAVA ELECTRICA CON CORTE MATE 2.0 LT",
-    "precio": 23500,
+    "nombre": "PAVA ELECTRICA CON CORTE MATE 2.0 LT",
+    "precio": 19300,
     "foto": "https://i.postimg.cc/WpBHb8K6/STJC150.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -3186,7 +3186,7 @@
   {
     "id": 1774985332308,
     "nombre": "PAVA ELECTRICA COMUN 2 L ",
-    "precio": 17800,
+    "precio": 15400,
     "foto": "https://i.postimg.cc/fLjmyF1V/046dbed7-a24d-4bdc-aace-7610f314a064.jpg",
     "categoria": "HOGAR",
     "suspendido": false
