@@ -157,7 +157,7 @@
     "precio": 1500,
     "foto": "https://i.postimg.cc/wMK5Yd3B/CABLE-PUNTA-METAL.jpg",
     "categoria": "CABLES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 29,
@@ -704,14 +704,6 @@
     "suspendido": false
   },
   {
-    "id": 159,
-    "nombre": "LUZ MINERA",
-    "precio": 5950,
-    "foto": "https://i.postimg.cc/8krPxG5S/LUZ-MINERA.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
-  },
-  {
     "id": 160,
     "nombre": "LINTERNA MINI CAMUFLADA USB RECARGABLE",
     "precio": 4250,
@@ -770,10 +762,10 @@
   {
     "id": 170,
     "nombre": "LUZ DE EMERGENCIA 60 LED USB RECARGABLE",
-    "precio": 11900,
+    "precio": 11200,
     "foto": "https://i.postimg.cc/ZqSr20z7/LUZ-EMERGENCIA-60LED.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 173,
@@ -1189,7 +1181,7 @@
     "precio": 1250,
     "foto": "https://i.postimg.cc/SQLWJLvx/cabletipoc.jpg",
     "categoria": "CABLES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 273,
@@ -1441,7 +1433,7 @@
   },
   {
     "id": 331,
-    "nombre": "AURICULAR MANOS LIBRE FICHA I PHONE",
+    "nombre": "AURICULAR MANOS LIBRE FICHA I PHONE CAJA ACRILICA ",
     "precio": 4700,
     "foto": "https://i.postimg.cc/JzbJPYDP/IMG-8020.jpg",
     "categoria": "AURICULARES C/CABLE",
@@ -1569,7 +1561,7 @@
   },
   {
     "id": 347,
-    "nombre": "KIT DE MANICURE",
+    "nombre": "KIT DE MANICURE GRANDE",
     "precio": 2500,
     "foto": "https://i.postimg.cc/hGhHxYtY/IMG-8037.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
@@ -1613,7 +1605,7 @@
     "precio": 1150,
     "foto": "https://i.postimg.cc/pVYqVtf7/IMG-8046.jpg",
     "categoria": "CABLES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 353,
@@ -2477,7 +2469,7 @@
     "precio": 3950,
     "foto": "https://i.postimg.cc/vBkGhKqL/IMG-8197.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 464,
@@ -3205,6 +3197,126 @@
     "precio": 1800,
     "foto": "https://i.postimg.cc/N0G5bMnj/66077605-1d4b-440f-b72c-78eed76e5a59.jpg",
     "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1775836551816,
+    "nombre": "SET DE SACA CORCHO ",
+    "precio": 11900,
+    "foto": "https://i.postimg.cc/wvGtN5tN/f9792a70-67c0-4dd1-8fe1-2c793daea12e.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1775836622645,
+    "nombre": "CARGADOR CABEZAL I PHONE USB C 35W ",
+    "precio": 3300,
+    "foto": "https://i.postimg.cc/wTcmfmZw/305165d9-4bad-42ca-8a04-3241b6755551.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1775836947613,
+    "nombre": "CADENA LINGA GRUESA MOTO ",
+    "precio": 4650,
+    "foto": "https://i.postimg.cc/PJM54mJv/5f3e1900-fab7-43f8-b1d3-0d1357d399da.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1775837000749,
+    "nombre": "LINTERNA MINERA CON SENSOR ",
+    "precio": 7600,
+    "foto": "https://i.postimg.cc/bNBhj671/7ee3646d-173d-4170-8ffd-c01cfcc062e7.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1775837169007,
+    "nombre": "MICROFONO CON CABLE NOGA",
+    "precio": 4500,
+    "foto": "https://i.postimg.cc/630kbzVx/575e2a37-a91a-4c31-8007-36f9cb701c23.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1775837253265,
+    "nombre": "JOYSTICK PS4 COLORES ",
+    "precio": 19300,
+    "foto": "https://i.postimg.cc/02rTZYzr/a9abe65a-fa44-44aa-afcf-15b34069a384.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1775837309021,
+    "nombre": "LINTERNA MINERA RECARGABLE ",
+    "precio": 3800,
+    "foto": "https://i.postimg.cc/FKXw9wDk/0200ed32-8312-4cf6-80e3-6d49176d549a.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1775837565671,
+    "nombre": "PARLANTE BT INALAMBRICO KTS 1677",
+    "precio": 8100,
+    "foto": "https://i.postimg.cc/L5qMqLfh/19032dbb-3638-4dfd-9d30-4d17f9ad5c89.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1775837628638,
+    "nombre": "AURICULAR BT INALAMBRICO JK 608",
+    "precio": 6500,
+    "foto": "https://i.postimg.cc/65vXtVtz/1bd16663-05eb-4649-84c1-092d01816245.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1775837732415,
+    "nombre": "LINTERNA LED USB RECARGABLE S008 ",
+    "precio": 2600,
+    "foto": "https://i.postimg.cc/qR5PdqFW/1e1c3237-af24-41d3-873d-38832d2cc8b6.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1775837796550,
+    "nombre": "CABLE USB ROYALCELL TIPO C 5 AMP ENGOMADO ",
+    "precio": 1350,
+    "foto": "https://i.postimg.cc/dQz02V0j/0b4ccd8d-5bae-42fc-9ff9-fba5843de3b9.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 1775837827590,
+    "nombre": "CABLE USB V8 ROYALCELL 5 AMP ENGOMADO ",
+    "precio": 1350,
+    "foto": "https://i.postimg.cc/dQz02V0j/0b4ccd8d-5bae-42fc-9ff9-fba5843de3b9.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 1775837886911,
+    "nombre": "AURICULAR MANOS LIBRES CON FICHA I PHONE ",
+    "precio": 5250,
+    "foto": "https://i.postimg.cc/Dwcy3QPQ/c33fdac5-dace-4d6c-bc63-09e455d7af5b.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1775838202878,
+    "nombre": "JOYSTICK PS3 SONY ",
+    "precio": 11500,
+    "foto": "https://i.postimg.cc/8P2T6KZ1/f0a69fbe-0204-426c-b0d7-dc56b09f5249.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1775838239376,
+    "nombre": "JOYSTIK PS3 COLORES ",
+    "precio": 10400,
+    "foto": "https://i.postimg.cc/TPC8CCq4/407ae1bf-be36-4259-b23a-b4b734e6e295.jpg",
+    "categoria": "COMPUTACION",
     "suspendido": false
   }
 ]
