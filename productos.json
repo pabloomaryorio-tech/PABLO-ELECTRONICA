@@ -869,7 +869,7 @@
     "precio": 2350,
     "foto": "https://i.postimg.cc/wM6Pt02M/TP-6036B.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 190,
@@ -1752,14 +1752,6 @@
     "suspendido": false
   },
   {
-    "id": 371,
-    "nombre": "ADAPTADOR VINCHA GAMER A PS4",
-    "precio": 500,
-    "foto": "https://i.postimg.cc/xdXzXBXT/55957e56-ec92-4df2-9cdd-f4d07c48165c.jpg",
-    "categoria": "CABLES",
-    "suspendido": false
-  },
-  {
     "id": 372,
     "nombre": "ADAPTADOR DE PC A PS4",
     "precio": 500,
@@ -1860,7 +1852,7 @@
     "nombre": "PORTA LAMPARA",
     "precio": 1250,
     "foto": "https://i.postimg.cc/JnrTXrWw/IMG-8084.jpg",
-    "categoria": "ELECTRICIDAD",
+    "categoria": "ELECTRICIDAD ",
     "suspendido": false
   },
   {
@@ -1973,7 +1965,7 @@
     "precio": 2600,
     "foto": "https://i.postimg.cc/qq2MFhwv/IMG-8108.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 400,
