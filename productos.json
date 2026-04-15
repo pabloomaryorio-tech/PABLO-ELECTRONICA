@@ -2746,7 +2746,7 @@
   {
     "id": 513,
     "nombre": "PENDRIVE SANDISK 32 GB",
-    "precio": 15400,
+    "precio": 15300,
     "foto": "https://i.postimg.cc/zDhv4PXf/d9f2d3d5-738d-4048-b762-6734611f00a2.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2754,7 +2754,7 @@
   {
     "id": 514,
     "nombre": "PENDRIVE SANDISK 64 GB",
-    "precio": 16200,
+    "precio": 17900,
     "foto": "https://i.postimg.cc/fL9WnJZ4/1842a881-d064-45f1-9b8d-61ef109831c4.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2762,7 +2762,7 @@
   {
     "id": 515,
     "nombre": "PENDRIVE SANDISK 128 GB",
-    "precio": 23000,
+    "precio": 24300,
     "foto": "https://i.postimg.cc/FsD46jcr/2459d471-795d-4e14-ac10-58aad0c8b72c.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2778,7 +2778,7 @@
   {
     "id": 517,
     "nombre": "MEMORIA SANDISK 16 GB",
-    "precio": 12500,
+    "precio": 10500,
     "foto": "https://i.postimg.cc/nV3SbTRf/c21d5071-657a-4d72-b9a3-f1ad63034f9d.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2786,7 +2786,7 @@
   {
     "id": 518,
     "nombre": "MEMORIA SANDISK 32 GB",
-    "precio": 1,
+    "precio": 15300,
     "foto": "https://i.postimg.cc/RVjR4Yw7/f27526a9-22b6-4f82-9904-5c51c9fb26bf.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": true
@@ -2794,7 +2794,7 @@
   {
     "id": 519,
     "nombre": "MEMORIA SANDISK 64 GB",
-    "precio": 1,
+    "precio": 17900,
     "foto": "https://i.postimg.cc/gc7yH7tw/651723b6-772d-4f95-bf1d-d691ab11c2c7.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": true
@@ -2802,7 +2802,7 @@
   {
     "id": 520,
     "nombre": "MEMORIA SANDISK 128 GB",
-    "precio": 1,
+    "precio": 24200,
     "foto": "https://i.postimg.cc/266v4d48/04fe86c2-b2c5-4368-9d67-4891c40cafa5.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": true
