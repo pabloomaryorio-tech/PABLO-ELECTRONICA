@@ -608,22 +608,6 @@
     "suspendido": false
   },
   {
-    "id": 137,
-    "nombre": "CALENTADOR AGUA 12V. AUTO",
-    "precio": 3900,
-    "foto": "https://i.postimg.cc/QMFTKbmg/Captura-de-pantalla-2025-09-11-175002.png",
-    "categoria": "VARIOS",
-    "suspendido": true
-  },
-  {
-    "id": 138,
-    "nombre": "CALENTADOR AGUA 220WCALENTADOR AGUA 220W",
-    "precio": 1900,
-    "foto": "https://i.postimg.cc/kGLMczDf/calentador-agua.jpg",
-    "categoria": "VARIOS",
-    "suspendido": true
-  },
-  {
     "id": 139,
     "nombre": "CORTA PELO DE MASCOTA",
     "precio": 13800,
@@ -1537,7 +1521,7 @@
   },
   {
     "id": 348,
-    "nombre": "ARQUEADOR DE PESTAÑAS",
+    "nombre": "PESTAÑAS ARQUEADOR",
     "precio": 1100,
     "foto": "https://i.postimg.cc/BbNgmqhr/IMG-8038.jpg",
     "categoria": "TODO PARA MUJERES ",
@@ -2845,7 +2829,7 @@
     "precio": 2600,
     "foto": "https://i.postimg.cc/bvkRF9M2/IMG-8253.jpg",
     "categoria": "VARIOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 526,
@@ -3050,7 +3034,7 @@
   {
     "id": 1774984520477,
     "nombre": "BOTELLA TERMICA 500 ML ",
-    "precio": 1,
+    "precio": 12500,
     "foto": "https://i.postimg.cc/R0KbPp5j/f66ae5e5-d0b8-4bf6-8152-8f902e491ab1.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -3195,7 +3179,7 @@
     "id": 1775837628638,
     "nombre": "AURICULAR BT INALAMBRICO JK 608",
     "precio": 6500,
-    "foto": "https://i.postimg.cc/65vXtVtz/1bd16663-05eb-4649-84c1-092d01816245.jpg",
+    "foto": "https://i.postimg.cc/g0BgqzRm/IMG-8945.png",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
   },
@@ -3245,6 +3229,22 @@
     "precio": 10400,
     "foto": "https://i.postimg.cc/TPC8CCq4/407ae1bf-be36-4259-b23a-b4b734e6e295.jpg",
     "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1776275253225,
+    "nombre": "PARLANTE BT INALAMBRICO KARAOKE KTS 1916",
+    "precio": 10500,
+    "foto": "https://i.postimg.cc/c1QQdRhs/IMG-8949.png",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1776275415176,
+    "nombre": "PARLANTE BT INALAMBBRICO KTS 2119 RESISTENTE AL AGUA",
+    "precio": 6500,
+    "foto": "https://i.postimg.cc/4d0xpSXJ/IMG-8948.png",
+    "categoria": "PARLANTES",
     "suspendido": false
   }
 ]
