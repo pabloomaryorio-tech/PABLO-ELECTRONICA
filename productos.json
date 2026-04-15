@@ -137,7 +137,7 @@
   },
   {
     "id": 26,
-    "nombre": "ADAPTADOR OTG USB TIPO C",
+    "nombre": "OTG ADAPTADOR DE USB TIPO C",
     "precio": 900,
     "foto": "https://i.postimg.cc/d17mNw57/USBTC.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
@@ -185,7 +185,7 @@
   },
   {
     "id": 33,
-    "nombre": "CABLE ADAPTADOR HDMI A VGA",
+    "nombre": "CABLE HDMI A VGA",
     "precio": 3350,
     "foto": "https://i.postimg.cc/5tPSZg9D/CAB-45003.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
@@ -198,14 +198,6 @@
     "foto": "https://i.postimg.cc/Mphrk22Q/Whats-App-Image-2025-09-10-at-20-57-07-1.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
-  },
-  {
-    "id": 36,
-    "nombre": "CABLE AUXILIAR 1M CAJA",
-    "precio": 855,
-    "foto": "https://i.postimg.cc/pL4L5B3H/Whats-App-Image-2025-09-10-at-20-57-04-1.jpg",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": true
   },
   {
     "id": 37,
@@ -1321,7 +1313,7 @@
   },
   {
     "id": 301,
-    "nombre": "CABLE 4 EN 1 REFORZADO",
+    "nombre": "CABLE UNIVERSAL REFORZADO 4 EN 1",
     "precio": 2400,
     "foto": "https://i.postimg.cc/vTGP8ZSR/cable4en1.jpg",
     "categoria": "CABLES CELULAR ",
@@ -1493,7 +1485,7 @@
     "precio": 4800,
     "foto": "https://i.postimg.cc/RhC5DZRr/IMG-8026.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 339,
@@ -1665,10 +1657,10 @@
   },
   {
     "id": 360,
-    "nombre": "ADAPTADOR EXTENCION TIPO C CON 4 PUERTOS USB",
+    "nombre": "CABLE EXTENCION ADAPTADOR TIPO C + 4 PUERTOS USB",
     "precio": 3950,
     "foto": "https://i.postimg.cc/Fz5rTLWf/IMG-8054.jpg",
-    "categoria": "CABLES CELULAR ",
+    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": true
   },
   {
@@ -1697,7 +1689,7 @@
   },
   {
     "id": 364,
-    "nombre": "CABLE RCA DE 3 A 3",
+    "nombre": "CABLE DE AUDIO Y VIDEO RCA DE 3 A 3",
     "precio": 1150,
     "foto": "https://i.postimg.cc/TY17t4bC/IMG-8058.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
@@ -1737,7 +1729,7 @@
   },
   {
     "id": 369,
-    "nombre": "ADAPTADOR OTG DE TIPO C A V8",
+    "nombre": "OTG ADAPTADOR DE TIPO C A V8",
     "precio": 850,
     "foto": "https://i.postimg.cc/y8zQXXmm/IMG-8063.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
@@ -1745,7 +1737,7 @@
   },
   {
     "id": 370,
-    "nombre": "ADAPTADOR OTG USB A V8",
+    "nombre": "OTG ADAPTADOR DE USB A V8",
     "precio": 800,
     "foto": "https://i.postimg.cc/5N5q1cz0/IMG-8064.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
@@ -1753,7 +1745,7 @@
   },
   {
     "id": 372,
-    "nombre": "ADAPTADOR DE PC A PS4",
+    "nombre": "CABLE PC A PS4 ADAPTADOR ",
     "precio": 500,
     "foto": "https://i.postimg.cc/L6vYNmfC/ee8e66dd-4f36-4dea-b2ae-4939dca0d577.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
