@@ -17,7 +17,7 @@
   },
   {
     "id": 4,
-    "nombre": "CARGADOR ROYALCELL I PHONE 4.8 AMP",
+    "nombre": "CARGADOR ROYALCELL I PHONE 4.8 AMP.",
     "precio": 4350,
     "foto": "https://i.postimg.cc/PxSyymsB/cargador5A.jpg",
     "categoria": "CARGADORES",
@@ -33,7 +33,7 @@
   },
   {
     "id": 9,
-    "nombre": "CARGADOR 20W USB C + CABLE TIPO C A TIPO C",
+    "nombre": "CARGADOR CABEZAL 20W USB C + CABLE TIPO C A TIPO C",
     "precio": 4300,
     "foto": "https://i.postimg.cc/fLzFcbZz/TMCC408.jpg",
     "categoria": "CARGADORES",
@@ -41,7 +41,7 @@
   },
   {
     "id": 10,
-    "nombre": "CARGADOR  PD 30W + CABLE TIPO C A C",
+    "nombre": "CARGADOR CABEZAL 30W + CABLE TIPO C A C",
     "precio": 5600,
     "foto": "https://i.postimg.cc/90DJvKF6/CC-59251.jpg",
     "categoria": "CARGADORES",
@@ -97,7 +97,7 @@
   },
   {
     "id": 18,
-    "nombre": "CARGADOR ROYALCEL V8 5A",
+    "nombre": "CARGADOR ROYALCEL V8 5 AMP.",
     "precio": 3600,
     "foto": "https://i.postimg.cc/43XfHbgL/Whats-App-Image-2025-09-10-at-20-57-09-1.jpg",
     "categoria": "CARGADORES",
@@ -217,7 +217,7 @@
   },
   {
     "id": 39,
-    "nombre": "CABLE USB A V8 5 AMP ROYALCELL MALLADO",
+    "nombre": "CABLE ROYALCELL USB A V8 5 AMP. MALLADO",
     "precio": 1500,
     "foto": "https://i.postimg.cc/vZWknJ8M/Whats-App-Image-2025-09-10-at-23-33-22-2.jpg",
     "categoria": "CABLES CELULAR ",
@@ -225,7 +225,7 @@
   },
   {
     "id": 40,
-    "nombre": "CABLE USB A TIPO C 5 AMP ROYALCELL MALLADO ",
+    "nombre": "CABLE ROYALCELL USB A TIPO C 5 AMP. MALLADO ",
     "precio": 1550,
     "foto": "https://i.postimg.cc/43GCFJ2m/Whats-App-Image-2025-09-10-at-23-33-23.jpg",
     "categoria": "CABLES CELULAR ",
@@ -241,7 +241,7 @@
   },
   {
     "id": 43,
-    "nombre": "CABLE USB  TIPO C 3.0 MOTO",
+    "nombre": "CABLE USB MOTO 3.0 TIPO C ",
     "precio": 1500,
     "foto": "https://i.postimg.cc/26399Z4H/398b63d6-d961-4c55-ad34-98027b959dcf.jpg",
     "categoria": "CABLES CELULAR ",
@@ -249,7 +249,7 @@
   },
   {
     "id": 44,
-    "nombre": "CABLE USB  V8 3.0 MOTO",
+    "nombre": "CABLE USB MOTO 3.0 V8",
     "precio": 1450,
     "foto": "https://i.postimg.cc/8zBhG0y8/84bd91c3-4158-4f6a-8975-ffe1758c8649.jpg",
     "categoria": "CABLES CELULAR ",
@@ -704,14 +704,6 @@
     "suspendido": true
   },
   {
-    "id": 161,
-    "nombre": "LINTERNA RECARGABLE CON LUPA",
-    "precio": 6990,
-    "foto": "https://i.postimg.cc/fWpG2X3M/linterna.png",
-    "categoria": "ILUMINACION",
-    "suspendido": true
-  },
-  {
     "id": 162,
     "nombre": "LINTERNA 9 LED GOMA",
     "precio": 1900,
@@ -754,7 +746,7 @@
   {
     "id": 170,
     "nombre": "LUZ DE EMERGENCIA 60 LED USB RECARGABLE",
-    "precio": 11200,
+    "precio": 13900,
     "foto": "https://i.postimg.cc/ZqSr20z7/LUZ-EMERGENCIA-60LED.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1080,14 +1072,6 @@
     "suspendido": false
   },
   {
-    "id": 241,
-    "nombre": "BOTELLA BRAINROT DE PLASTICO 700 ML",
-    "precio": 6800,
-    "foto": "https://i.postimg.cc/gkM9ZZpQ/vasos.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": true
-  },
-  {
     "id": 244,
     "nombre": "BOTELLA TERMICA DEPORTIVA COLORES  DE 500ML",
     "precio": 13300,
@@ -1305,7 +1289,7 @@
   },
   {
     "id": 300,
-    "nombre": "CARGADOR CABEZAL IPHONE 20W PATA ARGENTINA USB C",
+    "nombre": "CARGADOR CABEZAL I PHONE 20W PATA ARGENTINA USB C",
     "precio": 4400,
     "foto": "https://i.postimg.cc/bvGW4r4w/cabezal20w.jpg",
     "categoria": "CARGADORES",
@@ -1318,14 +1302,6 @@
     "foto": "https://i.postimg.cc/vTGP8ZSR/cable4en1.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
-  },
-  {
-    "id": 304,
-    "nombre": "ALARGUE USB",
-    "precio": 12460,
-    "foto": "https://i.postimg.cc/x8tqh6bM/alargueusb.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
   },
   {
     "id": 305,
@@ -1577,7 +1553,7 @@
   },
   {
     "id": 350,
-    "nombre": "CABLE USB A I PHONE 5 AMP ROYALCELL MALLADO",
+    "nombre": "CABLE ROYALCELL USB A I PHONE 5 AMP. MALLADO",
     "precio": 1850,
     "foto": "https://i.postimg.cc/Kv3SsjSm/IMG-8044.jpg",
     "categoria": "CABLES CELULAR ",
@@ -1609,7 +1585,7 @@
   },
   {
     "id": 354,
-    "nombre": "CABLE USB  V8 BLISTER MOTOROLA",
+    "nombre": "CABLE USB MOTOROLA BLISTER V8 ",
     "precio": 1450,
     "foto": "https://i.postimg.cc/TYsmfk49/IMG-8048.jpg",
     "categoria": "CABLES CELULAR ",
@@ -1617,7 +1593,7 @@
   },
   {
     "id": 355,
-    "nombre": "CABLE USB TIPO C BLISTER MOTOROLA ",
+    "nombre": "CABLE USB MOTOROLA BLISTER TIPO C",
     "precio": 1500,
     "foto": "https://i.postimg.cc/TYsmfk49/IMG-8048.jpg",
     "categoria": "CABLES CELULAR ",
@@ -1785,7 +1761,7 @@
   },
   {
     "id": 377,
-    "nombre": "CARGADOR V8 3.1 CON CABLE DESMONTABLE",
+    "nombre": "CARGADOR V8 3,1 CON CABLE DESMONTABLE",
     "precio": 2750,
     "foto": "https://i.postimg.cc/635n9Tds/IMG-8075.jpg",
     "categoria": "CARGADORES",
@@ -1877,7 +1853,7 @@
     "precio": 5300,
     "foto": "https://i.postimg.cc/QdwVY3kL/IMG-8094.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 391,
@@ -2344,14 +2320,6 @@
     "suspendido": false
   },
   {
-    "id": 451,
-    "nombre": "CALCULADORA CON PANTALLA LCD",
-    "precio": 3500,
-    "foto": "https://i.postimg.cc/T1fG1RgF/IMG-8162.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": false
-  },
-  {
     "id": 452,
     "nombre": "PIZARRA LCD A COLOR DE 16 PULGADAS",
     "precio": 6100,
@@ -2421,7 +2389,7 @@
     "precio": 6100,
     "foto": "https://i.postimg.cc/wTx9V6Mw/2c242dfe-de36-4ec6-a392-860dfef2dbca.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 461,
@@ -2664,14 +2632,6 @@
     "suspendido": false
   },
   {
-    "id": 491,
-    "nombre": "PARLANTE BT INALAMBRICO OM 6103",
-    "precio": 37200,
-    "foto": "https://i.postimg.cc/0jCn0TZz/IMG-8209.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 492,
     "nombre": "PARLANTE BT INALAMBRICO C/MICROFONO GTS 1222",
     "precio": 17900,
@@ -2700,14 +2660,6 @@
     "nombre": "PARLANTE BT INALAMBRICO GTS 2265",
     "precio": 9950,
     "foto": "https://i.postimg.cc/pV0nKVJ9/IMG-8213.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 496,
-    "nombre": "PARLANTE BT INALAMBRICO KARAOKE CON MICROFONO Y VOCES VARIAS KTS 2010",
-    "precio": 11700,
-    "foto": "https://i.postimg.cc/6pC3bBnY/IMG-8214.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
   },
@@ -3121,7 +3073,7 @@
   },
   {
     "id": 1774984731068,
-    "nombre": "CARGADOR TIPO C ROYALCELL 5 AMP",
+    "nombre": "CARGADOR ROYALCELL TIPO C 5 AMP",
     "precio": 3700,
     "foto": "https://i.postimg.cc/853wdxZ8/3e50ae9d-e34d-4935-8e8a-2796ee0e1589.jpg",
     "categoria": "CARGADORES",
@@ -3129,7 +3081,7 @@
   },
   {
     "id": 1774984831738,
-    "nombre": "CARGADOR V8 ROYALCELL 2.4 ",
+    "nombre": "CARGADOR ROYALCELL V8 2.4 ",
     "precio": 2650,
     "foto": "https://i.postimg.cc/RVTK4jKY/99d6793c-e769-4034-b198-1a6871a94118.jpg",
     "categoria": "CARGADORES",
@@ -3257,7 +3209,7 @@
   },
   {
     "id": 1775837796550,
-    "nombre": "CABLE USB A TIPO C 5 AMP ROYALCEL ENGOMADO",
+    "nombre": "CABLE ROYALCELL ENGOMADO USB A TIPO C 5 AMP. ",
     "precio": 1350,
     "foto": "https://i.postimg.cc/dQz02V0j/0b4ccd8d-5bae-42fc-9ff9-fba5843de3b9.jpg",
     "categoria": "CABLES CELULAR ",
@@ -3265,7 +3217,7 @@
   },
   {
     "id": 1775837827590,
-    "nombre": "CABLE USB A V8 5 AMP ROYALCELL  ENGOMADO ",
+    "nombre": "CABLE ROYALCELL ENGOMADO USB A V8 5 AMP. ",
     "precio": 1350,
     "foto": "https://i.postimg.cc/dQz02V0j/0b4ccd8d-5bae-42fc-9ff9-fba5843de3b9.jpg",
     "categoria": "CABLES CELULAR ",
