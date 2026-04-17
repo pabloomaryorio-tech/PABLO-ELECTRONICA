@@ -2837,7 +2837,7 @@
     "precio": 1,
     "foto": "https://i.postimg.cc/vBD2J0nL/f57064e4-ee5f-4375-98c9-974abca997f9.jpg",
     "categoria": "MUNDIAL",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 527,
@@ -2877,7 +2877,7 @@
     "precio": 1,
     "foto": "https://i.postimg.cc/8PqGtrqZ/7afe5490-2836-4fa4-ba5d-d43fc505bb8c.jpg",
     "categoria": "MUNDIAL",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 532,
@@ -2909,7 +2909,7 @@
     "precio": 1,
     "foto": "https://i.postimg.cc/J05TJSV2/acdf010f-b209-43ae-a653-9b6b90cf87d1.jpg",
     "categoria": "MUNDIAL",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 536,
@@ -2965,7 +2965,7 @@
     "precio": 1,
     "foto": "https://i.postimg.cc/1tfnDFxZ/dd92a749-c796-47d5-a300-fa1c1d7f1aa7.jpg",
     "categoria": "MUNDIAL",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 543,
@@ -3244,6 +3244,102 @@
     "nombre": "PARLANTE BT INALAMBBRICO KTS 2119 RESISTENTE AL AGUA",
     "precio": 6500,
     "foto": "https://i.postimg.cc/4d0xpSXJ/IMG-8948.png",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1776436519796,
+    "nombre": "ASPIRADORA DE AUTO INALAMBRICA RECARGABLE ",
+    "precio": 20200,
+    "foto": "https://i.postimg.cc/CKsvxxfz/55ed9415-a83d-4915-8798-302d2e305887.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1776436711512,
+    "nombre": "TOSTADORA ELECTRICA 750W ",
+    "precio": 20300,
+    "foto": "https://i.postimg.cc/SxT6TY87/cbd4dc23-e495-4f06-b128-7f89e2e92b87.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1776436830747,
+    "nombre": "JUEGO DE LLAVES ALLEN X 30 PIEZAS ",
+    "precio": 12000,
+    "foto": "https://i.postimg.cc/gjgjz8Yd/84cd08e4-b2d1-4436-bf5c-50dfcbcf160f.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1776437052853,
+    "nombre": "RADIO VINTAGE BT/FM/MP3 RECARGABLE ",
+    "precio": 8500,
+    "foto": "https://i.postimg.cc/fbsNPkNj/129303cf-6b6e-4fbb-9b6e-388c9546a9e6.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1776437179316,
+    "nombre": "KIT DE CAMARAS 1080 HD ",
+    "precio": 109000,
+    "foto": "https://i.postimg.cc/CL4XKJTK/a5cb3e75-e878-4b59-9526-e68085c4e43b.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1776437474860,
+    "nombre": "HIDROLAVADORA PORTATIL 240W 8106",
+    "precio": 43200,
+    "foto": "https://i.postimg.cc/gJd3ryPd/e1652690-5ef9-4366-8e6b-98a5ec94ac59.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1776437541106,
+    "nombre": "COLCHON INFLABLE + INFLADOR MANUAL ",
+    "precio": 25700,
+    "foto": "https://i.postimg.cc/wjmNV4q5/8b206de4-c890-4e4a-af7b-ce51378b5cc7.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1776437597906,
+    "nombre": "ANAFE ELECTRICO 2 HORNAS 2000W ",
+    "precio": 27000,
+    "foto": "https://i.postimg.cc/tTXV9Xhg/57ec98a5-e94c-4f78-9e7f-6d33ad39dd61.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1776437651130,
+    "nombre": "DRONE PRO MAX HD ",
+    "precio": 31000,
+    "foto": "https://i.postimg.cc/LXNgXrTv/9b1bc80e-7498-45c5-b6b3-4067965f4b35.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1776437703890,
+    "nombre": "PARLANTE BT 8 PLG STAR V ",
+    "precio": 33000,
+    "foto": "https://i.postimg.cc/c1Ff48kf/3f2d5d6e-5506-4121-b3f1-dea2cbbfc297.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1776437753234,
+    "nombre": "PISTOLA MASAJEADORA ",
+    "precio": 15000,
+    "foto": "https://i.postimg.cc/m2qM7Wss/5069a8d2-0651-4157-98d8-4b41709b2da1.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1776437880275,
+    "nombre": "PARLANTE BT INALAMBRICO GRANDE CON MIGROFONO ",
+    "precio": 115000,
+    "foto": "https://i.postimg.cc/TwgGNmyw/e866c131-11ac-4941-b175-a5650038a98a.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
   }
