@@ -2842,15 +2842,15 @@
   {
     "id": 527,
     "nombre": "CORNETA TRIPLE SONIDO 18 CM",
-    "precio": 1,
+    "precio": 2000,
     "foto": "https://i.postimg.cc/sgcn1k9K/4c4f8ccf-dfb9-44a4-88a5-a4c4812780ee.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
   },
   {
     "id": 528,
-    "nombre": "CORNETA BOCINA CON BANDERA",
-    "precio": 1,
+    "nombre": "CORNETA BOCINA CON BANDERA 28 CM",
+    "precio": 2500,
     "foto": "https://i.postimg.cc/dQrjhMJ0/daa5fb3a-0d3f-4296-863e-4beed7061ce1.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
@@ -2858,7 +2858,7 @@
   {
     "id": 529,
     "nombre": "VUVUZELA MEDIANA 34 CM",
-    "precio": 1,
+    "precio": 2500,
     "foto": "https://i.postimg.cc/TP5WBmwL/7dfbea7c-5986-4cfb-ae46-5f9475f20e05.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
@@ -2866,7 +2866,7 @@
   {
     "id": 530,
     "nombre": "CORNETA 20 CM",
-    "precio": 1,
+    "precio": 1600,
     "foto": "https://i.postimg.cc/5y4y9Fxk/ea95d074-d4d6-4a1c-ac25-9d0720148f7e.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
@@ -2882,7 +2882,7 @@
   {
     "id": 532,
     "nombre": "VINCHA CON BANDERA MUNDIAL",
-    "precio": 1,
+    "precio": 2500,
     "foto": "https://i.postimg.cc/tR8Rmf6v/aa5d4196-58c0-42ac-9931-131bd308a8ba.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
@@ -2890,7 +2890,7 @@
   {
     "id": 533,
     "nombre": "VUVUZELA CHICA MUNDIAL 18 CM",
-    "precio": 1,
+    "precio": 1800,
     "foto": "https://i.postimg.cc/y6RCWNJD/4611ef83-eb50-46aa-8a7f-9386ca7c8710.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
@@ -2898,7 +2898,7 @@
   {
     "id": 534,
     "nombre": "GORRO PILUSO",
-    "precio": 1,
+    "precio": 4800,
     "foto": "https://i.postimg.cc/Zn8QHCpm/80d5c8d2-44a8-4f13-ae59-97ab1eb75061.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
@@ -2914,7 +2914,7 @@
   {
     "id": 536,
     "nombre": "VUVUZELA GRANDE MUNDIAL 42 CM",
-    "precio": 1,
+    "precio": 3000,
     "foto": "https://i.postimg.cc/j2cXCNPm/bdd102e0-706c-4abb-ac58-49e55e3ac8af.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
@@ -2922,15 +2922,15 @@
   {
     "id": 537,
     "nombre": "VUVUZELA GRANDE",
-    "precio": 1,
+    "precio": 1900,
     "foto": "https://i.postimg.cc/cJ3BwPff/dbb08f7f-fdc6-4d91-8610-070296d69d5b.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
   },
   {
     "id": 538,
-    "nombre": "MANITOS APLAUDIDORA",
-    "precio": 1,
+    "nombre": "MANITOS APLAUDIDORA 23 CM",
+    "precio": 1000,
     "foto": "https://i.postimg.cc/c45RjdhN/5562ab51-c404-411a-b89b-d8eb7f59a637.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
@@ -2938,7 +2938,7 @@
   {
     "id": 539,
     "nombre": "BANDERA AUTO ARGENTINA",
-    "precio": 1,
+    "precio": 1100,
     "foto": "https://i.postimg.cc/6qbvDhdn/e1c1aef3-6345-479f-affb-5ac83276b0c4.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
@@ -2946,15 +2946,15 @@
   {
     "id": 540,
     "nombre": "BANDERA AUTO",
-    "precio": 1,
+    "precio": 1200,
     "foto": "https://i.postimg.cc/DyWJSLrP/db1ed6b7-f289-40a1-b2d5-d38538babd9f.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
   },
   {
     "id": 541,
-    "nombre": "CORNETA MUNDIAL",
-    "precio": 1,
+    "nombre": "CORNETA MUNDIAL 16 CM",
+    "precio": 900,
     "foto": "https://i.postimg.cc/VkQ65TLS/196376ad-05d7-47ff-8f8d-7ea4472d1755.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
