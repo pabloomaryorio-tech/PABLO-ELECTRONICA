@@ -682,10 +682,10 @@
   {
     "id": 160,
     "nombre": "LINTERNA MINI CAMUFLADA USB RECARGABLE",
-    "precio": 4250,
+    "precio": 3300,
     "foto": "https://i.postimg.cc/yxVqghXs/LINTERNAESTUCHE.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 162,
@@ -768,14 +768,6 @@
     "suspendido": false
   },
   {
-    "id": 180,
-    "nombre": "CADENA CANDADO LINGA GRUESA PARA MOTO /BIC",
-    "precio": 13270,
-    "foto": "https://i.postimg.cc/J09K4h21/LINGA.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
-  },
-  {
     "id": 181,
     "nombre": "CANDADO DE 25 MM MALETERO",
     "precio": 1200,
@@ -852,7 +844,7 @@
     "nombre": "ENCHUFE HEMBRA",
     "precio": 1150,
     "foto": "https://i.postimg.cc/rygDfx7B/Captura-de-pantalla-2025-09-11-170802.png",
-    "categoria": "ELECTRICIDAD",
+    "categoria": "ELECTRICIDAD ",
     "suspendido": false
   },
   {
@@ -860,7 +852,7 @@
     "nombre": "ENCHUFE MACHO",
     "precio": 1150,
     "foto": "https://i.postimg.cc/kMzJpGYM/Whats-App-Image-2025-09-10-at-20-57-08-1.jpg",
-    "categoria": "ELECTRICIDAD",
+    "categoria": "ELECTRICIDAD ",
     "suspendido": false
   },
   {
@@ -1385,7 +1377,7 @@
   },
   {
     "id": 331,
-    "nombre": "AURICULAR MANOS LIBRE FICHA I PHONE CAJA ACRILICA ",
+    "nombre": "AURICULAR MANOS LIBRES FICHA I PHONE CAJA ACRILICA ",
     "precio": 4700,
     "foto": "https://i.postimg.cc/JzbJPYDP/IMG-8020.jpg",
     "categoria": "AURICULARES C/CABLE",
@@ -2632,22 +2624,6 @@
     "suspendido": false
   },
   {
-    "id": 494,
-    "nombre": "PARLANTE BT KARAOKE CON MICROFONO Y VOCES VARIAS KTS 2010",
-    "precio": 15300,
-    "foto": "https://i.postimg.cc/dQnGnjwD/IMG-8212.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 495,
-    "nombre": "PARLANTE BT INALAMBRICO GTS 2265",
-    "precio": 9950,
-    "foto": "https://i.postimg.cc/pV0nKVJ9/IMG-8213.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 498,
     "nombre": "PARLANTE BT INALAMBRICO BT 113",
     "precio": 8700,
@@ -3321,7 +3297,7 @@
   },
   {
     "id": 1776437703890,
-    "nombre": "PARLANTE BT 8 PLG STAR V ",
+    "nombre": "PARLANTE BT INALAMBRICO 8 PLG STAR V SV - 8803",
     "precio": 33000,
     "foto": "https://i.postimg.cc/c1Ff48kf/3f2d5d6e-5506-4121-b3f1-dea2cbbfc297.jpg",
     "categoria": "PARLANTES",
@@ -3337,10 +3313,130 @@
   },
   {
     "id": 1776437880275,
-    "nombre": "PARLANTE BT INALAMBRICO GRANDE CON MIGROFONO ",
+    "nombre": "PARLANTE BT INALAMBRICO GRANDE CON MIGROFONO KTS 1940",
     "precio": 115000,
     "foto": "https://i.postimg.cc/TwgGNmyw/e866c131-11ac-4941-b175-a5650038a98a.jpg",
     "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1777038935100,
+    "nombre": "BOTELLA TERMICA ARGENTINA 500 ML ",
+    "precio": 12600,
+    "foto": "https://i.postimg.cc/50Zp7xQR/c640f682-713d-4c0b-b5b3-f858a556cae7.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 1777038984991,
+    "nombre": "PICO TERMO MATERO ",
+    "precio": 2850,
+    "foto": "https://i.postimg.cc/021c7ysw/932dc23b-83f9-4bc6-8991-e5341421ad4d.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1777039033278,
+    "nombre": "PARLANTE BT INALAMBRICO + PANEL SOLAR Y LINTERNA KTS 2031",
+    "precio": 10800,
+    "foto": "https://i.postimg.cc/X7Wkp1fv/66db15e5-cc85-46ae-8fb9-c92e04cd1469.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1777039167326,
+    "nombre": "COMPRESOR INFLADOR DE AUTO ",
+    "precio": 32500,
+    "foto": "https://i.postimg.cc/cL47cK5r/efec27eb-38ea-4d50-84fe-13807609f238.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1777039228092,
+    "nombre": "PARLANTE BT INALAMBRICO CON LINTERNA GTS 1533",
+    "precio": 7200,
+    "foto": "https://i.postimg.cc/KYCnF0cR/3e3e78bb-991d-4203-96fe-d70429b8c2f5.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1777039263885,
+    "nombre": "PARLANTE BT INALAMBRICO CON LUZ KTX 1997 ",
+    "precio": 6800,
+    "foto": "https://i.postimg.cc/2yDhL3Bg/5463ae1b-2506-4cfc-8449-a1394fb5bd67.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1777039308373,
+    "nombre": "PARLANTE BT INALAMBRICO 4 X 2  SV-2402",
+    "precio": 25000,
+    "foto": "https://i.postimg.cc/65BC92KZ/cd955e91-6370-4a17-a478-1b2e9d5119a5.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1777039364092,
+    "nombre": "PARLANTE BT INALAMBRICO GTS 1679",
+    "precio": 7850,
+    "foto": "https://i.postimg.cc/wjvJmC79/1f381fb6-5377-423d-ab82-0c57bb1e2af2.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1777039421685,
+    "nombre": "RADIO BT INALAMBRICO AM FM CON LINTERNA  KTF 1472",
+    "precio": 13500,
+    "foto": "https://i.postimg.cc/Z5MNFwdp/779823e3-f439-4485-ba28-af66860b3c88.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1777039456996,
+    "nombre": "PARLANTE BT INALAMBRICO GTS 1349 ",
+    "precio": 5700,
+    "foto": "https://i.postimg.cc/28HLr028/fe9e72f2-dc4f-46e7-87c0-61b6e0eb9ff9.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1777039519573,
+    "nombre": "NEBULIZADOR ADULTO NIÑO RECARGABLE Y A PILAS ",
+    "precio": 17100,
+    "foto": "https://i.postimg.cc/bvnZ0p8f/41da3265-05e3-425d-8473-f36d0019eda2.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1777039643102,
+    "nombre": "TUPPER DE VIDRIO HERMETICO REDONDO X 3 ",
+    "precio": 17800,
+    "foto": "https://i.postimg.cc/j2M18VKL/bb9fe488-2a2e-4803-814c-cd86b46c2dd3.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1777039707205,
+    "nombre": "SET DE HERRAMIENTAS + LINTERNA CON PANEL SOLAR ",
+    "precio": 22300,
+    "foto": "https://i.postimg.cc/ryj7y4WT/b0f41b7e-ed9f-4bd8-b945-7f55bfb52aec.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1777039764453,
+    "nombre": "MAQUINA BARBERA 3 EN 1 USB RECARGABLE ",
+    "precio": 14900,
+    "foto": "https://i.postimg.cc/RVb8KzXp/fa0d2796-118f-4c15-b5a2-0f54045feab7.jpg",
+    "categoria": "TODO PARA HOMBRES",
+    "suspendido": false
+  },
+  {
+    "id": 1777039984277,
+    "nombre": "RELOJ DESPERTADOR ALARMA CAMPANA ",
+    "precio": 8950,
+    "foto": "https://i.postimg.cc/jdXfFspt/d750c1f5-24db-4594-bb77-fc0e2bd3a5c3.jpg",
+    "categoria": "HOGAR",
     "suspendido": false
   }
 ]
