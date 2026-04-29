@@ -2653,7 +2653,7 @@
     "precio": 21700,
     "foto": "https://i.postimg.cc/PrSst9hP/IMG-8221.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 504,
@@ -2661,29 +2661,13 @@
     "precio": 19500,
     "foto": "https://i.postimg.cc/DyjHVGd7/IMG-8222.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 505,
     "nombre": "RADIO AM FM VINTAGE 4 BANDAS KTF 1647",
     "precio": 20300,
     "foto": "https://i.postimg.cc/tg0ryN1R/IMG-8223.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 506,
-    "nombre": "RADIO 4 BANDAS SUONO",
-    "precio": 16400,
-    "foto": "https://i.postimg.cc/FKgxv55k/IMG-8224.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": true
-  },
-  {
-    "id": 507,
-    "nombre": "RADIO AM FM 8 BANDAS",
-    "precio": 23900,
-    "foto": "https://i.postimg.cc/9QydP5Mh/IMG-8225.jpg",
     "categoria": "PARLANTES",
     "suspendido": true
   },
@@ -2714,7 +2698,7 @@
   {
     "id": 512,
     "nombre": "PENDRIVE SANDISK 16 GB",
-    "precio": 10800,
+    "precio": 10500,
     "foto": "https://i.postimg.cc/QxWCGY8F/700ff112-7619-4110-b08c-eea406a85422.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2722,7 +2706,7 @@
   {
     "id": 513,
     "nombre": "PENDRIVE SANDISK 32 GB",
-    "precio": 15300,
+    "precio": 13300,
     "foto": "https://i.postimg.cc/zDhv4PXf/d9f2d3d5-738d-4048-b762-6734611f00a2.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2730,7 +2714,7 @@
   {
     "id": 514,
     "nombre": "PENDRIVE SANDISK 64 GB",
-    "precio": 17900,
+    "precio": 15500,
     "foto": "https://i.postimg.cc/fL9WnJZ4/1842a881-d064-45f1-9b8d-61ef109831c4.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2738,7 +2722,7 @@
   {
     "id": 515,
     "nombre": "PENDRIVE SANDISK 128 GB",
-    "precio": 24300,
+    "precio": 22500,
     "foto": "https://i.postimg.cc/FsD46jcr/2459d471-795d-4e14-ac10-58aad0c8b72c.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2762,18 +2746,18 @@
   {
     "id": 518,
     "nombre": "MEMORIA SANDISK 32 GB",
-    "precio": 15300,
+    "precio": 12750,
     "foto": "https://i.postimg.cc/RVjR4Yw7/f27526a9-22b6-4f82-9904-5c51c9fb26bf.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 519,
     "nombre": "MEMORIA SANDISK 64 GB",
-    "precio": 17900,
+    "precio": 21750,
     "foto": "https://i.postimg.cc/gc7yH7tw/651723b6-772d-4f95-bf1d-d691ab11c2c7.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 520,
@@ -3249,7 +3233,7 @@
   },
   {
     "id": 1776437052853,
-    "nombre": "RADIO VINTAGE BT/FM/MP3 RECARGABLE ",
+    "nombre": "RADIO VINTAGE BT/FM/MP3 RECARGABLE GTS 1959",
     "precio": 8500,
     "foto": "https://i.postimg.cc/fbsNPkNj/129303cf-6b6e-4fbb-9b6e-388c9546a9e6.jpg",
     "categoria": "PARLANTES",
@@ -3317,7 +3301,7 @@
     "precio": 115000,
     "foto": "https://i.postimg.cc/TwgGNmyw/e866c131-11ac-4941-b175-a5650038a98a.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777038935100,
@@ -3393,7 +3377,7 @@
   },
   {
     "id": 1777039456996,
-    "nombre": "PARLANTE BT INALAMBRICO GTS 1349 ",
+    "nombre": "PARLANTE BT INALAMBRICO GTS 2288",
     "precio": 5700,
     "foto": "https://i.postimg.cc/28HLr028/fe9e72f2-dc4f-46e7-87c0-61b6e0eb9ff9.jpg",
     "categoria": "PARLANTES",
