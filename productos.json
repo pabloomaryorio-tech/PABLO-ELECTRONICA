@@ -53,7 +53,7 @@
     "precio": 1950,
     "foto": "https://i.postimg.cc/qBtffZYB/CAR-53006.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 12,
@@ -341,7 +341,7 @@
     "precio": 5500,
     "foto": "https://i.postimg.cc/Z5PW6zGV/S20B.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 78,
@@ -474,7 +474,7 @@
   {
     "id": 106,
     "nombre": "ESPEJO METAL + ZOOM DE 7´",
-    "precio": 2900,
+    "precio": 3200,
     "foto": "https://i.postimg.cc/4yCnJ5PW/MIRROR.png",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": false
@@ -566,14 +566,6 @@
     "foto": "https://i.postimg.cc/qR00LcQV/CRT-110017.jpg",
     "categoria": "TODO PARA HOMBRES",
     "suspendido": false
-  },
-  {
-    "id": 127,
-    "nombre": "SET ALICATES",
-    "precio": 2450,
-    "foto": "https://i.postimg.cc/Y0J4Kqc1/PEINE.jpg",
-    "categoria": "TODO PARA MUJERES ",
-    "suspendido": true
   },
   {
     "id": 128,
@@ -834,7 +826,7 @@
   {
     "id": 190,
     "nombre": "ENCHUFE AMERICANO FICHA PLANA",
-    "precio": 700,
+    "precio": 749.98,
     "foto": "https://i.postimg.cc/kXW2NWMP/Captura-de-pantalla-2025-09-11-161544.png",
     "categoria": "ELECTRICIDAD ",
     "suspendido": false
@@ -1069,7 +1061,7 @@
     "precio": 1000,
     "foto": "https://i.postimg.cc/T1P7hxfh/AURI.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 251,
@@ -1109,7 +1101,7 @@
     "precio": 14600,
     "foto": "https://i.postimg.cc/gk3s2vBB/mandolina.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 260,
@@ -1170,7 +1162,7 @@
   {
     "id": 280,
     "nombre": "ESPEJO METAL + ZOOM DE 8\"",
-    "precio": 3200,
+    "precio": 3500,
     "foto": "https://i.postimg.cc/s2XBsSmD/espejo.png",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": false
@@ -1341,7 +1333,7 @@
     "precio": 2400,
     "foto": "https://i.postimg.cc/sgtp2cLL/cablleibek.png",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 327,
@@ -1725,7 +1717,7 @@
     "precio": 4350,
     "foto": "https://i.postimg.cc/T1tkRZyj/IMG-8072.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 376,
@@ -1853,7 +1845,7 @@
     "precio": 3800,
     "foto": "https://i.postimg.cc/fRNMVRKJ/IMG-8091.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 394,
@@ -2080,14 +2072,6 @@
     "suspendido": false
   },
   {
-    "id": 423,
-    "nombre": "VASO TERMICO CON TAPA ANTIDERRAME 500ML",
-    "precio": 10800,
-    "foto": "https://i.postimg.cc/Nf1yMMTG/IMG-8130.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
-  },
-  {
     "id": 424,
     "nombre": "TAPON DE TERMO CON PICO",
     "precio": 2100,
@@ -2197,7 +2181,7 @@
     "precio": 9300,
     "foto": "https://i.postimg.cc/rwpGBx0c/IMG-8143.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 438,
@@ -2457,8 +2441,8 @@
   },
   {
     "id": 472,
-    "nombre": "CUCHILLO 8 PULGADAS 20 CM",
-    "precio": 4200,
+    "nombre": "CUCHILLO 7 PULGADAS 20 CM",
+    "precio": 3200,
     "foto": "https://i.postimg.cc/gJDv6vgz/IMG-8203.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2469,7 +2453,7 @@
     "precio": 1300,
     "foto": "https://i.postimg.cc/65xznS1z/IMG-8235.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 474,
@@ -3240,22 +3224,6 @@
     "suspendido": false
   },
   {
-    "id": 1776437179316,
-    "nombre": "KIT DE CAMARAS 1080 HD ",
-    "precio": 109000,
-    "foto": "https://i.postimg.cc/CL4XKJTK/a5cb3e75-e878-4b59-9526-e68085c4e43b.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1776437474860,
-    "nombre": "HIDROLAVADORA PORTATIL 240W 8106",
-    "precio": 43200,
-    "foto": "https://i.postimg.cc/gJd3ryPd/e1652690-5ef9-4366-8e6b-98a5ec94ac59.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
     "id": 1776437541106,
     "nombre": "COLCHON INFLABLE + INFLADOR MANUAL ",
     "precio": 25700,
@@ -3269,14 +3237,6 @@
     "precio": 27000,
     "foto": "https://i.postimg.cc/tTXV9Xhg/57ec98a5-e94c-4f78-9e7f-6d33ad39dd61.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1776437651130,
-    "nombre": "DRONE PRO MAX HD ",
-    "precio": 31000,
-    "foto": "https://i.postimg.cc/LXNgXrTv/9b1bc80e-7498-45c5-b6b3-4067965f4b35.jpg",
-    "categoria": "VARIOS",
     "suspendido": false
   },
   {
@@ -3294,14 +3254,6 @@
     "foto": "https://i.postimg.cc/m2qM7Wss/5069a8d2-0651-4157-98d8-4b41709b2da1.jpg",
     "categoria": "HOGAR",
     "suspendido": false
-  },
-  {
-    "id": 1776437880275,
-    "nombre": "PARLANTE BT INALAMBRICO GRANDE CON MIGROFONO KTS 1940",
-    "precio": 115000,
-    "foto": "https://i.postimg.cc/TwgGNmyw/e866c131-11ac-4941-b175-a5650038a98a.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": true
   },
   {
     "id": 1777038935100,
@@ -3421,6 +3373,62 @@
     "precio": 8950,
     "foto": "https://i.postimg.cc/jdXfFspt/d750c1f5-24db-4594-bb77-fc0e2bd3a5c3.jpg",
     "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1777558725685,
+    "nombre": "PARLANTE BT INALAMBRICO GTS 2288",
+    "precio": 5700,
+    "foto": "https://i.postimg.cc/dVFdrmfT/07f6c9b9-fc22-4826-b351-1d738a470f16.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1777558751328,
+    "nombre": "TRANSMISOR BT KARSEN 3,1",
+    "precio": 6300,
+    "foto": "https://i.postimg.cc/ZRWy4fWG/8df92208-5c40-4629-80b7-aceefaad1a10.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false
+  },
+  {
+    "id": 1777558792560,
+    "nombre": "JOYSTICK PLAY 4 SONY ",
+    "precio": 23500,
+    "foto": "https://i.postimg.cc/7h7GTfMB/fe5d66f8-39a6-4dc4-a53a-c79516702291.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1777558812240,
+    "nombre": "AURICULAR BT INALAMBRICO JK 603",
+    "precio": 5600,
+    "foto": "https://i.postimg.cc/pT35TD8V/0eb10a75-fffd-432d-9026-ca3ba3b3b935.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1777558837392,
+    "nombre": "ALARGUE REFORZADO CON CORTE DE CORRIENTE",
+    "precio": 10500,
+    "foto": "https://i.postimg.cc/zXZRYF8s/855d6868-b81c-4564-b19e-9082196a7f7d.jpg",
+    "categoria": "ELECTRICIDAD ",
+    "suspendido": false
+  },
+  {
+    "id": 1777558859216,
+    "nombre": "TERMO MATE LISTO DE ACERO , 750 ML BOMBILLA METAL ",
+    "precio": 21900,
+    "foto": "https://i.postimg.cc/9QcRrX44/2b78f996-e09e-44fd-97e7-fca412f55faa.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1777558889896,
+    "nombre": "RADIO VINTAGE AM/FM USB RECARGABLE KTF 2016",
+    "precio": 21900,
+    "foto": "https://i.postimg.cc/kgwV8r8y/e1bc1414-370d-426c-bb71-aebbc0fb1976.jpg",
+    "categoria": "PARLANTES",
     "suspendido": false
   }
 ]
