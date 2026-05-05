@@ -37,7 +37,7 @@
     "precio": 4300,
     "foto": "https://i.postimg.cc/fLzFcbZz/TMCC408.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 10,
@@ -213,7 +213,7 @@
     "precio": 1350,
     "foto": "https://i.postimg.cc/2yD2C6vZ/Whats-App-Image-2025-09-10-at-20-57-09.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 39,
@@ -1057,11 +1057,11 @@
   },
   {
     "id": 249,
-    "nombre": "AURICULAR MANOS LIBRES BLANCO BOLSITA",
-    "precio": 1000,
+    "nombre": "AURICULAR  BLANCO BOLSITA EXCELENTE CALIDAD ",
+    "precio": 1600,
     "foto": "https://i.postimg.cc/T1P7hxfh/AURI.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 251,
@@ -1298,10 +1298,10 @@
   {
     "id": 313,
     "nombre": "BATIDORA DE CAFE RECARGABLE",
-    "precio": 6825,
+    "precio": 6700,
     "foto": "https://i.postimg.cc/wBncWQ68/Btidora.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 316,
@@ -2133,7 +2133,7 @@
     "precio": 6200,
     "foto": "https://i.postimg.cc/85zZw9RB/IMG-8147.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 432,
@@ -3101,7 +3101,7 @@
     "precio": 19300,
     "foto": "https://i.postimg.cc/02rTZYzr/a9abe65a-fa44-44aa-afcf-15b34069a384.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1775837309021,
@@ -3129,7 +3129,7 @@
   },
   {
     "id": 1775837732415,
-    "nombre": "LINTERNA LED USB RECARGABLE S008 ",
+    "nombre": "LINTERNA LED MINI USB RECARGABLE S008 ",
     "precio": 2600,
     "foto": "https://i.postimg.cc/qR5PdqFW/1e1c3237-af24-41d3-873d-38832d2cc8b6.jpg",
     "categoria": "ILUMINACION",
