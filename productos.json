@@ -165,7 +165,7 @@
     "precio": 1450,
     "foto": "https://i.postimg.cc/MpBny6Kj/CAB-41002.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 30,
@@ -194,7 +194,7 @@
   {
     "id": 35,
     "nombre": "CABLE AUXILIAR 1,5 M BOLSA",
-    "precio": 850,
+    "precio": 900,
     "foto": "https://i.postimg.cc/Mphrk22Q/Whats-App-Image-2025-09-10-at-20-57-07-1.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
@@ -205,7 +205,7 @@
     "precio": 1400,
     "foto": "https://i.postimg.cc/K8SLVVP1/Captura-de-pantalla-2025-09-11-200114.png",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 38,
@@ -634,7 +634,7 @@
   {
     "id": 146,
     "nombre": "PELOTA DE FUTBOL N°2 PERSONAJES",
-    "precio": 3500,
+    "precio": 3850,
     "foto": "https://i.postimg.cc/RV0QbyBH/pelota2.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
@@ -645,7 +645,7 @@
     "precio": 4200,
     "foto": "https://i.postimg.cc/y86ksZZT/B-505.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 150,
@@ -856,14 +856,6 @@
     "suspendido": false
   },
   {
-    "id": 195,
-    "nombre": "LLAVE T SET 24 PCS",
-    "precio": 3350,
-    "foto": "https://i.postimg.cc/G2BxhfZd/TS-024.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
-  },
-  {
     "id": 196,
     "nombre": "TRIPLE PIRAMIDE",
     "precio": 1950,
@@ -876,14 +868,6 @@
     "nombre": "TRIPLE DOBLE PLANO REFORZADO",
     "precio": 1950,
     "foto": "https://i.postimg.cc/L5pT9Lmk/Whats-App-Image-2025-09-10-at-20-57-08-2.jpg",
-    "categoria": "ELECTRICIDAD ",
-    "suspendido": false
-  },
-  {
-    "id": 198,
-    "nombre": "ZAPATILLA X 3 MTS. REFORZADO",
-    "precio": 3550,
-    "foto": "https://i.postimg.cc/J4p922zN/Captura-de-pantalla-2025-09-11-161504.png",
     "categoria": "ELECTRICIDAD ",
     "suspendido": false
   },
@@ -997,7 +981,7 @@
     "precio": 12500,
     "foto": "https://i.postimg.cc/63Mj3S6Q/600M.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 227,
@@ -1025,11 +1009,11 @@
   },
   {
     "id": 237,
-    "nombre": "VASO TERMICO 1.0 ML CON SORBETE",
+    "nombre": "VASO TERMICO 1.0 L CON SORBETE",
     "precio": 12900,
     "foto": "https://i.postimg.cc/h40pxf55/BOTELLA-TERM-800ML.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 240,
@@ -1477,7 +1461,7 @@
     "precio": 4850,
     "foto": "https://i.postimg.cc/HWPdhbf6/IMG-8034.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 345,
@@ -1621,7 +1605,7 @@
     "precio": 1950,
     "foto": "https://i.postimg.cc/5ybcHqk0/IMG-8056.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 363,
@@ -1781,7 +1765,7 @@
     "precio": 1250,
     "foto": "https://i.postimg.cc/JnrTXrWw/IMG-8084.jpg",
     "categoria": "ELECTRICIDAD ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 386,
@@ -1917,12 +1901,12 @@
     "precio": 4400,
     "foto": "https://i.postimg.cc/bwxkndjP/IMG-8115.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 403,
     "nombre": "CABLE PARA AUTO BOOSTER 500 MP",
-    "precio": 8400,
+    "precio": 8900,
     "foto": "https://i.postimg.cc/fLtxJCWQ/IMG-8113.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1989,7 +1973,7 @@
     "precio": 3600,
     "foto": "https://i.postimg.cc/RhmydNDF/cbe3e6cb-64fb-4822-9c41-237e2a7060ce.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 413,
@@ -2017,7 +2001,7 @@
   },
   {
     "id": 416,
-    "nombre": "CINTA DOBLE FAZ X 5 MT",
+    "nombre": "CINTA DOBLE FAZ X 3 MT",
     "precio": 1950,
     "foto": "https://i.postimg.cc/ZqKr8Zc2/IMG-8116.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2249,8 +2233,8 @@
   },
   {
     "id": 447,
-    "nombre": "LUZ BICI  BLANCO/ROJO USB RECARGABLE",
-    "precio": 2150,
+    "nombre": "LUZ BICI KIT X2 BLANCO/ROJO USB RECARGABLE",
+    "precio": 4500,
     "foto": "https://i.postimg.cc/SKRhYTn5/IMG-8158.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -2314,7 +2298,7 @@
   {
     "id": 456,
     "nombre": "PELUCHE LABUBU SORPRESA",
-    "precio": 9900,
+    "precio": 7900,
     "foto": "https://i.postimg.cc/BbXpxFTb/IMG-8168.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
@@ -2434,7 +2418,7 @@
   {
     "id": 471,
     "nombre": "ABRELATAS",
-    "precio": 2550,
+    "precio": 2700,
     "foto": "https://i.postimg.cc/Hkc4P8kL/IMG-8202.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2482,7 +2466,7 @@
   {
     "id": 477,
     "nombre": "MINI FAN DINOSAURIO",
-    "precio": 7950,
+    "precio": 7300,
     "foto": "https://i.postimg.cc/qvVz4NGn/IMG-8182.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
@@ -2690,7 +2674,7 @@
   {
     "id": 513,
     "nombre": "PENDRIVE SANDISK 32 GB",
-    "precio": 13300,
+    "precio": 13600,
     "foto": "https://i.postimg.cc/zDhv4PXf/d9f2d3d5-738d-4048-b762-6734611f00a2.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2698,7 +2682,7 @@
   {
     "id": 514,
     "nombre": "PENDRIVE SANDISK 64 GB",
-    "precio": 15500,
+    "precio": 17900,
     "foto": "https://i.postimg.cc/fL9WnJZ4/1842a881-d064-45f1-9b8d-61ef109831c4.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2706,7 +2690,7 @@
   {
     "id": 515,
     "nombre": "PENDRIVE SANDISK 128 GB",
-    "precio": 22500,
+    "precio": 26500,
     "foto": "https://i.postimg.cc/FsD46jcr/2459d471-795d-4e14-ac10-58aad0c8b72c.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2722,7 +2706,7 @@
   {
     "id": 517,
     "nombre": "MEMORIA SANDISK 16 GB",
-    "precio": 10500,
+    "precio": 11800,
     "foto": "https://i.postimg.cc/nV3SbTRf/c21d5071-657a-4d72-b9a3-f1ad63034f9d.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2730,7 +2714,7 @@
   {
     "id": 518,
     "nombre": "MEMORIA SANDISK 32 GB",
-    "precio": 12750,
+    "precio": 13500,
     "foto": "https://i.postimg.cc/RVjR4Yw7/f27526a9-22b6-4f82-9904-5c51c9fb26bf.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2738,7 +2722,7 @@
   {
     "id": 519,
     "nombre": "MEMORIA SANDISK 64 GB",
-    "precio": 21750,
+    "precio": 22500,
     "foto": "https://i.postimg.cc/gc7yH7tw/651723b6-772d-4f95-bf1d-d691ab11c2c7.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2764,14 +2748,6 @@
     "nombre": "SOPORTE CELULAR AUTO FLEXIBLE",
     "precio": 2350,
     "foto": "https://i.postimg.cc/h4r2BMG8/IMG-8252.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
-    "id": 524,
-    "nombre": "SOPORTE CELULAR AUTO",
-    "precio": 2600,
-    "foto": "https://i.postimg.cc/bvkRF9M2/IMG-8253.jpg",
     "categoria": "VARIOS",
     "suspendido": false
   },
@@ -2880,20 +2856,12 @@
     "suspendido": false
   },
   {
-    "id": 539,
-    "nombre": "BANDERA AUTO ARGENTINA",
-    "precio": 1100,
-    "foto": "https://i.postimg.cc/6qbvDhdn/e1c1aef3-6345-479f-affb-5ac83276b0c4.jpg",
-    "categoria": "MUNDIAL",
-    "suspendido": false
-  },
-  {
     "id": 540,
     "nombre": "BANDERA AUTO",
     "precio": 1200,
     "foto": "https://i.postimg.cc/DyWJSLrP/db1ed6b7-f289-40a1-b2d5-d38538babd9f.jpg",
     "categoria": "MUNDIAL",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 541,
@@ -3042,7 +3010,7 @@
   {
     "id": 1774985425956,
     "nombre": "SARTEN MULTIFUNCIONAL PIEDRA VOLCANICA",
-    "precio": 1,
+    "precio": 14000,
     "foto": "https://i.postimg.cc/jq3Cct6c/22e115c3-c66c-475c-af49-014886dadaf2.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -3125,7 +3093,7 @@
     "precio": 6500,
     "foto": "https://i.postimg.cc/g0BgqzRm/IMG-8945.png",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1775837732415,
@@ -3221,7 +3189,7 @@
     "precio": 8500,
     "foto": "https://i.postimg.cc/fbsNPkNj/129303cf-6b6e-4fbb-9b6e-388c9546a9e6.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1776437541106,
