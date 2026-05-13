@@ -3398,5 +3398,85 @@
     "foto": "https://i.postimg.cc/kgwV8r8y/e1bc1414-370d-426c-bb71-aebbc0fb1976.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
+  },
+  {
+    "id": 1778683646113,
+    "nombre": "GORRO ROCKY",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/3JjBPfzY/c69ac39b-cb6e-4597-b6c6-c63a970326f6.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1778683682583,
+    "nombre": "CUELLITO POLAR ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/qvR3jmTb/d668b255-32d1-42c9-8ded-9836b22ad964.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1778683736792,
+    "nombre": "GUANTE POLAR MUJER ",
+    "precio": 3000,
+    "foto": "https://i.postimg.cc/nL9TwVJg/4fd12c2e-50e9-4ced-9be9-c934a2807a1e.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1778683762351,
+    "nombre": "GUANTE MOTO ",
+    "precio": 6000,
+    "foto": "https://i.postimg.cc/hjq8y9MR/3b3f7a97-3b48-4fce-ab42-d3a90615d32f.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1778683914920,
+    "nombre": "GUANTE  MAGICO ",
+    "precio": 1000,
+    "foto": "https://i.postimg.cc/htz9KC5f/14b9aea2-6acc-4eea-a854-099eef1e5f51.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1778683958447,
+    "nombre": "GUANTE BEBE PELUCHE ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/0Qc6YmB7/dba6af7e-17f7-4186-a9e5-7a900848aea6.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1778683992231,
+    "nombre": "GUANTE MULTICOLOR ",
+    "precio": 1400,
+    "foto": "https://i.postimg.cc/W3bz1z1g/34216bc7-babd-4c53-912e-9f4257ff9650.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1778684024935,
+    "nombre": "GUANTE TACTIL ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/htBdqSTr/d3ec2d4d-9c1c-4015-9a73-cf01ab30c76c.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1778684115880,
+    "nombre": "GUANTE MAGICO GRUESO ",
+    "precio": 1200,
+    "foto": "https://i.postimg.cc/rph0WxbQ/adaf459e-df82-4f5f-81f8-b88b5607a9c4.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1778684146352,
+    "nombre": "GUANTE PELUCHE MUJER ",
+    "precio": 2100,
+    "foto": "https://i.postimg.cc/zDHbbLkW/94998b27-84ca-47ef-a666-72ed6235dc8d.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
   }
 ]
