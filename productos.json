@@ -1826,10 +1826,10 @@
   {
     "id": 393,
     "nombre": "SET DE DESTORNILLADOR X 6",
-    "precio": 3800,
+    "precio": 3600,
     "foto": "https://i.postimg.cc/fRNMVRKJ/IMG-8091.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 394,
@@ -2218,7 +2218,7 @@
   {
     "id": 445,
     "nombre": "TIRA LED RGB 50 X 50 X 5 MTS.",
-    "precio": 9700,
+    "precio": 9100,
     "foto": "https://i.postimg.cc/nhc41tKP/ba64385e-a8ff-4387-ad68-f011c00ef7fc.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -3477,6 +3477,86 @@
     "precio": 2100,
     "foto": "https://i.postimg.cc/zDHbbLkW/94998b27-84ca-47ef-a666-72ed6235dc8d.jpg",
     "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1778685574666,
+    "nombre": "CARGADOR TIPO C IBEK 2.6 AMP ",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/4yhqTvVZ/0caf5f91-6a11-4f39-bb8b-2e578a84a88e.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1778685707304,
+    "nombre": "CARGADOR CABEZAL PRO MAX 35W + CABLE TIPO C A TIPO C ",
+    "precio": 5650,
+    "foto": "https://i.postimg.cc/KY8ZhVzY/c80434a8-ff9a-46a0-889e-322fc678ec82.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1778685872617,
+    "nombre": "GORRO DE LANA RALLADO ",
+    "precio": 2900,
+    "foto": "https://i.postimg.cc/mZv218XG/34a5de50-b68c-4a89-9cc1-2848ef952425.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1778685935641,
+    "nombre": "GORRO LANA MUJER CON POMPON ",
+    "precio": 6500,
+    "foto": "https://i.postimg.cc/m27ZYCJH/778699d8-b363-45ac-8185-211b3e4c445f.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1778686038377,
+    "nombre": "ZAPATILLA REFORZADA SICILIA X 5 MTS CON FICHA DE CORTE ",
+    "precio": 5900,
+    "foto": "https://i.postimg.cc/Nj4gVYQZ/bfa01d8f-5199-4e15-bf46-1afabc154e43.jpg",
+    "categoria": "ELECTRICIDAD ",
+    "suspendido": false
+  },
+  {
+    "id": 1778686085617,
+    "nombre": "ZAPATILLA REFORZADA SICILIA X 3 MTS CON FICHA DE CORTE ",
+    "precio": 4950,
+    "foto": "https://i.postimg.cc/Nj4gVYQZ/bfa01d8f-5199-4e15-bf46-1afabc154e43.jpg",
+    "categoria": "ELECTRICIDAD ",
+    "suspendido": false
+  },
+  {
+    "id": 1778686245322,
+    "nombre": "MARTILLO REFORZADO EXCELENTE CALIDAD ",
+    "precio": 6500,
+    "foto": "https://i.postimg.cc/vBWMrd29/0ca466ce-b361-47ff-9b9c-8dbcc3b7c062.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": true
+  },
+  {
+    "id": 1778686276233,
+    "nombre": "MARTILLO COMUN ",
+    "precio": 7300,
+    "foto": "https://i.postimg.cc/kGqCwhkm/e5f04b7b-9197-4588-81a1-5b051cf6c39b.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1778686361505,
+    "nombre": "CARTAS UNO ARGENTINA ",
+    "precio": 2200,
+    "foto": "https://i.postimg.cc/1zwbTr0R/D-NQ-NP-2X-751576-MLA109926862671-042026-F.webp",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 1778688993951,
+    "nombre": "CARGADOR CABEZAL 35 W + CABLE TIPO C A I PHONE ",
+    "precio": 6100,
+    "foto": "https://i.postimg.cc/X7mWSNPs/3074ef8f-327d-4398-a517-f12d402a523e.jpg",
+    "categoria": "CARGADORES",
     "suspendido": false
   }
 ]
