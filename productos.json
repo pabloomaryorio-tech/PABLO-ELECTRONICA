@@ -939,7 +939,7 @@
     "id": 224,
     "nombre": "REPETIDOR WIFI",
     "precio": 12500,
-    "foto": "https://i.postimg.cc/63Mj3S6Q/600M.jpg",
+    "foto": "https://i.postimg.cc/PJrJV3CP/1f1f9d71-3294-406c-a222-53769034986b.jpg",
     "categoria": "TECNOLOGIA",
     "suspendido": false
   },
@@ -3349,6 +3349,70 @@
     "precio": 3300,
     "foto": "https://i.postimg.cc/7h7mjd3P/dba589ac-0a96-4134-8dcd-c998d9b409f5.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
+    "suspendido": false
+  },
+  {
+    "id": 1779834960798,
+    "nombre": "LINTERNA USB RECARGABLE CON ZOOM  ",
+    "precio": 7950,
+    "foto": "https://i.postimg.cc/nzxCBcZ4/26afe0a1-441d-4b00-b874-01dc97952ed4.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1779834989699,
+    "nombre": "GUANTE MOTEADO DE TRABAJO ",
+    "precio": 1000,
+    "foto": "https://i.postimg.cc/D024kfMr/098b3b63-0679-49b8-af1c-8cbdb3fc8a69.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1779835043236,
+    "nombre": "DESTORNILLADOR CON MANGO DE GOMA X 6",
+    "precio": 5500,
+    "foto": "https://i.postimg.cc/Lscj7pSh/c41f3ad7-520a-4b11-a22f-47befd3bbacc.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1779835086860,
+    "nombre": "DESTORNILLADOR X 2 + BUSCA POLO ",
+    "precio": 2450,
+    "foto": "https://i.postimg.cc/Jhkkj2Xn/46033d9b-35f1-4a2d-859f-07058361e8b2.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1779835127068,
+    "nombre": "TECLADO NOGA GAMER ",
+    "precio": 9100,
+    "foto": "https://i.postimg.cc/Ghg8VCJt/aa60f668-e853-418b-90e7-1d894667bb85.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1779835230356,
+    "nombre": "BALANZA GRAMERA ",
+    "precio": 6950,
+    "foto": "https://i.postimg.cc/Yq0j1PKC/c4a2fbb9-61f3-4461-873b-43ce278377c0.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1779835282276,
+    "nombre": "CABLE TIPO C A I PHONE IBEK 5.0",
+    "precio": 2250,
+    "foto": "https://i.postimg.cc/YqP08xM2/1256a8fb-d930-4909-9ecd-d48690084b51.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1779835327348,
+    "nombre": "CARGADOR CABEZAL SAMSUNG 45W USB C ",
+    "precio": 4400,
+    "foto": "https://i.postimg.cc/MpjTLjpB/62ba990c-3271-4e72-b748-9f60f1f18343.jpg",
+    "categoria": "CARGADORES",
     "suspendido": false
   }
 ]
