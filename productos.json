@@ -2733,7 +2733,7 @@
     "precio": 1200,
     "foto": "https://i.postimg.cc/DyWJSLrP/db1ed6b7-f289-40a1-b2d5-d38538babd9f.jpg",
     "categoria": "MUNDIAL",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 541,
@@ -3211,7 +3211,7 @@
     "id": 1777558792560,
     "nombre": "JOYSTICK PLAY 4 SONY ",
     "precio": 23500,
-    "foto": "https://i.postimg.cc/7h7GTfMB/fe5d66f8-39a6-4dc4-a53a-c79516702291.jpg",
+    "foto": "https://i.postimg.cc/HkMPfJtt/fb347458-710b-47b9-96b3-41732358e9c8.jpg",
     "categoria": "COMPUTACION",
     "suspendido": false
   },
@@ -3405,6 +3405,118 @@
     "precio": 6100,
     "foto": "https://i.postimg.cc/X7mWSNPs/3074ef8f-327d-4398-a517-f12d402a523e.jpg",
     "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1779819492700,
+    "nombre": "BANDERA  ARGENTINA 90 X 145 ",
+    "precio": 2800,
+    "foto": "https://i.postimg.cc/W11QCpH8/40c86b46-166b-429b-bb2c-a356eb1dc298.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 1779819607970,
+    "nombre": "LINTERNA LED MINI USB RECARGABLE BLISTER ",
+    "precio": 3500,
+    "foto": "https://i.postimg.cc/pX275XR9/a61e2148-d3f6-42fe-ba4d-419233bf9530.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1779819649562,
+    "nombre": "CAMARA IP FIJA EXTERIOR CON WIFI ",
+    "precio": 29500,
+    "foto": "https://i.postimg.cc/J4PFNVzK/f3497798-2705-4653-b57b-9d2e2fbf5fbb.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1779819725489,
+    "nombre": "GORRO CORDERITO + CUELLO UNISEX ",
+    "precio": 5400,
+    "foto": "https://i.postimg.cc/vZTNXq1w/fdebee5e-8016-485e-a7b2-ae9dcbd3c0b6.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1779819920113,
+    "nombre": "RADIO BT AM FM CON PANEL SOLAR 1488",
+    "precio": 16900,
+    "foto": "https://i.postimg.cc/Ghh7h7xG/d246dbdd-eff1-4cdc-b363-743e6ed24bc3.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1779819986593,
+    "nombre": "LINTERNA LED USB RECARGABLE SF-502A ",
+    "precio": 3800,
+    "foto": "https://i.postimg.cc/L66C6C3S/11c153e8-abb4-41b6-83c5-18563960c137.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1779820061450,
+    "nombre": "PELOTA DE VOLEY ",
+    "precio": 7499.98,
+    "foto": "https://i.postimg.cc/MKPsc79N/ba33f383-bd34-4909-9006-415afc598bd3.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1779820153882,
+    "nombre": "GUANTES INFANTILES DE PERSONAJES ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/pLmsKm7d/5c9d3a00-0bf7-4fc0-8d6a-b05fb6981c76.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1779820194442,
+    "nombre": "SECADORA DE PELO 2300W",
+    "precio": 13300,
+    "foto": "https://i.postimg.cc/3xzn1K5g/b09a393c-07d8-4c5e-8ab7-bbf733884b19.jpg",
+    "categoria": "TODO PARA MUJERES ",
+    "suspendido": false
+  },
+  {
+    "id": 1779820303978,
+    "nombre": "GUANTES TERMICO IMPERMEABLE PARA HOMBRE ",
+    "precio": 10600,
+    "foto": "https://i.postimg.cc/zX6ctwTq/f0350fa5-b3e3-4ef8-b34f-92039707a9cb.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1779820403650,
+    "nombre": "BATIDORA ELECTRICA  7 VELOCIDADES ",
+    "precio": 15200,
+    "foto": "https://i.postimg.cc/5tMk1xPK/ab5bafc7-8dac-4609-a4a9-5b63a3130bab.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1779820453922,
+    "nombre": "BANDERA ARGENTINA 90 X 150 CON BRAZOS ",
+    "precio": 4700,
+    "foto": "https://i.postimg.cc/cJMkLV2S/e34a6b9f-cd94-4347-9e47-58051af2249b.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 1779820569602,
+    "nombre": "CABLE DE RED X 3 MTS ",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/7h7mjd3P/dba589ac-0a96-4134-8dcd-c998d9b409f5.jpg",
+    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
+    "suspendido": false
+  },
+  {
+    "id": 1779820595026,
+    "nombre": "CABLE DE RED 10 MTS ",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/7h7mjd3P/dba589ac-0a96-4134-8dcd-c998d9b409f5.jpg",
+    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
   }
 ]
