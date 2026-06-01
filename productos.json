@@ -1739,7 +1739,7 @@
     "id": 393,
     "nombre": "SET DE DESTORNILLADOR X 6",
     "precio": 3600,
-    "foto": "https://i.postimg.cc/fRNMVRKJ/IMG-8091.jpg",
+    "foto": "https://i.postimg.cc/TYPg7Rfp/badfbff9-2aef-46ea-bdb9-5b99bb379a7d.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
@@ -3413,6 +3413,38 @@
     "precio": 4400,
     "foto": "https://i.postimg.cc/MpjTLjpB/62ba990c-3271-4e72-b748-9f60f1f18343.jpg",
     "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1780338045015,
+    "nombre": "GAS BUTANO CARTUCHO 227G",
+    "precio": 4600,
+    "foto": "https://i.postimg.cc/yYnnxQ6w/b3332c94-7d98-4d58-b6bb-de5788b939a3.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1780338100509,
+    "nombre": "AURICULAR MANOS LIBRE SAMSUNG COLOR ",
+    "precio": 1650,
+    "foto": "https://i.postimg.cc/htkmtTxm/add814bf-f385-43a4-9e2a-5f8131d2d9e1.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1780338128558,
+    "nombre": "PINTURA ARGENTINA ",
+    "precio": 2700,
+    "foto": "https://i.postimg.cc/vBM6Wy3S/202f28ea-eae8-43bf-b322-837826a253a4.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 1780338149158,
+    "nombre": "LABIAL ARGENTINA ",
+    "precio": 1900,
+    "foto": "https://i.postimg.cc/0QfKn44P/d69cbc99-7d75-4472-891f-2ddca186ff5a.jpg",
+    "categoria": "MUNDIAL",
     "suspendido": false
   }
 ]
