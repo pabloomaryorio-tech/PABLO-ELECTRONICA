@@ -354,7 +354,7 @@
   {
     "id": 94,
     "nombre": "AURICULAR BT INALAMBRICO JK-607",
-    "precio": 8700,
+    "precio": 8900,
     "foto": "https://i.postimg.cc/Mp9BPwPx/AURIKK607.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
@@ -370,7 +370,7 @@
   {
     "id": 98,
     "nombre": "AURICULAR BT INALAMBRICO AU 16011",
-    "precio": 8700,
+    "precio": 9400,
     "foto": "https://i.postimg.cc/26MFHY5y/AURIVINCHA.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": true
@@ -386,7 +386,7 @@
   {
     "id": 103,
     "nombre": "AURICULAR BT INALAMBRICO P9 PRO MAX",
-    "precio": 5900,
+    "precio": 6400,
     "foto": "https://i.postimg.cc/wB1xs9w0/AURI-P9.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": true
@@ -1010,7 +1010,7 @@
   {
     "id": 287,
     "nombre": "AURICULAR BT  INALAMBRICO JK 605",
-    "precio": 7600,
+    "precio": 8150,
     "foto": "https://i.postimg.cc/2SN7wzYB/JK605.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
@@ -1050,7 +1050,7 @@
   {
     "id": 294,
     "nombre": "AURICULAR BT INALAMBRICO GATITO CON LUZ",
-    "precio": 7200,
+    "precio": 7700,
     "foto": "https://i.postimg.cc/Z5KbkmY5/aurigatito.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": false
@@ -1074,7 +1074,7 @@
   {
     "id": 298,
     "nombre": "AURICULAR BT INALAMBRICO BLUETOOTH JS 602",
-    "precio": 6100,
+    "precio": 6950,
     "foto": "https://i.postimg.cc/Y9Kqj5Hm/auribt.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
@@ -1202,7 +1202,7 @@
   {
     "id": 338,
     "nombre": "AURICULAR BT INALAMBRICO AR 1135",
-    "precio": 4800,
+    "precio": 5200,
     "foto": "https://i.postimg.cc/RhC5DZRr/IMG-8026.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": true
