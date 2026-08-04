@@ -1465,9 +1465,9 @@
   },
   {
     "id": 381,
-    "nombre": "ALARGUE 4 ENCHUFE + 3 USB + 1 TIPO C",
+    "nombre": "ALARGUE REFORZADO 4 ENCHUFE + 3 USB + 1 TIPO C",
     "precio": 11600,
-    "foto": "https://i.postimg.cc/jjJdyTtg/IMG-8080.jpg",
+    "foto": "https://i.postimg.cc/T1nPxyMF/a7a75f49-fcc2-4761-80ed-911f6edb9597.jpg",
     "categoria": "ELECTRICIDAD ",
     "suspendido": false
   },
@@ -3437,6 +3437,62 @@
     "precio": 12900,
     "foto": "https://i.postimg.cc/ZRmL20BF/9bdbb16a-2538-4dbd-9881-ed5e08070388.jpg",
     "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785871990179,
+    "nombre": "SET DE ALICATES X 5 EXCELENTE CALIDAD ",
+    "precio": 12500,
+    "foto": "https://i.postimg.cc/FsTSqcTx/53e6c551-ec22-45e0-99cc-4729f2851e9b.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785873036391,
+    "nombre": "CINTA TEFLON 3/4\"",
+    "precio": 800,
+    "foto": "https://i.postimg.cc/43yn9SGP/df2d7930-6570-417e-9c8d-4a8ad2d5d4f7.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785873136179,
+    "nombre": "CUTTER REFORZADO ",
+    "precio": 1450,
+    "foto": "https://i.postimg.cc/XJV3T2NQ/f4808ac8-dd3a-44d2-bd9a-1ed7042d67ab.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785873618334,
+    "nombre": "MOUSE INALAMBRICO AITECH 4 BOTONES AI-032",
+    "precio": 3900,
+    "foto": "https://i.postimg.cc/JnfwRPMT/ef28fd29-56c0-49fb-b950-706ab8acfe4e.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1785873671133,
+    "nombre": "MOUSE INALAMBRICO AITECH AI-202",
+    "precio": 3750,
+    "foto": "https://i.postimg.cc/JnfwRPMT/ef28fd29-56c0-49fb-b950-706ab8acfe4e.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1785873807418,
+    "nombre": "CABEZAL HYTOSHY CARGA ULTRA RAPIDA 100W CON ENTRADA USB + C ",
+    "precio": 5600,
+    "foto": "https://i.postimg.cc/NfLX3D5M/b7dbcb8a-5a2b-4ea1-bbf4-81587eb92564.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1785873944851,
+    "nombre": "CARGADOR ROYALCELL TIPO C 2.4",
+    "precio": 2750,
+    "foto": "https://i.postimg.cc/pLHFmHqw/111595cd-e846-4a0d-8975-a3f62586d0c8.jpg",
+    "categoria": "CARGADORES",
     "suspendido": false
   }
 ]
