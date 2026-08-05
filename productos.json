@@ -234,7 +234,7 @@
   {
     "id": 49,
     "nombre": "PARLANTE BT INALAMBRICO GTS 1468",
-    "precio": 7400,
+    "precio": 6900,
     "foto": "https://i.postimg.cc/3rqG6Gdx/PARLANTEL-UZ.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -266,7 +266,7 @@
   {
     "id": 69,
     "nombre": "BALANZA COCINA 10 KG",
-    "precio": 5800,
+    "precio": 5950,
     "foto": "https://i.postimg.cc/k55MHp8K/Whats-App-Image-2025-09-10-at-23-33-21-1.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -282,7 +282,7 @@
   {
     "id": 78,
     "nombre": "ENCENDEDOR CHISPERO RECARGABLE USB",
-    "precio": 5700,
+    "precio": 5200,
     "foto": "https://i.postimg.cc/hPvPtwhj/JL-897-2.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -298,7 +298,7 @@
   {
     "id": 85,
     "nombre": "PISTOLA DE RIEGO PARA MANGUERA",
-    "precio": 7700,
+    "precio": 7500,
     "foto": "https://i.postimg.cc/QtMngSwy/P550.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -338,7 +338,7 @@
   {
     "id": 92,
     "nombre": "TIMBRE INALAMBRICO",
-    "precio": 8400,
+    "precio": 6500,
     "foto": "https://i.postimg.cc/x8pQmKtH/Captura-de-pantalla-2025-09-11-175409.png",
     "categoria": "HOGAR",
     "suspendido": false
@@ -378,7 +378,7 @@
   {
     "id": 100,
     "nombre": "AURICULAR BT INALAMBRICO P47",
-    "precio": 5900,
+    "precio": 5800,
     "foto": "https://i.postimg.cc/mZtpnzn0/AR-1401.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": false
@@ -410,7 +410,7 @@
   {
     "id": 108,
     "nombre": "ESPEJO LED USB REGULABLE LUZ FRIA REDONDO",
-    "precio": 8400,
+    "precio": 6500,
     "foto": "https://i.postimg.cc/CLFTh6M2/ESP-4205.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": true
@@ -490,7 +490,7 @@
   {
     "id": 134,
     "nombre": "INFLADOR MULTIUSO METALIZADO",
-    "precio": 4200,
+    "precio": 4350,
     "foto": "https://i.postimg.cc/RVB6h08N/INF-91006.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
@@ -506,7 +506,7 @@
   {
     "id": 139,
     "nombre": "CORTA PELO DE MASCOTA",
-    "precio": 11500,
+    "precio": 11900,
     "foto": "https://i.postimg.cc/ZqSGN8JG/CRT-110021.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -570,7 +570,7 @@
   {
     "id": 160,
     "nombre": "LINTERNA MINI CAMUFLADA USB RECARGABLE",
-    "precio": 3500,
+    "precio": 3900,
     "foto": "https://i.postimg.cc/yxVqghXs/LINTERNAESTUCHE.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -610,7 +610,7 @@
   {
     "id": 169,
     "nombre": "LAMPARA CAMPING SOLAR RECARGABLE",
-    "precio": 9200,
+    "precio": 8600,
     "foto": "https://i.postimg.cc/rFPBgdkp/B005.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -650,7 +650,7 @@
   {
     "id": 179,
     "nombre": "TIRA LED RGB 28 X 35 X 5 MTS.",
-    "precio": 6300,
+    "precio": 6500,
     "foto": "https://i.postimg.cc/DfGpFWrH/LED-9727.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -842,7 +842,7 @@
   {
     "id": 215,
     "nombre": "CALCULADORA KARUIDA DOBLE VISOR 12 DIGITOS CT 8122",
-    "precio": 7600,
+    "precio": 7900,
     "foto": "https://i.postimg.cc/gkXRX5cT/CT-8122-120.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
@@ -850,7 +850,7 @@
   {
     "id": 216,
     "nombre": "CALCULADORA KAWAII 12 DIGITOS",
-    "precio": 6400,
+    "precio": 6100,
     "foto": "https://i.postimg.cc/pVgThSny/KK-2280.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
@@ -906,7 +906,7 @@
   {
     "id": 244,
     "nombre": "BOTELLA TERMICA DEPORTIVA COLORES  DE 500ML",
-    "precio": 13300,
+    "precio": 12500,
     "foto": "https://i.postimg.cc/0ycCHZVy/IMG-8125.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -1018,7 +1018,7 @@
   {
     "id": 290,
     "nombre": "SOPORTE FIJO TV 14-42 PLG",
-    "precio": 4550,
+    "precio": 3600,
     "foto": "https://i.postimg.cc/d0PqSyfD/soportetv24pul.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -1130,7 +1130,7 @@
   {
     "id": 320,
     "nombre": "CADENA LINGA  BICI/MOTO CON CODIGO",
-    "precio": 5400,
+    "precio": 4950,
     "foto": "https://i.postimg.cc/zvFQZcBK/CADENA.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
@@ -1194,7 +1194,7 @@
   {
     "id": 336,
     "nombre": "AURICULAR BT INALAMBRICO COLORES",
-    "precio": 6100,
+    "precio": 5900,
     "foto": "https://i.postimg.cc/xdqXW96n/IMG-8024.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": false
@@ -1258,7 +1258,7 @@
   {
     "id": 346,
     "nombre": "DEPILADORA PARA DAMAS USB RECARGABLE",
-    "precio": 7500,
+    "precio": 7900,
     "foto": "https://i.postimg.cc/NM2vhnhR/IMG-8036.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": false
@@ -1610,7 +1610,7 @@
   {
     "id": 404,
     "nombre": "CADENA CANDADO LINGA CON CODIGO",
-    "precio": 5600,
+    "precio": 5450,
     "foto": "https://i.postimg.cc/DyCtTfNf/IMG-8099.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
@@ -1642,7 +1642,7 @@
   {
     "id": 411,
     "nombre": "CANDADO CON ALARMA BICI-MOTO",
-    "precio": 8500,
+    "precio": 7950,
     "foto": "https://i.postimg.cc/QtKhw9mj/IMG-8121.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
@@ -1762,7 +1762,7 @@
   {
     "id": 432,
     "nombre": "LINTERNA MINERA HIGH POWER",
-    "precio": 3300,
+    "precio": 3500,
     "foto": "https://i.postimg.cc/Nj8btBb6/IMG-8159.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1770,7 +1770,7 @@
   {
     "id": 433,
     "nombre": "MINI LINTERNA USB RECARGABLE",
-    "precio": 2100,
+    "precio": 2200,
     "foto": "https://i.postimg.cc/HWJqg8Mv/IMG-8155.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1778,7 +1778,7 @@
   {
     "id": 434,
     "nombre": "MINI LINTERNA USB RECARGABLE + ENCENDEDOR",
-    "precio": 4250,
+    "precio": 3200,
     "foto": "https://i.postimg.cc/NFTCrT70/IMG-8156.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1842,7 +1842,7 @@
   {
     "id": 445,
     "nombre": "TIRA LED RGB 50 X 50 X 5 MTS.",
-    "precio": 9100,
+    "precio": 9600,
     "foto": "https://i.postimg.cc/nhc41tKP/ba64385e-a8ff-4387-ad68-f011c00ef7fc.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1930,7 +1930,7 @@
   {
     "id": 465,
     "nombre": "BOMBA DISPENSER CON LUZ",
-    "precio": 6550,
+    "precio": 5950,
     "foto": "https://i.postimg.cc/T3G7MSVH/4e529e53-49c2-4252-ad5b-da4b2deb0bf4.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -1938,7 +1938,7 @@
   {
     "id": 466,
     "nombre": "SACA CORCHO RECARGABLE",
-    "precio": 11500,
+    "precio": 11900,
     "foto": "https://i.postimg.cc/L6ScSR1p/IMG-8177.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2026,7 +2026,7 @@
   {
     "id": 477,
     "nombre": "MINI FAN DINOSAURIO",
-    "precio": 7300,
+    "precio": 5500,
     "foto": "https://i.postimg.cc/qvVz4NGn/IMG-8182.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
@@ -2050,10 +2050,10 @@
   {
     "id": 480,
     "nombre": "BALANZA DE COCINA CON BOWL 10KG",
-    "precio": 5950,
+    "precio": 6150,
     "foto": "https://i.postimg.cc/wj2y26hq/IMG-8186.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 481,
@@ -2066,7 +2066,7 @@
   {
     "id": 482,
     "nombre": "TENSIOMETRO",
-    "precio": 16800,
+    "precio": 17900,
     "foto": "https://i.postimg.cc/6qV5Q0cT/IMG-8189.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -2090,7 +2090,7 @@
   {
     "id": 485,
     "nombre": "CONTROL REMOTO UNIVERSAL TV COMUN",
-    "precio": 2950,
+    "precio": 3300,
     "foto": "https://i.postimg.cc/L82gjqZh/IMG-8192.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2178,7 +2178,7 @@
   {
     "id": 510,
     "nombre": "CARTEL LUMINICO ABIERTO",
-    "precio": 14000,
+    "precio": 14500,
     "foto": "https://i.postimg.cc/J4RZ1WFz/d9b99bc1-a446-43ef-a38a-b8af90af2128.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -2354,7 +2354,7 @@
   {
     "id": 1774985225294,
     "nombre": "CONSOLA 400 EN 1",
-    "precio": 11900,
+    "precio": 16200,
     "foto": "https://i.postimg.cc/bvrBQ0q2/cdf07ea6-be45-4fab-b6ca-6ae8540d320c.jpg",
     "categoria": "TECNOLOGIA",
     "suspendido": false
@@ -2570,7 +2570,7 @@
   {
     "id": 1777039167326,
     "nombre": "COMPRESOR INFLADOR DE AUTO ",
-    "precio": 32500,
+    "precio": 33600,
     "foto": "https://i.postimg.cc/cL47cK5r/efec27eb-38ea-4d50-84fe-13807609f238.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -2618,7 +2618,7 @@
   {
     "id": 1777039519573,
     "nombre": "NEBULIZADOR ADULTO NIÑO RECARGABLE Y A PILAS ",
-    "precio": 17100,
+    "precio": 14500,
     "foto": "https://i.postimg.cc/bvnZ0p8f/41da3265-05e3-425d-8473-f36d0019eda2.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2802,7 +2802,7 @@
   {
     "id": 1779819649562,
     "nombre": "CAMARA IP FIJA EXTERIOR CON WIFI ",
-    "precio": 29500,
+    "precio": 31500,
     "foto": "https://i.postimg.cc/J4PFNVzK/f3497798-2705-4653-b57b-9d2e2fbf5fbb.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -2850,7 +2850,7 @@
   {
     "id": 1779820403650,
     "nombre": "BATIDORA ELECTRICA  7 VELOCIDADES ",
-    "precio": 15200,
+    "precio": 15900,
     "foto": "https://i.postimg.cc/5tMk1xPK/ab5bafc7-8dac-4609-a4a9-5b63a3130bab.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2986,7 +2986,7 @@
   {
     "id": 1781185864416,
     "nombre": "JUEGO SET DE POKER COMPLETO ",
-    "precio": 15800,
+    "precio": 17500,
     "foto": "https://i.postimg.cc/SRYKmZLt/a9fbf8f8-df16-42db-abe8-2db027b71a5b.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -3002,7 +3002,7 @@
   {
     "id": 1781186083773,
     "nombre": "LINTERNA DE CAMPING + PANEL SOLAR NY-98008",
-    "precio": 6750,
+    "precio": 7100,
     "foto": "https://i.postimg.cc/y8HrXkGZ/1d03a6f0-8dc7-4ef1-917a-bba48839b749.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -3042,7 +3042,7 @@
   {
     "id": 1781186579653,
     "nombre": "CALCULADORA KARUDIA 12 DIGITOS KK-2100",
-    "precio": 5600,
+    "precio": 5950,
     "foto": "https://i.postimg.cc/fWdK2Mmz/443e399e-38e3-4591-9ea8-d644a4e59e72.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
@@ -3298,7 +3298,7 @@
   {
     "id": 1783475595288,
     "nombre": "RELOJ DESPERTADOR DIGITAL MULTIFUNCION ",
-    "precio": 6900,
+    "precio": 4900,
     "foto": "https://i.postimg.cc/vHkttfsJ/4bbf61db-4d2f-4e24-baf4-d534d8fc1ff4.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -3354,7 +3354,7 @@
   {
     "id": 1785763992905,
     "nombre": "ESPEJO CON LUZ LED FORMA CORAZON ",
-    "precio": 7700,
+    "precio": 8100,
     "foto": "https://i.postimg.cc/kgFxHMsC/68e29001-71bd-4ec9-8d23-aa35a2eb12cb.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": false
@@ -3362,7 +3362,7 @@
   {
     "id": 1785767152171,
     "nombre": "CALCULADORA KARUDIA 12 DIGITOS KK-8835B",
-    "precio": 4600,
+    "precio": 4800,
     "foto": "https://i.postimg.cc/9fR5xg5j/fdb25b42-9e28-4fb0-a1f6-cc72128b6ae7.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
@@ -3378,7 +3378,7 @@
   {
     "id": 1785767368828,
     "nombre": "SOPORTE TV FIJO 26-63 ",
-    "precio": 4450,
+    "precio": 4600,
     "foto": "https://i.postimg.cc/65YkBxtm/56799fc4-0a65-404c-9fb4-4df089b03b26.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -3386,7 +3386,7 @@
   {
     "id": 1785767456841,
     "nombre": "LAMPARA DE ESCRITORIO T-308",
-    "precio": 7850,
+    "precio": 8100,
     "foto": "https://i.postimg.cc/XJfPhTs9/a61bee94-1443-419b-a630-27a515a1a3cc.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
