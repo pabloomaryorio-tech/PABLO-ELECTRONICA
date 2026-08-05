@@ -98,7 +98,7 @@
   {
     "id": 25,
     "nombre": "TRANSMISOR BT DE AUTO GTS C 935",
-    "precio": 4350,
+    "precio": 4850,
     "foto": "https://i.postimg.cc/q7DV6D9B/GTS-C935.jpg",
     "categoria": "TECNOLOGIA",
     "suspendido": false
@@ -469,7 +469,7 @@
     "precio": 7900,
     "foto": "https://i.postimg.cc/qR00LcQV/CRT-110017.jpg",
     "categoria": "TODO PARA HOMBRES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 128,
@@ -630,14 +630,6 @@
     "foto": "https://i.postimg.cc/1t2Xs7Qx/LED-83011.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
-  },
-  {
-    "id": 175,
-    "nombre": "LINTERNA LED USB RECARGABLE BUSCA HUELLA",
-    "precio": 18400,
-    "foto": "https://i.postimg.cc/43Z9T7wt/LINTERNA-RECARGABLE.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
   },
   {
     "id": 177,
@@ -858,25 +850,9 @@
   {
     "id": 224,
     "nombre": "REPETIDOR WIFI",
-    "precio": 14200,
+    "precio": 13500,
     "foto": "https://i.postimg.cc/PJrJV3CP/1f1f9d71-3294-406c-a222-53769034986b.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
-  },
-  {
-    "id": 227,
-    "nombre": "KIT AURICULAR Y RELOJ SMART C/MALLA INTERCAMBIABLE",
-    "precio": 22400,
-    "foto": "https://i.postimg.cc/nzWG0zZv/RELOS-7-MALLAS.jpg",
-    "categoria": "RELOJES",
-    "suspendido": true
-  },
-  {
-    "id": 231,
-    "nombre": "RELOJ SMARTWATCH ULTRA 10 BIG C/ 7 MALLAS",
-    "precio": 14800,
-    "foto": "https://i.postimg.cc/QCtxx8Wn/TH7-3.jpg",
-    "categoria": "RELOJES",
     "suspendido": false
   },
   {
@@ -1114,7 +1090,7 @@
   {
     "id": 313,
     "nombre": "BATIDORA DE CAFE RECARGABLE",
-    "precio": 6700,
+    "precio": 7600,
     "foto": "https://i.postimg.cc/wBncWQ68/Btidora.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -1818,7 +1794,7 @@
   {
     "id": 442,
     "nombre": "PUNTERO LASER PROFESIONAL",
-    "precio": 5300,
+    "precio": 5600,
     "foto": "https://i.postimg.cc/PfRdbkW6/IMG-8151.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1850,7 +1826,7 @@
   {
     "id": 446,
     "nombre": "LUZ LINTERNA PARA BICI",
-    "precio": 2550,
+    "precio": 2700,
     "foto": "https://i.postimg.cc/k5Y7j3rM/IMG-8157.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
@@ -1861,7 +1837,7 @@
     "precio": 3800,
     "foto": "https://i.postimg.cc/SKRhYTn5/IMG-8158.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 449,
@@ -1917,7 +1893,7 @@
     "precio": 6100,
     "foto": "https://i.postimg.cc/wTx9V6Mw/2c242dfe-de36-4ec6-a392-860dfef2dbca.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 464,
@@ -2170,7 +2146,7 @@
   {
     "id": 509,
     "nombre": "MICROFONO KARAOKE",
-    "precio": 7600,
+    "precio": 7900,
     "foto": "https://i.postimg.cc/c6yK6CfB/IMG-8227.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -2280,14 +2256,6 @@
     "suspendido": false
   },
   {
-    "id": 1773597043232,
-    "nombre": "SMART WATCH AURICULAR + 2 MALLAS ",
-    "precio": 20500,
-    "foto": "https://i.postimg.cc/zXj3YtcX/IMG-8537.jpg",
-    "categoria": "RELOJES",
-    "suspendido": false
-  },
-  {
     "id": 1773689418257,
     "nombre": "PLANCHA DE PELO DE 45 W",
     "precio": 10800,
@@ -2370,7 +2338,7 @@
   {
     "id": 1774985425956,
     "nombre": "SARTEN MULTIFUNCIONAL PIEDRA VOLCANICA",
-    "precio": 14000,
+    "precio": 15500,
     "foto": "https://i.postimg.cc/jq3Cct6c/22e115c3-c66c-475c-af49-014886dadaf2.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2418,7 +2386,7 @@
   {
     "id": 1775837169007,
     "nombre": "MICROFONO CON CABLE NOGA",
-    "precio": 4500,
+    "precio": 4800,
     "foto": "https://i.postimg.cc/630kbzVx/575e2a37-a91a-4c31-8007-36f9cb701c23.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -2434,7 +2402,7 @@
   {
     "id": 1775837309021,
     "nombre": "LINTERNA MINERA RECARGABLE ",
-    "precio": 3800,
+    "precio": 3900,
     "foto": "https://i.postimg.cc/FKXw9wDk/0200ed32-8312-4cf6-80e3-6d49176d549a.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -2592,26 +2560,10 @@
     "suspendido": false
   },
   {
-    "id": 1777039308373,
-    "nombre": "PARLANTE BT INALAMBRICO 4 X 2  SV-2402",
-    "precio": 25000,
-    "foto": "https://i.postimg.cc/65BC92KZ/cd955e91-6370-4a17-a478-1b2e9d5119a5.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 1777039364092,
     "nombre": "PARLANTE BT INALAMBRICO GTS 1679",
     "precio": 7850,
     "foto": "https://i.postimg.cc/wjvJmC79/1f381fb6-5377-423d-ab82-0c57bb1e2af2.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 1777039421685,
-    "nombre": "RADIO BT INALAMBRICO AM FM CON LINTERNA  KTF 1472",
-    "precio": 13500,
-    "foto": "https://i.postimg.cc/Z5MNFwdp/779823e3-f439-4485-ba28-af66860b3c88.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
   },
@@ -2645,7 +2597,7 @@
     "precio": 14900,
     "foto": "https://i.postimg.cc/RVb8KzXp/fa0d2796-118f-4c15-b5a2-0f54045feab7.jpg",
     "categoria": "TODO PARA HOMBRES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777039984277,
@@ -2701,14 +2653,6 @@
     "precio": 20250,
     "foto": "https://i.postimg.cc/9QcRrX44/2b78f996-e09e-44fd-97e7-fca412f55faa.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
-    "id": 1777558889896,
-    "nombre": "RADIO VINTAGE AM/FM USB RECARGABLE KTF 2016",
-    "precio": 21900,
-    "foto": "https://i.postimg.cc/kgwV8r8y/e1bc1414-370d-426c-bb71-aebbc0fb1976.jpg",
-    "categoria": "PARLANTES",
     "suspendido": false
   },
   {
@@ -2792,14 +2736,6 @@
     "suspendido": false
   },
   {
-    "id": 1779819607970,
-    "nombre": "LINTERNA LED MINI USB RECARGABLE BLISTER SD 8677",
-    "precio": 3500,
-    "foto": "https://i.postimg.cc/pX275XR9/a61e2148-d3f6-42fe-ba4d-419233bf9530.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
-  },
-  {
     "id": 1779819649562,
     "nombre": "CAMARA IP FIJA EXTERIOR CON WIFI ",
     "precio": 31500,
@@ -2808,44 +2744,12 @@
     "suspendido": false
   },
   {
-    "id": 1779819725489,
-    "nombre": "GORRO CORDERITO + CUELLO UNISEX ",
-    "precio": 5400,
-    "foto": "https://i.postimg.cc/vZTNXq1w/fdebee5e-8016-485e-a7b2-ae9dcbd3c0b6.jpg",
-    "categoria": "INVIERNO ",
-    "suspendido": false
-  },
-  {
-    "id": 1779819920113,
-    "nombre": "RADIO BT AM FM CON PANEL SOLAR 1488",
-    "precio": 16900,
-    "foto": "https://i.postimg.cc/Ghh7h7xG/d246dbdd-eff1-4cdc-b363-743e6ed24bc3.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 1779819986593,
-    "nombre": "LINTERNA LED USB RECARGABLE SF-502A ",
-    "precio": 3800,
-    "foto": "https://i.postimg.cc/L66C6C3S/11c153e8-abb4-41b6-83c5-18563960c137.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
-  },
-  {
     "id": 1779820061450,
     "nombre": "PELOTA DE VOLEY ",
     "precio": 7500,
     "foto": "https://i.postimg.cc/MKPsc79N/ba33f383-bd34-4909-9006-415afc598bd3.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
-  },
-  {
-    "id": 1779820194442,
-    "nombre": "SECADORA DE PELO 2300W",
-    "precio": 16100,
-    "foto": "https://i.postimg.cc/3xzn1K5g/b09a393c-07d8-4c5e-8ab7-bbf733884b19.jpg",
-    "categoria": "TODO PARA MUJERES ",
-    "suspendido": true
   },
   {
     "id": 1779820403650,
@@ -3077,7 +2981,7 @@
     "precio": 5000,
     "foto": "https://i.postimg.cc/rw5B3gwS/7c475eaa-1e80-416e-9f71-ba63c046c0c5.jpg",
     "categoria": "TODO PARA HOMBRES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1782415897573,
@@ -3380,7 +3284,7 @@
     "nombre": "SOPORTE TV FIJO 26-63 ",
     "precio": 4600,
     "foto": "https://i.postimg.cc/65YkBxtm/56799fc4-0a65-404c-9fb4-4df089b03b26.jpg",
-    "categoria": "HOGAR",
+    "categoria": "VARIOS",
     "suspendido": false
   },
   {
