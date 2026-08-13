@@ -37,7 +37,7 @@
     "precio": 3150,
     "foto": "https://i.postimg.cc/Wz956m8S/CAR-53004.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 13,
@@ -125,7 +125,7 @@
     "precio": 1550,
     "foto": "https://i.postimg.cc/wMK5Yd3B/CABLE-PUNTA-METAL.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 29,
@@ -344,28 +344,12 @@
     "suspendido": false
   },
   {
-    "id": 93,
-    "nombre": "AURICULAR BT INALAMBRICO JK-604",
-    "precio": 6550,
-    "foto": "https://i.postimg.cc/c4s6Vj8d/AURIJK604.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
     "id": 94,
     "nombre": "AURICULAR BT INALAMBRICO JK-607",
     "precio": 8900,
     "foto": "https://i.postimg.cc/Mp9BPwPx/AURIKK607.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
-  },
-  {
-    "id": 96,
-    "nombre": "AURICULAR BT INALAMBRICO V5.0",
-    "precio": 6800,
-    "foto": "https://i.postimg.cc/t4wfgb80/AURI.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
   },
   {
     "id": 98,
@@ -387,7 +371,7 @@
     "id": 103,
     "nombre": "AURICULAR BT INALAMBRICO P9 PRO MAX",
     "precio": 6400,
-    "foto": "https://i.postimg.cc/wB1xs9w0/AURI-P9.jpg",
+    "foto": "https://i.postimg.cc/wT1Sn3Hd/632edbfb-3e0c-4dc0-ad20-5e163611c1d6.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": false
   },
@@ -413,7 +397,7 @@
     "precio": 6500,
     "foto": "https://i.postimg.cc/CLFTh6M2/ESP-4205.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 109,
@@ -1125,7 +1109,7 @@
     "precio": 3200,
     "foto": "https://i.postimg.cc/JzbJPYDP/IMG-8020.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 332,
@@ -1136,20 +1120,12 @@
     "suspendido": false
   },
   {
-    "id": 333,
-    "nombre": "AURICULAR BT INALAMBRICO JS 25",
-    "precio": 8300,
-    "foto": "https://i.postimg.cc/PJCT2qyb/IMG-8021.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
     "id": 334,
     "nombre": "AURICULAR BT INALAMBRICO JS 52 CON POWER BANK",
     "precio": 9100,
     "foto": "https://i.postimg.cc/ZYXCXkNS/IMG-8022.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 336,
@@ -1745,7 +1721,7 @@
   },
   {
     "id": 440,
-    "nombre": "LAMPARA CON SENSOR SOLAR BK100",
+    "nombre": "LAMPARA ENCENDIDO CON SENSOR DE MOVIMIENTO + PANEL SOLAR BK100",
     "precio": 5100,
     "foto": "https://i.postimg.cc/LXv8FYZ2/IMG-8142.jpg",
     "categoria": "ILUMINACION",
@@ -1804,14 +1780,6 @@
     "nombre": "CALCULADORA 8 DIGITOS KK 402",
     "precio": 1800,
     "foto": "https://i.postimg.cc/BbBSB84w/IMG-8161.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": false
-  },
-  {
-    "id": 452,
-    "nombre": "PIZARRA LCD A COLOR DE 16 PULGADAS",
-    "precio": 6100,
-    "foto": "https://i.postimg.cc/LXBKrrwZ/IMG-8164.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
   },
@@ -2352,14 +2320,6 @@
     "suspendido": false
   },
   {
-    "id": 1775837628638,
-    "nombre": "AURICULAR BT INALAMBRICO JK 608",
-    "precio": 6500,
-    "foto": "https://i.postimg.cc/g0BgqzRm/IMG-8945.png",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
     "id": 1775837732415,
     "nombre": "LINTERNA LED MINI USB RECARGABLE S008 ",
     "precio": 2600,
@@ -2568,14 +2528,6 @@
     "suspendido": false
   },
   {
-    "id": 1777558812240,
-    "nombre": "AURICULAR BT INALAMBRICO JK 603",
-    "precio": 5600,
-    "foto": "https://i.postimg.cc/pT35TD8V/0eb10a75-fffd-432d-9026-ca3ba3b3b935.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
     "id": 1777558837392,
     "nombre": "ZAPATILLA REFORZADO CON CORTE DE CORRIENTE",
     "precio": 9800,
@@ -2614,14 +2566,6 @@
     "foto": "https://i.postimg.cc/zDHbbLkW/94998b27-84ca-47ef-a666-72ed6235dc8d.jpg",
     "categoria": "INVIERNO ",
     "suspendido": false
-  },
-  {
-    "id": 1778685574666,
-    "nombre": "CARGADOR TIPO C IBEK 2.6 AMP ",
-    "precio": 2950,
-    "foto": "https://i.postimg.cc/4yhqTvVZ/0caf5f91-6a11-4f39-bb8b-2e578a84a88e.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
   },
   {
     "id": 1778685707304,
@@ -2832,20 +2776,12 @@
     "suspendido": false
   },
   {
-    "id": 1781186371644,
-    "nombre": "CARGADOR 68W PD CON CABLE + ENTRADA USB + TIPO C ",
-    "precio": 7000,
-    "foto": "https://i.postimg.cc/Px9SLxZH/8b00316e-df59-4fa1-bfb8-d236e7268921.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
-  },
-  {
     "id": 1781186448716,
     "nombre": "CARGADOR CABEZAL AUTO 45W + ENTRADA TIPO C + USB ",
     "precio": 3600,
     "foto": "https://i.postimg.cc/q7ZLYR1k/72180970-0bf5-4ee0-a319-7e83440ddb8c.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1781186510876,
@@ -2909,7 +2845,7 @@
     "precio": 3800,
     "foto": "https://i.postimg.cc/0jwY9sYv/a9f83671-8f71-4814-836b-c8b173da2530.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1782416293206,
@@ -3086,14 +3022,6 @@
     "foto": "https://i.postimg.cc/PqJRsns6/9514572e-9def-43db-a629-6a9034b593e7.jpg",
     "categoria": "INVIERNO ",
     "suspendido": false
-  },
-  {
-    "id": 1782516988186,
-    "nombre": "CARGADOR TIPO C A C 125W CON CABLE DESMONTABLE ",
-    "precio": 7450,
-    "foto": "https://i.postimg.cc/yNGr7p7z/aa0a21bf-121a-4bc2-b262-a180990a4b82.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
   },
   {
     "id": 1783475540039,
@@ -3468,6 +3396,22 @@
     "nombre": "CARGADOR IBEK 25W CON CABLE TIPO C A C ",
     "precio": 6900,
     "foto": "https://i.postimg.cc/RCGx5cwB/9505ebd4-0a3d-4db1-82a3-42508bdb121e.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1786631240916,
+    "nombre": "TERMOMETRO DE COCINA ",
+    "precio": 2600,
+    "foto": "https://i.postimg.cc/RFJ741DJ/shopping.webp",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1786633534940,
+    "nombre": "FUNTE DE ALIMENTACION UNIVERSAL 12V 3A",
+    "precio": 2900,
+    "foto": "https://i.postimg.cc/gk1fpdkV/96ec4945-21fd-42a9-8813-668a9f7a3786.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
   }
