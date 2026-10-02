@@ -1480,14 +1480,6 @@
     "suspendido": false
   },
   {
-    "id": 438,
-    "nombre": "LINTERNA COB LUZ DE TRABAJO",
-    "precio": 8750,
-    "foto": "https://i.postimg.cc/QNkpV0c5/IMG-8140.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
     "id": 440,
     "nombre": "LAMPARA ENCENDIDO CON SENSOR DE MOVIMIENTO + PANEL SOLAR BK100",
     "precio": 5100,
@@ -1933,14 +1925,6 @@
     "precio": 16200,
     "foto": "https://i.postimg.cc/bvrBQ0q2/cdf07ea6-be45-4fab-b6ca-6ae8540d320c.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
-  },
-  {
-    "id": 1774985332308,
-    "nombre": "PAVA ELECTRICA COMUN 2 L ",
-    "precio": 15400,
-    "foto": "https://i.postimg.cc/fLjmyF1V/046dbed7-a24d-4bdc-aace-7610f314a064.jpg",
-    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -3456,11 +3440,67 @@
     "suspendido": false
   },
   {
-    "id": 1790618255740,
-    "nombre": "VELADOR BROCHE PINZA ",
-    "precio": 8200,
-    "foto": "https://i.postimg.cc/WbRTvYPj/388cf26b-0468-4700-bba3-71ca0ba95f00.jpg",
+    "id": 1790946965238,
+    "nombre": "CABLE USB I PHONE 3,1 MALLA DATOS",
+    "precio": 1650,
+    "foto": "https://i.postimg.cc/9MTKB31C/5514b1a6-c591-4b47-b749-c025d9fbdc26.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1790947096511,
+    "nombre": "INFLADOR DE PIE DOBLE ",
+    "precio": 9800,
+    "foto": "https://i.postimg.cc/hjST2T14/df6bbe97-e6be-4a0e-a3c2-d02235f2f9a4.jpg",
+    "categoria": "TODO PARA BICI Y MOTOS ",
+    "suspendido": false
+  },
+  {
+    "id": 1790947189896,
+    "nombre": "SET DE PINZAS X 3 ",
+    "precio": 8400,
+    "foto": "https://i.postimg.cc/cCvKzmg0/22280d7e-dc94-4e08-8706-53ea06ee6ad2.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1790947361598,
+    "nombre": "PAVA ELECTRICA CORTE AUTOMATICO 2.0 LTS",
+    "precio": 15500,
+    "foto": "https://i.postimg.cc/SsvRcMZd/514881ee-bcf2-4bcc-861c-82756be11ff8.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1790947495264,
+    "nombre": "LINTERNA COB LUZ DE TRABAJO ",
+    "precio": 8750,
+    "foto": "https://i.postimg.cc/zvTL5fj7/1f8f8b25-3cbb-48d2-aa04-718dbd93c4c4.jpg",
     "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1790947660312,
+    "nombre": "VELADOR LAMPARA BROCHE PINZA ",
+    "precio": 8200,
+    "foto": "https://i.postimg.cc/wMk60RFy/c30a1540-da25-4667-af0c-b19cbce89ad9.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1790947893311,
+    "nombre": "PARADA JUEGO DE MESA BASTA",
+    "precio": 13900,
+    "foto": "https://i.postimg.cc/MTS2NKnY/ddb6b842-81bf-4ad2-af70-c5a06a141ff2.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790947959509,
+    "nombre": "JUEGO DE MESA BASTA STOP 2.0 ",
+    "precio": 14900,
+    "foto": "https://i.postimg.cc/N0RZ6qd9/e5513800-124a-450d-aae5-495404c47919.jpg",
+    "categoria": "NIÑOS",
     "suspendido": false
   }
 ]
