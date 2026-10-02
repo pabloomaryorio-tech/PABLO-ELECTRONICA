@@ -3502,5 +3502,77 @@
     "foto": "https://i.postimg.cc/N0RZ6qd9/e5513800-124a-450d-aae5-495404c47919.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
+  },
+  {
+    "id": 1790949448714,
+    "nombre": "JUEGO DE MESA BASTA STOP 3.0 ",
+    "precio": 15700,
+    "foto": "https://i.postimg.cc/xC7cDmSn/246a1b40-aa1e-4f48-a8e6-6b2279401730.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790949538856,
+    "nombre": "JUEGO DE MESA VASOS APILABLES",
+    "precio": 12100,
+    "foto": "https://i.postimg.cc/gc8hRYFr/20892be5-755e-4dcc-984f-87abead1a15b.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790949658518,
+    "nombre": "VASO TERMICO CON MANIJA Y SORBETE 900 ML",
+    "precio": 14900,
+    "foto": "https://i.postimg.cc/MGfHSDzf/c2404256-6133-43c7-a0e1-874f26b1d388.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790949796239,
+    "nombre": "VASO TERMICO TAPA  ANTIDERRAME 1 LT.",
+    "precio": 13900,
+    "foto": "https://i.postimg.cc/tg6qf4zr/57f3a7bc-4652-4f4a-bbd8-d1f3b4129b0e.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790950162957,
+    "nombre": "CORTA PELO 5 W 800 MAH VINTAGE ",
+    "precio": 10100,
+    "foto": "https://i.postimg.cc/SQHh0hJ6/0f80d955-9b08-4dbf-bd8b-9c4b4f9e4ae6.jpg",
+    "categoria": "TODO PARA HOMBRES",
+    "suspendido": false
+  },
+  {
+    "id": 1790950283342,
+    "nombre": "CORTA BARBA OM 3 EN 1 USB RECARGABLE ",
+    "precio": 17500,
+    "foto": "https://i.postimg.cc/YSDP16FR/97f24541-6ca7-49b2-b883-ccdb500a03f3.jpg",
+    "categoria": "TODO PARA HOMBRES",
+    "suspendido": false
+  },
+  {
+    "id": 1790950469847,
+    "nombre": "SILLA DIRECTOR PLEGABLE COLORES ",
+    "precio": 19600,
+    "foto": "https://i.postimg.cc/7LRBCxvM/c3708bc6-480e-4141-a72a-ddb7e553f1a5.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1790950650679,
+    "nombre": "AURICULAR BT INALAMBRICO JK 603 ",
+    "precio": 7100,
+    "foto": "https://i.postimg.cc/fbScrmFS/7057cb10-41e2-4455-b777-ad936982b2fd.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": true
+  },
+  {
+    "id": 1790950743390,
+    "nombre": "AURICULAR BT INALAMBRICO JK 605",
+    "precio": 8500,
+    "foto": "https://i.postimg.cc/YqSmPQL3/9ce3c1da-9e3b-42cb-afe1-52e771566b6e.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
   }
 ]
