@@ -3574,5 +3574,21 @@
     "foto": "https://i.postimg.cc/YqSmPQL3/9ce3c1da-9e3b-42cb-afe1-52e771566b6e.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
+  },
+  {
+    "id": 1790951486153,
+    "nombre": "AURICULAR BT INALAMBRICO E10 MI PODS",
+    "precio": 9200,
+    "foto": "https://i.postimg.cc/5N3WXFsY/d5b455a8-d2eb-4239-bd5a-67b49d308f42.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790951560767,
+    "nombre": "CARGADOR CABEZAL AUTO PRO 21 3,4 USB + TIPO C",
+    "precio": 4800,
+    "foto": "https://i.postimg.cc/nhzgMSjV/5f2f0e71-917e-4441-a886-3441500354c6.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
   }
 ]
