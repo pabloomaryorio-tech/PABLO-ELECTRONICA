@@ -800,14 +800,6 @@
     "suspendido": true
   },
   {
-    "id": 277,
-    "nombre": "BALANZA PERSONAL CUADRADA 180 K",
-    "precio": 11500,
-    "foto": "https://i.postimg.cc/mk0Dm5d4/BALANZACUADRADA.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 280,
     "nombre": "ESPEJO METAL + ZOOM DE 8\"",
     "precio": 3500,
@@ -1629,14 +1621,6 @@
     "precio": 5500,
     "foto": "https://i.postimg.cc/qvVz4NGn/IMG-8182.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
-  },
-  {
-    "id": 478,
-    "nombre": "MOPA AUTOMATICA CON SPRAY",
-    "precio": 15300,
-    "foto": "https://i.postimg.cc/LXb875X6/IMG-8183.jpg",
-    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -3717,6 +3701,30 @@
     "precio": 11500,
     "foto": "https://i.postimg.cc/MGMVZVpP/2080d37a-badd-4715-94b7-ca410a23efec.jpg",
     "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793052676448,
+    "nombre": "BALANZA PERSONAL 180 KG ",
+    "precio": 11200,
+    "foto": "https://i.postimg.cc/HnjhB180/89523de3-61ef-4eaf-8b4e-7cadc482fbbf.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1793052819916,
+    "nombre": "ORGANIZADOR DE ZAPATOS",
+    "precio": 20500,
+    "foto": "https://i.postimg.cc/447C6p6M/b192aa5f-6e20-4a8e-9a09-93eb23293a40.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1793052887433,
+    "nombre": "COLADOR 12 CM DE DIAMETRO ",
+    "precio": 1700,
+    "foto": "https://i.postimg.cc/ZKtQ62K8/50be0d3b-812e-4acd-a875-23c34e48c845.jpg",
+    "categoria": "HOGAR",
     "suspendido": false
   }
 ]
