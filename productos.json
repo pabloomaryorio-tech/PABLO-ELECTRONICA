@@ -3726,5 +3726,29 @@
     "foto": "https://i.postimg.cc/ZKtQ62K8/50be0d3b-812e-4acd-a875-23c34e48c845.jpg",
     "categoria": "HOGAR",
     "suspendido": false
+  },
+  {
+    "id": 1793102161026,
+    "nombre": "VASO TAZA TERMICO DE 450 ML",
+    "precio": 8750,
+    "foto": "https://i.postimg.cc/J4Yq68YL/4af38178-7d48-4c3b-b541-009db047e098.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793102259502,
+    "nombre": "ESPEJO LED A PILA USB RECARGABLE RECTANGULAR",
+    "precio": 10600,
+    "foto": "https://i.postimg.cc/3JjyNFpB/2d08f85e-3b50-47bd-96e7-cb0bc8ea071b.jpg",
+    "categoria": "TODO PARA MUJERES ",
+    "suspendido": false
+  },
+  {
+    "id": 1793102363950,
+    "nombre": "AURICULAR BT INALAMBRICO CON TRADUCTOR IA JS 69",
+    "precio": 16900,
+    "foto": "https://i.postimg.cc/KvWWKt2R/c3654bc4-eac4-4f95-8b06-6025feafc9da.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
   }
 ]
