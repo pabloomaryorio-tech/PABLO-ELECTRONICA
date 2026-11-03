@@ -478,10 +478,11 @@
   {
     "id": 169,
     "nombre": "LAMPARA CAMPING SOLAR RECARGABLE",
-    "precio": 8600,
+    "precio": 7900,
     "foto": "https://i.postimg.cc/rFPBgdkp/B005.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793719914177
   },
   {
     "id": 170,
@@ -1407,10 +1408,11 @@
   {
     "id": 429,
     "nombre": "LINTERNA LISA USB RECARCABLE + ZOOM",
-    "precio": 3300,
+    "precio": 3500,
     "foto": "https://i.postimg.cc/7ZzdTF93/IMG-8149.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793719687691
   },
   {
     "id": 430,
@@ -1431,18 +1433,20 @@
   {
     "id": 433,
     "nombre": "MINI LINTERNA USB RECARGABLE",
-    "precio": 2200,
+    "precio": 2300,
     "foto": "https://i.postimg.cc/HWJqg8Mv/IMG-8155.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793719757898
   },
   {
     "id": 434,
     "nombre": "MINI LINTERNA USB RECARGABLE + ENCENDEDOR",
-    "precio": 3200,
+    "precio": 3100,
     "foto": "https://i.postimg.cc/NFTCrT70/IMG-8156.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793720042538
   },
   {
     "id": 436,
@@ -1903,10 +1907,11 @@
   {
     "id": 1775837309021,
     "nombre": "LINTERNA MINERA RECARGABLE ",
-    "precio": 3900,
+    "precio": 4200,
     "foto": "https://i.postimg.cc/FKXw9wDk/0200ed32-8312-4cf6-80e3-6d49176d549a.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793719817338
   },
   {
     "id": 1775837565671,
@@ -2468,10 +2473,11 @@
   {
     "id": 1785767456841,
     "nombre": "LAMPARA DE ESCRITORIO T-308",
-    "precio": 8100,
+    "precio": 7900,
     "foto": "https://i.postimg.cc/XJfPhTs9/a61bee94-1443-419b-a630-27a515a1a3cc.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793720635049
   },
   {
     "id": 1785767795013,
@@ -2671,14 +2677,6 @@
     "suspendido": false
   },
   {
-    "id": 1786629196672,
-    "nombre": "LINTERNA CON ZOOM USB RECARGABLE 4176",
-    "precio": 4950,
-    "foto": "https://i.postimg.cc/Sxv6Yt8z/893661c3-3e84-4bb9-a8df-9df00d0a10ac.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
     "id": 1786629577882,
     "nombre": "LINTERNA USB RECARGABLE BLISTER ",
     "precio": 3800,
@@ -2689,10 +2687,11 @@
   {
     "id": 1786629867383,
     "nombre": "LINTERNA 7 LED USB RECARGABLE  LY-825",
-    "precio": 5450,
+    "precio": 5600,
     "foto": "https://i.postimg.cc/0yhqXPD6/e49e2e0c-c8a6-4927-96e9-a661f4441f80.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793720719281
   },
   {
     "id": 1786629963555,
@@ -3117,10 +3116,11 @@
   {
     "id": 1788810859731,
     "nombre": "TIRAS LED RGB DE 28 X 35 DE 5 MTS.",
-    "precio": 6500,
+    "precio": 6600,
     "foto": "https://i.postimg.cc/TYRdPWXk/725a952a-186b-46fb-a3ab-5bb545150041.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793720302562
   },
   {
     "id": 1788811009623,
@@ -3142,10 +3142,11 @@
   {
     "id": 1788811432353,
     "nombre": "TIRAS LED RGB DE 50 X 50 X 5 MTS",
-    "precio": 9600,
+    "precio": 9950,
     "foto": "https://i.postimg.cc/GhkXXH89/15c5ab5b-e566-43c9-9c1a-50e86c696b0b.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793719867314
   },
   {
     "id": 1790602377174,
@@ -3314,10 +3315,11 @@
   {
     "id": 1790947495264,
     "nombre": "LINTERNA COB LUZ DE TRABAJO ",
-    "precio": 8750,
+    "precio": 8250,
     "foto": "https://i.postimg.cc/zvTL5fj7/1f8f8b25-3cbb-48d2-aa04-718dbd93c4c4.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793719718154
   },
   {
     "id": 1790947660312,
@@ -3680,7 +3682,7 @@
     "precio": 21500,
     "foto": "https://i.postimg.cc/L8NTh0FL/02505704-e5ce-4706-9c10-0c3ea3600ed0.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1793228701427,
