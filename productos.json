@@ -187,10 +187,11 @@
   {
     "id": 59,
     "nombre": "PARLANTE K12 CON 2 MICROFONO Y RELOJ SMART OK-2",
-    "precio": 30400,
+    "precio": 28500,
     "foto": "https://i.postimg.cc/pdbk3mKB/H83.jpg",
     "categoria": "RELOJES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722756552
   },
   {
     "id": 67,
@@ -312,26 +313,29 @@
   {
     "id": 108,
     "nombre": "ESPEJO LED USB REGULABLE LUZ FRIA REDONDO",
-    "precio": 6500,
+    "precio": 6900,
     "foto": "https://i.postimg.cc/CLFTh6M2/ESP-4205.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793726543172
   },
   {
     "id": 109,
     "nombre": "CEPILLO SECADOR GIRATORIO CON CABLE DE 1000 W",
-    "precio": 15900,
+    "precio": 15400,
     "foto": "https://i.postimg.cc/qMKW8Sn5/OA-CP202.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793726197613
   },
   {
     "id": 111,
     "nombre": "PERFILADOR DE CEJAS SET X 3",
-    "precio": 990,
+    "precio": 950,
     "foto": "https://i.postimg.cc/TPvXdjzL/RA001.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793726420125
   },
   {
     "id": 112,
@@ -344,10 +348,11 @@
   {
     "id": 116,
     "nombre": "PLANCHITA DE PELO FLEQUILLO CHICA",
-    "precio": 3500,
+    "precio": 3800,
     "foto": "https://i.postimg.cc/sgTscGqv/SN-228.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793726391260
   },
   {
     "id": 128,
@@ -719,11 +724,12 @@
   },
   {
     "id": 224,
-    "nombre": "REPETIDOR WIFI",
-    "precio": 13500,
+    "nombre": "REPETIDOR EXTENSOR DE WIFI",
+    "precio": 12900,
     "foto": "https://i.postimg.cc/1z8KWZPd/0b606aac-1946-4c3e-9e53-cffa031e4aaa.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793726707997
   },
   {
     "id": 235,
@@ -811,10 +817,11 @@
   {
     "id": 291,
     "nombre": "SOPORTE TV REFORZADO BRAZO FLEXIBLE 14-55 PLG",
-    "precio": 11700,
+    "precio": 13200,
     "foto": "https://i.postimg.cc/3wMz5Yht/soportetv.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793726836252
   },
   {
     "id": 296,
@@ -936,14 +943,6 @@
     "nombre": "ORGANIZADOR DE JOYAS CON ESPEJO",
     "precio": 3300,
     "foto": "https://i.postimg.cc/6QcLrmRL/IMG-8231.jpg",
-    "categoria": "TODO PARA MUJERES ",
-    "suspendido": false
-  },
-  {
-    "id": 344,
-    "nombre": "DEPILADOR DE CEJAS VELLO FACIAL",
-    "precio": 4850,
-    "foto": "https://i.postimg.cc/HWPdhbf6/IMG-8034.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": false
   },
@@ -1685,14 +1684,6 @@
     "suspendido": false
   },
   {
-    "id": 488,
-    "nombre": "INFLADOR DE PIE",
-    "precio": 7900,
-    "foto": "https://i.postimg.cc/Bn4P2818/IMG-8200.jpg",
-    "categoria": "TODO PARA BICI Y MOTOS ",
-    "suspendido": false
-  },
-  {
     "id": 489,
     "nombre": "SET DE PICOS PARA INFLADOR",
     "precio": 1300,
@@ -1859,10 +1850,11 @@
   {
     "id": 1774985225294,
     "nombre": "CONSOLA 400 EN 1",
-    "precio": 16200,
+    "precio": 14900,
     "foto": "https://i.postimg.cc/bvrBQ0q2/cdf07ea6-be45-4fab-b6ca-6ae8540d320c.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722846288
   },
   {
     "id": 1774985425956,
@@ -2575,10 +2567,11 @@
   {
     "id": 1786028659460,
     "nombre": "CORTADORA DE PELO USB RECARGLE DE METAL",
-    "precio": 5700,
+    "precio": 5900,
     "foto": "https://i.postimg.cc/HLjzJ0sc/ea95cd90-08e3-48a7-99f3-45e89038cfa4.jpg",
     "categoria": "TODO PARA HOMBRES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793725932978
   },
   {
     "id": 1786028784820,
@@ -2619,14 +2612,6 @@
     "foto": "https://i.postimg.cc/g24dcpnr/efcb090f-3e3f-4256-b70d-f005c719305e.jpg",
     "categoria": "HOGAR",
     "suspendido": true
-  },
-  {
-    "id": 1786029285804,
-    "nombre": "CORTA PELO DRAGON USB RECARGABLE ",
-    "precio": 11800,
-    "foto": "https://i.postimg.cc/WbnxgnTz/89fc8e3b-763b-4914-b610-cdadbfa095a7.jpg",
-    "categoria": "TODO PARA HOMBRES",
-    "suspendido": false
   },
   {
     "id": 1786029382346,
@@ -2840,10 +2825,11 @@
   {
     "id": 1787308504249,
     "nombre": "RELOJ SMART WATCHULTRA 9 BIG CON 7 MALLAS TH7-3",
-    "precio": 15900,
+    "precio": 16500,
     "foto": "https://i.postimg.cc/m2vsqF9x/ec34bcbc-ae42-44ae-95a0-1d0f99ab159e.jpg",
     "categoria": "RELOJES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722777416
   },
   {
     "id": 1787308613424,
@@ -3370,18 +3356,20 @@
   {
     "id": 1790949796239,
     "nombre": "VASO TERMICO TAPA  ANTIDERRAME 1 LT. CON MANIJA Y SORBETE",
-    "precio": 13900,
+    "precio": 14200,
     "foto": "https://i.postimg.cc/tg6qf4zr/57f3a7bc-4652-4f4a-bbd8-d1f3b4129b0e.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722984312
   },
   {
     "id": 1790950162957,
     "nombre": "CORTA PELO 5 W 800 MAH VINTAGE ",
-    "precio": 10100,
+    "precio": 10200,
     "foto": "https://i.postimg.cc/SQHh0hJ6/0f80d955-9b08-4dbf-bd8b-9c4b4f9e4ae6.jpg",
     "categoria": "TODO PARA HOMBRES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793723536503
   },
   {
     "id": 1790950283342,
