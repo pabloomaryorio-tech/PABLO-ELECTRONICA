@@ -649,11 +649,12 @@
   },
   {
     "id": 208,
-    "nombre": "TECLADO USB NOGA",
+    "nombre": "TECLADO USB GTC ",
     "precio": 6800,
-    "foto": "https://i.postimg.cc/qqyzvf4f/78005USB.jpg",
+    "foto": "https://i.postimg.cc/j2M0BGxW/2040d8d2-caae-407e-b768-f79d7a4ca61b.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": true
+    "suspendido": false,
+    "fechaIngreso": 1793731828752
   },
   {
     "id": 209,
@@ -2568,7 +2569,7 @@
     "id": 1786028659460,
     "nombre": "CORTADORA DE PELO USB RECARGLE DE METAL",
     "precio": 5900,
-    "foto": "https://i.postimg.cc/HLjzJ0sc/ea95cd90-08e3-48a7-99f3-45e89038cfa4.jpg",
+    "foto": "https://i.postimg.cc/HsM9ZbBt/a5061dac-2fe9-44f5-a241-c40f86ca6ce2.jpg",
     "categoria": "TODO PARA HOMBRES",
     "suspendido": false,
     "fechaIngreso": 1793725932978
@@ -2843,7 +2844,7 @@
     "id": 1787526738464,
     "nombre": "SET DE TAPPER HERMETICO DE VIDRIO X 3 CON TAPA MADERA",
     "precio": 22500,
-    "foto": "https://i.postimg.cc/ZnbcxKV9/2ac26238-ffdd-4259-b728-4d42a801043d.jpg",
+    "foto": "https://i.postimg.cc/gk33qm2t/4ca744fd-8bae-4270-a37b-5234e362a592.jpg",
     "categoria": "HOGAR",
     "suspendido": false,
     "fechaIngreso": 1793717051604
@@ -3767,5 +3768,41 @@
     "foto": "https://i.postimg.cc/q7KWnTJw/5fb0279a-756b-4ea6-a73a-f432e7a42ee6.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
+  },
+  {
+    "id": 1793731366780,
+    "nombre": "LINTERNA MINERA CON SENSOR ",
+    "precio": 5000,
+    "foto": "https://i.postimg.cc/ZqbrFGGW/ff190759-ea08-442b-88bb-c54bc6572bda.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1793731366781
+  },
+  {
+    "id": 1793731596200,
+    "nombre": "LINTERNA MULTIFUNCION USB RECARGABLE ",
+    "precio": 21600,
+    "foto": "https://i.postimg.cc/2yhLw7rd/ba47616e-b507-4969-b596-e31ca1bac756.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1793731596201
+  },
+  {
+    "id": 1793731653495,
+    "nombre": "SET DE PINZAS X 5 EXCELENTE CALIDAD ",
+    "precio": 14600,
+    "foto": "https://i.postimg.cc/Wb7h133q/47eca3cd-e6f3-4b10-a868-7522500fe35e.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1793731653495
+  },
+  {
+    "id": 1793731743904,
+    "nombre": "CONTROL NOGA PARA CONSOLAS Y PC ",
+    "precio": 7700,
+    "foto": "https://i.postimg.cc/KjDvjqmf/1ccc5df3-73b1-4bfb-a08c-492e2eaad78a.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false,
+    "fechaIngreso": 1793731743904
   }
 ]
