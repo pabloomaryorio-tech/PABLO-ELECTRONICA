@@ -10,10 +10,11 @@
   {
     "id": 4,
     "nombre": "CARGADOR ROYALCELL I PHONE 4.8 AMP.",
-    "precio": 4350,
+    "precio": 4550,
     "foto": "https://i.postimg.cc/PxSyymsB/cargador5A.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793714280918
   },
   {
     "id": 11,
@@ -42,10 +43,11 @@
   {
     "id": 18,
     "nombre": "CARGADOR ROYALCEL V8 5 AMP.",
-    "precio": 3900,
+    "precio": 4100,
     "foto": "https://i.postimg.cc/43XfHbgL/Whats-App-Image-2025-09-10-at-20-57-09-1.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793714254557
   },
   {
     "id": 20,
@@ -66,10 +68,11 @@
   {
     "id": 27,
     "nombre": "CABLE HDMI 1.5M",
-    "precio": 2300,
+    "precio": 2200,
     "foto": "https://i.postimg.cc/L4wfQkpq/CABLEUSB.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793711513992
   },
   {
     "id": 28,
@@ -82,34 +85,38 @@
   {
     "id": 29,
     "nombre": "CABLE USB MALLA TIPO C DATOS 3.1A",
-    "precio": 1550,
+    "precio": 1600,
     "foto": "https://i.postimg.cc/MpBny6Kj/CAB-41002.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793713069854
   },
   {
     "id": 31,
     "nombre": "CABLE USB V3 CON FILTRO 1.5M",
-    "precio": 1600,
+    "precio": 1800,
     "foto": "https://i.postimg.cc/c1BjwyVJ/CAB-45008.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793711811335
   },
   {
     "id": 33,
     "nombre": "CABLE HDMI A VGA",
-    "precio": 3500,
+    "precio": 3600,
     "foto": "https://i.postimg.cc/5tPSZg9D/CAB-45003.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793711602832
   },
   {
     "id": 35,
     "nombre": "CABLE AUXILIAR 1 M BOLSA",
-    "precio": 950,
+    "precio": 975,
     "foto": "https://i.postimg.cc/Mphrk22Q/Whats-App-Image-2025-09-10-at-20-57-07-1.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793711677943
   },
   {
     "id": 39,
@@ -186,34 +193,38 @@
   {
     "id": 67,
     "nombre": "CUCHILLO AFILADOR 3 EN 1",
-    "precio": 2250,
+    "precio": 2600,
     "foto": "https://i.postimg.cc/XYrxjVwv/Whats-App-Image-2025-09-10-at-23-33-21-2.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793717657211
   },
   {
     "id": 68,
     "nombre": "ANAFE PORTATIL DE CAMPING K-202",
-    "precio": 11400,
+    "precio": 9500,
     "foto": "https://i.postimg.cc/28TbMwKw/ZT-202.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793717581948
   },
   {
     "id": 69,
     "nombre": "BALANZA COCINA 10 KG",
-    "precio": 5950,
+    "precio": 5750,
     "foto": "https://i.postimg.cc/k55MHp8K/Whats-App-Image-2025-09-10-at-23-33-21-1.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793717264084
   },
   {
     "id": 77,
     "nombre": "DUCHA CUADRADA  20 CM X 20 CM",
-    "precio": 6300,
+    "precio": 5900,
     "foto": "https://i.postimg.cc/Z5PW6zGV/S20B.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793717686571
   },
   {
     "id": 78,
@@ -258,10 +269,11 @@
   {
     "id": 90,
     "nombre": "TERMOMETRO DIGITAL BEBE",
-    "precio": 2300,
+    "precio": 2400,
     "foto": "https://i.postimg.cc/BnMTKt03/Captura-de-pantalla-2025-09-11-174820.png",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793717539148
   },
   {
     "id": 92,
@@ -277,7 +289,7 @@
     "precio": 8900,
     "foto": "https://i.postimg.cc/Mp9BPwPx/AURIKK607.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 100,
@@ -530,10 +542,11 @@
   {
     "id": 185,
     "nombre": "CINTA METRICA X 3 MTS.",
-    "precio": 1750,
+    "precio": 1950,
     "foto": "https://i.postimg.cc/8P7Nkz0v/1901.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793715432933
   },
   {
     "id": 186,
@@ -557,7 +570,7 @@
     "precio": 2500,
     "foto": "https://i.postimg.cc/wM6Pt02M/TP-6036B.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 190,
@@ -586,10 +599,11 @@
   {
     "id": 193,
     "nombre": "LAPIZ TESTER",
-    "precio": 4100,
+    "precio": 4300,
     "foto": "https://i.postimg.cc/MGDwzb0x/Captura-de-pantalla-2025-09-11-171216.png",
     "categoria": "ELECTRICIDAD ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793715072077
   },
   {
     "id": 196,
@@ -618,10 +632,11 @@
   {
     "id": 206,
     "nombre": "TECLADO INALAMBRICO COLOR",
-    "precio": 13500,
+    "precio": 13900,
     "foto": "https://i.postimg.cc/Dz97RkgG/150T08.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793714963245
   },
   {
     "id": 208,
@@ -629,7 +644,7 @@
     "precio": 6800,
     "foto": "https://i.postimg.cc/qqyzvf4f/78005USB.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 209,
@@ -722,18 +737,20 @@
   {
     "id": 248,
     "nombre": "AURICULAR MANOS LIBRES  AU-11010",
-    "precio": 1450,
+    "precio": 1500,
     "foto": "https://i.postimg.cc/zBFSBTGb/AURITAKE.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793710707400
   },
   {
     "id": 249,
     "nombre": "AURICULAR  BLANCO BOLSITA EXCELENTE CALIDAD ",
-    "precio": 1700,
+    "precio": 1850,
     "foto": "https://i.postimg.cc/T1P7hxfh/AURI.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793710598532
   },
   {
     "id": 251,
@@ -746,10 +763,11 @@
   {
     "id": 252,
     "nombre": "AURICULAR  MANOS LIBRE COLOR BOLSITA",
-    "precio": 1300,
+    "precio": 1350,
     "foto": "https://i.postimg.cc/SKyfj5tn/AU-11007.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793710633496
   },
   {
     "id": 253,
@@ -810,10 +828,11 @@
   {
     "id": 297,
     "nombre": "AURICULAR MANOS LIBRES AU-11011",
-    "precio": 1450,
+    "precio": 1500,
     "foto": "https://i.postimg.cc/y8MLGjKJ/auri11011.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793710720304
   },
   {
     "id": 300,
@@ -842,10 +861,11 @@
   {
     "id": 309,
     "nombre": "ZAPATILLA EXAGONAL X 5 BOCAS + 2 USB",
-    "precio": 9000,
+    "precio": 8700,
     "foto": "https://i.postimg.cc/3NSs6qNP/zapaflor.jpg",
     "categoria": "ELECTRICIDAD ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793715176316
   },
   {
     "id": 313,
@@ -898,10 +918,11 @@
   {
     "id": 336,
     "nombre": "AURICULAR BT INALAMBRICO COLORES",
-    "precio": 5900,
+    "precio": 6200,
     "foto": "https://i.postimg.cc/xdqXW96n/IMG-8024.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793711266208
   },
   {
     "id": 342,
@@ -970,10 +991,11 @@
   {
     "id": 350,
     "nombre": "CABLE ROYALCELL USB A I PHONE 5 AMP. MALLADO",
-    "precio": 1850,
+    "precio": 1950,
     "foto": "https://i.postimg.cc/Kv3SsjSm/IMG-8044.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793712471862
   },
   {
     "id": 351,
@@ -1018,18 +1040,20 @@
   {
     "id": 363,
     "nombre": "CABLE PARA IMPRESORA 1.5 MT",
-    "precio": 2100,
+    "precio": 2500,
     "foto": "https://i.postimg.cc/0QGFqK5w/IMG-8057.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793711793623
   },
   {
     "id": 364,
     "nombre": "CABLE DE AUDIO Y VIDEO RCA DE 3 A 3",
-    "precio": 1350,
+    "precio": 1450,
     "foto": "https://i.postimg.cc/TY17t4bC/IMG-8058.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793711411480
   },
   {
     "id": 365,
@@ -1042,18 +1066,20 @@
   {
     "id": 366,
     "nombre": "CABLE HDMI A V8",
-    "precio": 2950,
+    "precio": 3200,
     "foto": "https://i.postimg.cc/7hf3njRC/IMG-8060.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793711556328
   },
   {
     "id": 367,
     "nombre": "CABLE HDMI 3 MTS",
-    "precio": 3100,
+    "precio": 2950,
     "foto": "https://i.postimg.cc/x8JmzMk6/IMG-8061.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793711478848
   },
   {
     "id": 368,
@@ -1082,10 +1108,11 @@
   {
     "id": 377,
     "nombre": "CARGADOR V8 3,1 CON CABLE DESMONTABLE",
-    "precio": 2750,
+    "precio": 2850,
     "foto": "https://i.postimg.cc/635n9Tds/IMG-8075.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793713939901
   },
   {
     "id": 378,
@@ -1165,7 +1192,7 @@
     "precio": 8700,
     "foto": "https://i.postimg.cc/pLFPTnzP/IMG-8089.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 393,
@@ -1221,7 +1248,7 @@
     "precio": 3100,
     "foto": "https://i.postimg.cc/qq2MFhwv/IMG-8108.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 401,
@@ -1274,10 +1301,11 @@
   {
     "id": 410,
     "nombre": "CANDADO DE 63 MM EXTRA GRANDE ",
-    "precio": 3450,
+    "precio": 3950,
     "foto": "https://i.postimg.cc/gJ1k2qjr/IMG-8122.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793715367661
   },
   {
     "id": 411,
@@ -1338,10 +1366,11 @@
   {
     "id": 418,
     "nombre": "CANILLA ESFERICA METALICA DE 1/2 PULGADAS COMUN",
-    "precio": 2600,
+    "precio": 2850,
     "foto": "https://i.postimg.cc/dQmVYdvq/IMG-8095.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793715543125
   },
   {
     "id": 419,
@@ -1506,10 +1535,11 @@
   {
     "id": 465,
     "nombre": "BOMBA DISPENSER CON LUZ",
-    "precio": 5950,
+    "precio": 5750,
     "foto": "https://i.postimg.cc/T3G7MSVH/4e529e53-49c2-4252-ad5b-da4b2deb0bf4.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793716530268
   },
   {
     "id": 466,
@@ -1522,10 +1552,11 @@
   {
     "id": 467,
     "nombre": "BATIDORA DE CAFE A PILAS",
-    "precio": 2100,
+    "precio": 2300,
     "foto": "https://i.postimg.cc/90hnctzb/IMG-8178.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793716730564
   },
   {
     "id": 468,
@@ -1578,18 +1609,20 @@
   {
     "id": 475,
     "nombre": "TENDER DE ROPA VERTICAL DE 3 NIVELES",
-    "precio": 29500,
+    "precio": 31000,
     "foto": "https://i.postimg.cc/442ck4Mn/IMG-8180.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793717304940
   },
   {
     "id": 476,
     "nombre": "SET DE DUCHAS MONOCOMANDO",
-    "precio": 28000,
+    "precio": 31500,
     "foto": "https://i.postimg.cc/RFsWBGPN/IMG-8181.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793718867603
   },
   {
     "id": 477,
@@ -1610,18 +1643,20 @@
   {
     "id": 481,
     "nombre": "ANAFE ELECTRICO 1 HORNALLA",
-    "precio": 16200,
+    "precio": 16900,
     "foto": "https://i.postimg.cc/qBKNYcsd/IMG-8188.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793717561123
   },
   {
     "id": 482,
     "nombre": "TENSIOMETRO",
-    "precio": 17900,
+    "precio": 18500,
     "foto": "https://i.postimg.cc/6qV5Q0cT/IMG-8189.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793717446187
   },
   {
     "id": 483,
@@ -1794,10 +1829,11 @@
   {
     "id": 1774984731068,
     "nombre": "CARGADOR ROYALCELL TIPO C 5 AMP",
-    "precio": 4100,
+    "precio": 4350,
     "foto": "https://i.postimg.cc/853wdxZ8/3e50ae9d-e34d-4935-8e8a-2796ee0e1589.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793714211046
   },
   {
     "id": 1774984831738,
@@ -1826,10 +1862,11 @@
   {
     "id": 1774985425956,
     "nombre": "SARTEN MULTIFUNCIONAL PIEDRA VOLCANICA",
-    "precio": 15500,
+    "precio": 15950,
     "foto": "https://i.postimg.cc/jq3Cct6c/22e115c3-c66c-475c-af49-014886dadaf2.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793716385364
   },
   {
     "id": 1774985488355,
@@ -1898,10 +1935,11 @@
   {
     "id": 1775838202878,
     "nombre": "JOYSTICK PS3 SONY ",
-    "precio": 12500,
+    "precio": 12750,
     "foto": "https://i.postimg.cc/8P2T6KZ1/f0a69fbe-0204-426c-b0d7-dc56b09f5249.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793717793459
   },
   {
     "id": 1776275253225,
@@ -1922,10 +1960,11 @@
   {
     "id": 1776437753234,
     "nombre": "PISTOLA MASAJEADORA ",
-    "precio": 15500,
+    "precio": 15750,
     "foto": "https://i.postimg.cc/m2qM7Wss/5069a8d2-0651-4157-98d8-4b41709b2da1.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793716698789
   },
   {
     "id": 1777038984991,
@@ -2032,14 +2071,6 @@
     "suspendido": false
   },
   {
-    "id": 1778686245322,
-    "nombre": "MARTILLO REFORZADO EXCELENTE CALIDAD ",
-    "precio": 6500,
-    "foto": "https://i.postimg.cc/vBWMrd29/0ca466ce-b361-47ff-9b9c-8dbcc3b7c062.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
-  },
-  {
     "id": 1779819492700,
     "nombre": "BANDERA  ARGENTINA 90 X 145 ",
     "precio": 2800,
@@ -2066,10 +2097,11 @@
   {
     "id": 1779820403650,
     "nombre": "BATIDORA ELECTRICA  7 VELOCIDADES ",
-    "precio": 15900,
+    "precio": 17700,
     "foto": "https://i.postimg.cc/5tMk1xPK/ab5bafc7-8dac-4609-a4a9-5b63a3130bab.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793716645580
   },
   {
     "id": 1779820453922,
@@ -2109,15 +2141,16 @@
     "precio": 5800,
     "foto": "https://i.postimg.cc/Lscj7pSh/c41f3ad7-520a-4b11-a22f-47befd3bbacc.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779835127068,
     "nombre": "TECLADO NOGA GAMER ",
-    "precio": 9100,
+    "precio": 9600,
     "foto": "https://i.postimg.cc/Ghg8VCJt/aa60f668-e853-418b-90e7-1d894667bb85.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793714944837
   },
   {
     "id": 1779835230356,
@@ -2285,7 +2318,8 @@
     "precio": 3750,
     "foto": "https://i.postimg.cc/YS0mp7kB/3293b307-162a-4d22-9e73-473427aab92a.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793665377156
   },
   {
     "id": 1782417179951,
@@ -2392,14 +2426,6 @@
     "suspendido": false
   },
   {
-    "id": 1785763816789,
-    "nombre": "AURICULAR MANOS LIBRES FICHA TIPO C PUXIDA ",
-    "precio": 5250,
-    "foto": "https://i.postimg.cc/kgxcdvnT/50737902-24b8-437d-ba9b-29050dc546bf.jpg",
-    "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
     "id": 1785763854897,
     "nombre": "AURICULAR MANOS LIBRES TIPO C JBL ",
     "precio": 4200,
@@ -2466,18 +2492,20 @@
   {
     "id": 1785769539307,
     "nombre": "CANILLA PARA COCINA ",
-    "precio": 17500,
+    "precio": 18500,
     "foto": "https://i.postimg.cc/MpctjCJy/c5909aab-5b67-4c98-943c-a6c96ed908da.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793718615939
   },
   {
     "id": 1785769572615,
     "nombre": "CANILLA PARA COCINA PICO LARGO ",
-    "precio": 18500,
+    "precio": 19200,
     "foto": "https://i.postimg.cc/s27cT5Xd/331ac84f-9823-414a-b5df-6a301bb8f627.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793718596227
   },
   {
     "id": 1785769603974,
@@ -2498,10 +2526,11 @@
   {
     "id": 1785873036391,
     "nombre": "CINTA TEFLON 3/4\"",
-    "precio": 800,
+    "precio": 850,
     "foto": "https://i.postimg.cc/43yn9SGP/df2d7930-6570-417e-9c8d-4a8ad2d5d4f7.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793715491429
   },
   {
     "id": 1785873136179,
@@ -2581,7 +2610,7 @@
     "precio": 3200,
     "foto": "https://i.postimg.cc/g24dcpnr/efcb090f-3e3f-4256-b70d-f005c719305e.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1786029285804,
@@ -2610,10 +2639,11 @@
   {
     "id": 1786450274083,
     "nombre": "CARGADOR LEGATUS TIPO C 5 AMP. ",
-    "precio": 3900,
+    "precio": 4200,
     "foto": "https://i.postimg.cc/Nfxp5HqR/26785cdb-6604-4b64-a8da-d4f12ff77c5f.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793713832806
   },
   {
     "id": 1786628822298,
@@ -2626,10 +2656,11 @@
   {
     "id": 1786628958353,
     "nombre": "AURICULAR MANOS LIBRE CON FICHA C BOLSA ",
-    "precio": 2250,
+    "precio": 2350,
     "foto": "https://i.postimg.cc/J0Lc4DJr/2e946e7d-c6d1-44b0-a3a4-9d84839d440e.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793710669632
   },
   {
     "id": 1786629024582,
@@ -2784,14 +2815,6 @@
     "suspendido": false
   },
   {
-    "id": 1787258078816,
-    "nombre": "AURICULAR BT INALAMBRICO E6S",
-    "precio": 5800,
-    "foto": "https://i.postimg.cc/wvNhyzbk/2c8430a7-3336-4432-973e-d41d180146f1.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
-  },
-  {
     "id": 1787258189450,
     "nombre": "CABLE USB V8 ENGOMADO LEGATUS 5 AMP. ",
     "precio": 1350,
@@ -2804,14 +2827,6 @@
     "nombre": "AURICULAR BT INALAMBRICO M90 PRO",
     "precio": 7800,
     "foto": "https://i.postimg.cc/k4w7y6Zm/467e6b5c-52ef-45e7-8c4c-2c1ac6f19041.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
-  },
-  {
-    "id": 1787258430853,
-    "nombre": "AURICULAR BT INALAMBRICO M90 EXTRA TECH",
-    "precio": 7500,
-    "foto": "https://i.postimg.cc/PrvkCRdc/9f3efe91-ea1f-4366-80a6-2153489ccf50.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
   },
@@ -2841,11 +2856,12 @@
   },
   {
     "id": 1787526738464,
-    "nombre": "SET DE TAPPER HERMETICO DE VIDRIO X 3 ",
-    "precio": 18400,
+    "nombre": "SET DE TAPPER HERMETICO DE VIDRIO X 3 CON TAPA MADERA",
+    "precio": 22500,
     "foto": "https://i.postimg.cc/ZnbcxKV9/2ac26238-ffdd-4259-b728-4d42a801043d.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793717051604
   },
   {
     "id": 1787526943503,
@@ -2866,10 +2882,11 @@
   {
     "id": 1787527197219,
     "nombre": "AURICULAR BT INALAMBRICO V5.0  AU-17005",
-    "precio": 7425,
+    "precio": 7950,
     "foto": "https://i.postimg.cc/tCgk1J1j/4a6e63ed-34a6-4989-947e-6de30f95ac01.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793711021848
   },
   {
     "id": 1787527355269,
@@ -2877,15 +2894,16 @@
     "precio": 3500,
     "foto": "https://i.postimg.cc/c45mfWYc/e909f110-1f52-4705-b3d6-2db0b0492d5a.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1787527437436,
     "nombre": "MINI SET DE COCINA X 6 PZS ",
-    "precio": 5100,
+    "precio": 5300,
     "foto": "https://i.postimg.cc/sgQJcL94/ef535a2a-3c96-49a1-b8fd-acc51d9841d5.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793717911691
   },
   {
     "id": 1787684550919,
@@ -2938,10 +2956,11 @@
   {
     "id": 1788793162202,
     "nombre": "CARGADOR CABEZAL HYTOSHY 168 W + CABLE TIPO C A C",
-    "precio": 7900,
+    "precio": 8300,
     "foto": "https://i.postimg.cc/NFSY98Lr/dbb1b101-a3f3-432d-827c-a577ddf685d3.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793713700030
   },
   {
     "id": 1788793358761,
@@ -3106,10 +3125,11 @@
   {
     "id": 1788811009623,
     "nombre": "SET DE HERRAMIENTAS CON LINTERNA + PANEL SOLAR",
-    "precio": 21500,
+    "precio": 22500,
     "foto": "https://i.postimg.cc/3RBqfNbD/eeb430ea-8b55-49c7-a1e5-712faf26d561.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793716158583
   },
   {
     "id": 1788811267521,
@@ -3177,27 +3197,30 @@
   },
   {
     "id": 1790603918145,
-    "nombre": "ZAPATILLA CON 6 ENCHUFES + 3 USB + 1 TIPO C + CORTE CORRIENTE ",
+    "nombre": "ZAPATILLA 6 ENCHUFES + 3 USB + 1 TIPO C + CORTE CORRIENTE ",
     "precio": 9500,
     "foto": "https://i.postimg.cc/y8sWz2Yd/71ba96e1-3968-48f0-b52a-6fb63995ae9a.jpg",
     "categoria": "ELECTRICIDAD ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793715109965
   },
   {
     "id": 1790604053726,
     "nombre": "AURICULAR VINCHA UNICORNIO ",
-    "precio": 8400,
+    "precio": 8800,
     "foto": "https://i.postimg.cc/7Z9hPXfp/d1341995-0052-4e95-8b84-aa12e2a9fab5.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793711318623
   },
   {
     "id": 1790604114109,
-    "nombre": "SET DE DESTORNILLADOR PESADO X 6 ",
-    "precio": 7450,
+    "nombre": "SET DE DESTORNILLADOR PESADO DE GOLPE X 6 ",
+    "precio": 7850,
     "foto": "https://i.postimg.cc/FKKRYcSf/25140497-786e-4d72-b70f-fa125d5f357b.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793716206133
   },
   {
     "id": 1790604230476,
@@ -3205,14 +3228,6 @@
     "precio": 8800,
     "foto": "https://i.postimg.cc/43F3VdvB/17ca35ff-fb0f-474d-b1ea-4bbdc0c6064d.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1790606182393,
-    "nombre": "DESTORNILLADOR BUSCA POLO ",
-    "precio": 1400,
-    "foto": "https://i.postimg.cc/DyTJ6SGR/db87f06a-68a6-4e81-a65e-3532b98a2f6d.jpg",
-    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
@@ -3290,10 +3305,11 @@
   {
     "id": 1790947361598,
     "nombre": "PAVA ELECTRICA CORTE AUTOMATICO 2.0 LTS",
-    "precio": 15500,
+    "precio": 17500,
     "foto": "https://i.postimg.cc/SsvRcMZd/514881ee-bcf2-4bcc-861c-82756be11ff8.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793716584396
   },
   {
     "id": 1790947495264,
@@ -3426,10 +3442,11 @@
   {
     "id": 1793023232958,
     "nombre": "AURICULAR BT INALAMBRICO JK 604",
-    "precio": 6100,
+    "precio": 6400,
     "foto": "https://i.postimg.cc/cLpn6P3V/ff67519c-96b9-4c3e-bafb-b9ddaef3b8d2.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793711124896
   },
   {
     "id": 1793023411535,
@@ -3469,7 +3486,8 @@
     "precio": 6800,
     "foto": "https://i.postimg.cc/G2770cBx/8ed34db7-69cf-4c74-96c7-5b5f99d4e66d.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793717183156
   },
   {
     "id": 1793024625958,
@@ -3626,10 +3644,11 @@
   {
     "id": 1793102363950,
     "nombre": "AURICULAR BT INALAMBRICO CON TRADUCTOR IA JS 69",
-    "precio": 16900,
+    "precio": 17500,
     "foto": "https://i.postimg.cc/KvWWKt2R/c3654bc4-eac4-4f95-8b06-6025feafc9da.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793711099112
   },
   {
     "id": 1793120371632,
