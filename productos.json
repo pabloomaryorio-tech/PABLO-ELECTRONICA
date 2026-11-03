@@ -169,18 +169,20 @@
   {
     "id": 47,
     "nombre": "PARLANTE BT INALAMBRICO GTS 2166 3\"",
-    "precio": 7300,
+    "precio": 7600,
     "foto": "https://i.postimg.cc/9fVbJ69C/PARLAN.png",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722364520
   },
   {
     "id": 48,
     "nombre": "PARLANTE RUEDA BT INALAMBRICO CON LUZ GTS 1492",
-    "precio": 11600,
+    "precio": 12000,
     "foto": "https://i.postimg.cc/PrxjLL4j/PARLANTW-RUEDA.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722544520
   },
   {
     "id": 59,
@@ -414,10 +416,11 @@
   {
     "id": 146,
     "nombre": "PELOTA DE FUTBOL N°2 PERSONAJES",
-    "precio": 3850,
+    "precio": 3900,
     "foto": "https://i.postimg.cc/RV0QbyBH/pelota2.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793721912729
   },
   {
     "id": 150,
@@ -779,14 +782,6 @@
     "precio": 2050,
     "foto": "https://i.postimg.cc/02LNbfTq/Whats-App-Image-2025-09-10-at-20-57-09-3.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
-    "id": 260,
-    "nombre": "POP IT ELECTRONICO DE MEMORIA C/LUZ/SONIDO",
-    "precio": 5500,
-    "foto": "https://i.postimg.cc/MTjRrwkx/popit.jpg",
-    "categoria": "NIÑOS",
     "suspendido": false
   },
   {
@@ -1708,18 +1703,20 @@
   {
     "id": 493,
     "nombre": "PARLANTE BT INALAMBRICO GTS 1922",
-    "precio": 9700,
+    "precio": 9950,
     "foto": "https://i.postimg.cc/jSBHPqK2/IMG-8211.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722290280
   },
   {
     "id": 502,
     "nombre": "RADIO AM FM PANEL SOLAR + USB RECARGABLE KTF 2209",
-    "precio": 23700,
+    "precio": 24600,
     "foto": "https://i.postimg.cc/MZyz89vf/IMG-8220.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722567784
   },
   {
     "id": 509,
@@ -1812,10 +1809,11 @@
   {
     "id": 543,
     "nombre": "PARLANTE BT INALAMBRICO GTS 2159",
-    "precio": 8500,
+    "precio": 8900,
     "foto": "https://i.postimg.cc/vByXM9B8/IMG-20260304-164257.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722340504
   },
   {
     "id": 1773689418257,
@@ -1919,10 +1917,11 @@
   {
     "id": 1775837565671,
     "nombre": "PARLANTE BT INALAMBRICO KTS 1677",
-    "precio": 8100,
+    "precio": 8400,
     "foto": "https://i.postimg.cc/L5qMqLfh/19032dbb-3638-4dfd-9d30-4d17f9ad5c89.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722452969
   },
   {
     "id": 1775837796550,
@@ -1952,18 +1951,20 @@
   {
     "id": 1776275253225,
     "nombre": "PARLANTE BT INALAMBRICO KARAOKE KTS 1916",
-    "precio": 10500,
+    "precio": 10900,
     "foto": "https://i.postimg.cc/c1QQdRhs/IMG-8949.png",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722431008
   },
   {
     "id": 1776437052853,
     "nombre": "RADIO VINTAGE BT/FM/MP3 RECARGABLE GTS 1959",
-    "precio": 9300,
+    "precio": 9700,
     "foto": "https://i.postimg.cc/fbsNPkNj/129303cf-6b6e-4fbb-9b6e-388c9546a9e6.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722665024
   },
   {
     "id": 1776437753234,
@@ -1993,18 +1994,11 @@
   {
     "id": 1777039228092,
     "nombre": "PARLANTE BT INALAMBRICO CON LINTERNA GTS 1533",
-    "precio": 7200,
+    "precio": 7500,
     "foto": "https://i.postimg.cc/KYCnF0cR/3e3e78bb-991d-4203-96fe-d70429b8c2f5.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 1777039263885,
-    "nombre": "PARLANTE BT INALAMBRICO CON LUZ KTX 1997 ",
-    "precio": 6800,
-    "foto": "https://i.postimg.cc/2yDhL3Bg/5463ae1b-2506-4cfc-8449-a1394fb5bd67.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722163720
   },
   {
     "id": 1777039519573,
@@ -2187,10 +2181,11 @@
   {
     "id": 1781185864416,
     "nombre": "JUEGO SET DE POKER COMPLETO ",
-    "precio": 17500,
+    "precio": 17600,
     "foto": "https://i.postimg.cc/SRYKmZLt/a9fbf8f8-df16-42db-abe8-2db027b71a5b.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793721728041
   },
   {
     "id": 1781185962686,
@@ -2236,10 +2231,11 @@
   {
     "id": 1781186686324,
     "nombre": "PARLANTE BT MINI GTS-1675",
-    "precio": 6700,
+    "precio": 6950,
     "foto": "https://i.postimg.cc/d1b9sfP1/40db613f-cd6d-4add-b20b-c0dae4be0722.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722522408
   },
   {
     "id": 1781186755747,
@@ -2429,10 +2425,11 @@
   {
     "id": 1784746009797,
     "nombre": "PARLANTE BT INALAMBRICO POP ART 3 PLG ",
-    "precio": 8700,
+    "precio": 8950,
     "foto": "https://i.postimg.cc/5tNfrRTT/0fef2119-cdb7-43ff-8f3e-86974139383d.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722494232
   },
   {
     "id": 1785763854897,
@@ -2597,7 +2594,7 @@
     "precio": 8900,
     "foto": "https://i.postimg.cc/Zn042MTK/d19a5081-9aa9-4116-a850-1a4c481a696e.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1786029026455,
@@ -2733,10 +2730,11 @@
   {
     "id": 1786804755885,
     "nombre": "PARLANTE BT INALAMBRICO 6,5\" CON MICROFONO GTS - 2138",
-    "precio": 30950,
+    "precio": 32300,
     "foto": "https://i.postimg.cc/GhXffzM2/ee33fe8c-b4ad-456f-aa69-305e628fbcef.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722117865
   },
   {
     "id": 1786805668084,
@@ -2749,50 +2747,47 @@
   {
     "id": 1786805834820,
     "nombre": "PARLANTE BT INALAMBRICO CON LINTERNA GTS - 2068",
-    "precio": 10950,
+    "precio": 11500,
     "foto": "https://i.postimg.cc/FzyZ0bKw/e8a07be4-30a6-49f5-9e3f-57c7b221e310.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 1786805952816,
-    "nombre": "PARLANTE BT INALMBRICO GTS - 2083",
-    "precio": 13500,
-    "foto": "https://i.postimg.cc/bJYb40CT/e5b170a4-5c15-4931-bb42-2ae254101699.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722139280
   },
   {
     "id": 1786806109356,
     "nombre": "PARLANTE BT INALAMBRICO GTS - 1835",
-    "precio": 6950,
+    "precio": 7300,
     "foto": "https://i.postimg.cc/kgb5sjCW/8b344374-f8cf-41a1-a7ad-bd8d1820078b.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722236920
   },
   {
     "id": 1786806194764,
     "nombre": "PARLANTE BT INALAMBRICO CON MICROFONO GTS - 2265",
-    "precio": 10950,
+    "precio": 11400,
     "foto": "https://i.postimg.cc/25xr9MKq/098e3b66-b7a6-44e0-b8bc-d5a032104f1b.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722211929
   },
   {
     "id": 1786806357132,
     "nombre": "MICROFONO COMUN CON CABLE FICHA 6,5 MM",
-    "precio": 3450,
+    "precio": 3600,
     "foto": "https://i.postimg.cc/vH9BLqbh/b98e3582-577e-4f45-9944-ab3173d1bd58.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722055345
   },
   {
     "id": 1786806452076,
     "nombre": "PARLANTE BARRA BT INALAMBRICO RGB KTS - 1968",
-    "precio": 22700,
+    "precio": 23600,
     "foto": "https://i.postimg.cc/y8QwJK24/26b66027-083e-4989-8cb1-db9bccdec0ae.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722096121
   },
   {
     "id": 1786806546484,
@@ -2878,10 +2873,11 @@
   {
     "id": 1787527094229,
     "nombre": "RADIO BLUETOOTH AM FM RECARGABLE + PANEL SOLAR KTF-1668",
-    "precio": 22700,
+    "precio": 23600,
     "foto": "https://i.postimg.cc/G3KzhGmz/108c2890-d3c3-4e52-af86-21dc59bba9bb.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722593400
   },
   {
     "id": 1787527197219,
@@ -2944,18 +2940,20 @@
   {
     "id": 1788792881333,
     "nombre": "PARLANTE BT INALAMBRICO GTS 2423",
-    "precio": 7200,
+    "precio": 7500,
     "foto": "https://i.postimg.cc/qRqGb2Mz/28502733-f646-4366-bc56-8618ae6a7a2e.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722384648
   },
   {
     "id": 1788792995001,
     "nombre": "PARLANTE BT INALAMBRICO GTS 2485",
-    "precio": 6200,
+    "precio": 6500,
     "foto": "https://i.postimg.cc/YqCm1t0G/0f61035c-4061-45c2-a77d-cee867337f26.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722412433
   },
   {
     "id": 1788793162202,
@@ -2977,10 +2975,11 @@
   {
     "id": 1788793472681,
     "nombre": "PARLANTE BT INALAMBRICO GTS 2092",
-    "precio": 9950,
+    "precio": 10400,
     "foto": "https://i.postimg.cc/9fsn9Why/fbf0bf8b-8a9d-47ec-9270-75f0d66b94b7.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722316568
   },
   {
     "id": 1788793850069,
@@ -2993,10 +2992,11 @@
   {
     "id": 1788794154062,
     "nombre": "RADIO PARLANTE BT INALAMBRICO KTF 1448 CON LINTERNA",
-    "precio": 20900,
+    "precio": 21700,
     "foto": "https://i.postimg.cc/KYKZFvfb/61c2133b-1060-495a-9004-d9ea83702ee0.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722644056
   },
   {
     "id": 1788794243228,
@@ -3097,10 +3097,11 @@
   {
     "id": 1788810077099,
     "nombre": "RADIO PARLANTE BT INALAMBRICO CON PANEL SOLAR KTF 1472",
-    "precio": 14800,
+    "precio": 15400,
     "foto": "https://i.postimg.cc/2ykw1xGd/030e851e-4e98-4957-97dc-64f128a3e9b0.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722621632
   },
   {
     "id": 1788810159574,
@@ -3515,10 +3516,11 @@
   {
     "id": 1793025053479,
     "nombre": "PARLANTE BT INALAMBRICO MINI GTS 2486",
-    "precio": 9500,
+    "precio": 9800,
     "foto": "https://i.postimg.cc/brFw22Zs/15cbd0ac-c3c8-4edd-bcb6-dc847dfb8150.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722473736
   },
   {
     "id": 1793025244442,
@@ -3660,10 +3662,11 @@
   {
     "id": 1793120371632,
     "nombre": "PARLANTE BT INALAMBRICO GTS 1389 4\"",
-    "precio": 10300,
+    "precio": 10700,
     "foto": "https://i.postimg.cc/YSQkwpmf/bbaa0c62-c152-43df-9b97-a2b168033a34.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793722264240
   },
   {
     "id": 1793228332222,
