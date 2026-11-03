@@ -433,7 +433,7 @@
     "precio": 2700,
     "foto": "https://i.postimg.cc/zGT0Z4Th/PIZ-140-N13.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 160,
@@ -682,26 +682,29 @@
   {
     "id": 213,
     "nombre": "CALCULADORA CIENTIFICA 240 FUNCIONES",
-    "precio": 4650,
+    "precio": 4800,
     "foto": "https://i.postimg.cc/Y2gZtSqC/KK-88MS.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793721047065
   },
   {
     "id": 214,
     "nombre": "CALCULADORA CIENTIFICA BLISTER",
-    "precio": 3900,
+    "precio": 4800,
     "foto": "https://i.postimg.cc/HkMQKNfy/KK-89MC.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793721113841
   },
   {
     "id": 215,
     "nombre": "CALCULADORA KARUIDA DOBLE VISOR 12 DIGITOS CT 8122",
-    "precio": 7900,
+    "precio": 8300,
     "foto": "https://i.postimg.cc/gkXRX5cT/CT-8122-120.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793721309417
   },
   {
     "id": 216,
@@ -2224,10 +2227,11 @@
   {
     "id": 1781186579653,
     "nombre": "CALCULADORA KARUDIA 12 DIGITOS KK-2100",
-    "precio": 5950,
+    "precio": 6200,
     "foto": "https://i.postimg.cc/fWdK2Mmz/443e399e-38e3-4591-9ea8-d644a4e59e72.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793721250585
   },
   {
     "id": 1781186686324,
@@ -2449,10 +2453,11 @@
   {
     "id": 1785767152171,
     "nombre": "CALCULADORA KARUDIA 12 DIGITOS KK-8835B",
-    "precio": 4800,
+    "precio": 4950,
     "foto": "https://i.postimg.cc/9fR5xg5j/fdb25b42-9e28-4fb0-a1f6-cc72128b6ae7.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1793721273977
   },
   {
     "id": 1785767248063,
