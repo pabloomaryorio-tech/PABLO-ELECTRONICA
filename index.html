@@ -599,6 +599,30 @@ box-sizing: border-box;
                     </div>
                 </div>
 
+                <!-- AUMENTO MASIVO DE PRECIOS -->
+<div id="panel-aumento-masivo" style="background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0;">
+  <h3 style="margin: 0 0 12px 0; font-size: 16px; text-transform: uppercase;">Aumento Masivo de Precios</h3>
+
+  <label style="display: block; font-size: 13px; margin-bottom: 4px; font-weight: 600;">Alcance</label>
+  <select id="masivo-categoria" style="width: 100%; padding: 9px; margin-bottom: 12px; border: 1px solid #ccc; border-radius: 5px; box-sizing: border-box;">
+    <option value="TODAS">TODAS LAS CATEGORÍAS (Todos los productos)</option>
+  </select>
+
+  <label style="display: block; font-size: 13px; margin-bottom: 4px; font-weight: 600;">Porcentaje de aumento (o baja)</label>
+  <input type="number" id="masivo-porcentaje" placeholder="Ej: 10 para +10% (o -5 para -5%)" step="0.1"
+    style="width: 100%; padding: 9px; margin-bottom: 12px; border: 1px solid #ccc; border-radius: 5px; box-sizing: border-box;">
+
+  <label style="display: flex; align-items: center; gap: 8px; font-size: 13px; margin-bottom: 14px; cursor: pointer;">
+    <input type="checkbox" id="masivo-redondear" checked>
+    <span>Redondear hacia arriba a la centena (ej: 1.670,00 → 1.700,00 | 4.341,00 → 4.400,00)</span>
+  </label>
+
+  <button type="button" onclick="aplicarAumentoMasivo()"
+    style="width: 100%; background: #1a237e; color: #fff; border: none; padding: 11px; border-radius: 5px; font-weight: bold; cursor: pointer;">
+    APLICAR AUMENTO
+  </button>
+</div>
+                
                 <div style="margin-top: 30px;">
                     <h3>LISTADO DE PRODUCTOS</h3>
                     <div style="display: flex; gap: 10px; margin-bottom: 15px;">
@@ -1163,7 +1187,123 @@ let esDuenioAutenticado = urlParams.has('appsfogel') && urlParams.get('appsfogel
                 alert("LA CATEGORÍA YA EXISTE");
             }
         };
+        
+function llenarCategoriasAumentoMasivo(listaCategorias) {
+  const selectDestino = document.getElementById('masivo-categoria');
+  if (!selectDestino) return;
 
+  selectDestino.innerHTML = '<option value="TODAS">TODAS LAS CATEGORÍAS (Todos los productos)</option>';
+
+  if (Array.isArray(listaCategorias) && listaCategorias.length > 0) {
+    listaCategorias.forEach(cat => {
+      const nombre = typeof cat === 'string' ? cat : (cat.nombre || cat.categoria || '');
+      if (!nombre) return;
+      const opt = document.createElement('option');
+      opt.value = nombre;
+      opt.textContent = nombre;
+      selectDestino.appendChild(opt);
+    });
+    return;
+  }
+
+  // Respaldo automático: toma las categorías ya cargadas en tu select del admin
+  const selectOrigen = document.getElementById('filtro-categoria-admin') || document.getElementById('producto-categoria');
+  if (selectOrigen) {
+    Array.from(selectOrigen.options).forEach(op => {
+      const val = (op.value || '').trim();
+      if (!val || val === 'TODAS' || val === 'todas') return;
+      const opt = document.createElement('option');
+      opt.value = val;
+      opt.textContent = op.textContent.trim() || val;
+      selectDestino.appendChild(opt);
+    });
+  }
+}
+
+function parsearPrecioMasivo(valor) {
+  if (typeof valor === 'number') return valor;
+  let limpio = String(valor).replace(/[^0-9.,-]/g, '').trim();
+  if (!limpio) return 0;
+
+  if (limpio.includes(',') && limpio.includes('.')) {
+    limpio = limpio.replace(/\./g, '').replace(',', '.');
+  } else if (limpio.includes(',')) {
+    limpio = limpio.replace(',', '.');
+  }
+
+  return parseFloat(limpio) || 0;
+}
+
+function formatearPrecioSinMiles(numero) {
+  return numero.toFixed(2).replace('.', ',');
+}
+
+function aplicarAumentoMasivo() {
+  const selectCat = document.getElementById('masivo-categoria');
+  const inputPct = document.getElementById('masivo-porcentaje');
+  const chkRedondear = document.getElementById('masivo-redondear');
+
+  const catSeleccionada = selectCat ? selectCat.value : 'TODAS';
+  const porcentaje = parseFloat(inputPct ? inputPct.value : '');
+  const redondear = chkRedondear ? chkRedondear.checked : true;
+
+  if (isNaN(porcentaje) || porcentaje === 0) {
+    alert('Ingresá un porcentaje válido distinto de 0 (por ejemplo: 10).');
+    return;
+  }
+
+  if (typeof productos === 'undefined' || !Array.isArray(productos)) {
+    alert('No se encontró el array "productos". Si tiene otro nombre en tu código, avisame y lo ajustamos.');
+    return;
+  }
+
+  const afectados = productos.filter(prod => {
+    const catProd = String(prod.categoria || prod.CATEGORIA || '').trim();
+    return catSeleccionada === 'TODAS' || catProd === catSeleccionada;
+  });
+
+  if (afectados.length === 0) {
+    alert('No hay productos para la selección elegida.');
+    return;
+  }
+
+  const signo = porcentaje > 0 ? '+' : '';
+  const alcance = catSeleccionada === 'TODAS'
+    ? 'de TODAS las categorías'
+    : `de la categoría "${catSeleccionada}"`;
+
+  if (!confirm(`¿Aplicar ${signo}${porcentaje}% a ${afectados.length} producto(s) ${alcance}?`)) {
+    return;
+  }
+
+  afectados.forEach(prod => {
+    const campo = prod.precio !== undefined ? 'precio' : 'PRECIO';
+    const eraTexto = typeof prod[campo] === 'string';
+    const precioActual = parsearPrecioMasivo(prod[campo]);
+
+    let nuevoPrecio = precioActual * (1 + porcentaje / 100);
+    if (redondear) {
+      nuevoPrecio = Math.ceil(nuevoPrecio / 100) * 100;
+    } else {
+      nuevoPrecio = Math.round(nuevoPrecio * 100) / 100;
+    }
+
+    prod[campo] = eraTexto ? formatearPrecioSinMiles(nuevoPrecio) : nuevoPrecio;
+  });
+
+  if (inputPct) inputPct.value = '';
+
+  if (typeof filtrarYRenderizarProductos === 'function') {
+    filtrarYRenderizarProductos();
+  }
+
+  alert(`Listo: se actualizaron ${afectados.length} productos. Ahora usá tu botón de descargar JSON y subí productos.json a GitHub.`);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  setTimeout(() => llenarCategoriasAumentoMasivo(), 300);
+});
+        
         const eliminarCategoria = (cat) => {
             if (confirm(`¿ELIMINAR CATEGORÍA "${cat}"? LOS PRODUCTOS QUEDARÁN SIN CATEGORÍA.`)) {
                 categorias = categorias.filter(c => c !== cat);
