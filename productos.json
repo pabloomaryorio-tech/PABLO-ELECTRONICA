@@ -60,15 +60,16 @@
   {
     "id": 26,
     "nombre": "OTG ADAPTADOR DE USB TIPO C",
-    "precio": 900,
+    "precio": 1000,
     "foto": "https://i.postimg.cc/d17mNw57/USBTC.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795881300233
   },
   {
     "id": 27,
     "nombre": "CABLE HDMI 1.5M",
-    "precio": 2200,
+    "precio": 2350,
     "foto": "https://i.postimg.cc/L4wfQkpq/CABLEUSB.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false,
@@ -77,15 +78,16 @@
   {
     "id": 28,
     "nombre": "CABLE USB TIPO C 3.1 PUNTA DE METAL",
-    "precio": 1750,
+    "precio": 1850,
     "foto": "https://i.postimg.cc/wMK5Yd3B/CABLE-PUNTA-METAL.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795883307711
   },
   {
     "id": 29,
     "nombre": "CABLE USB MALLA TIPO C DATOS 3.1A",
-    "precio": 1690,
+    "precio": 1750,
     "foto": "https://i.postimg.cc/MpBny6Kj/CAB-41002.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false,
@@ -94,7 +96,7 @@
   {
     "id": 31,
     "nombre": "CABLE USB V3 CON FILTRO 1.5M",
-    "precio": 1800,
+    "precio": 1950,
     "foto": "https://i.postimg.cc/c1BjwyVJ/CAB-45008.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false,
@@ -103,7 +105,7 @@
   {
     "id": 33,
     "nombre": "CABLE HDMI A VGA",
-    "precio": 3600,
+    "precio": 3800,
     "foto": "https://i.postimg.cc/5tPSZg9D/CAB-45003.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false,
@@ -112,7 +114,7 @@
   {
     "id": 35,
     "nombre": "CABLE AUXILIAR 1 M BOLSA",
-    "precio": 975,
+    "precio": 1100,
     "foto": "https://i.postimg.cc/Mphrk22Q/Whats-App-Image-2025-09-10-at-20-57-07-1.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false,
@@ -121,26 +123,29 @@
   {
     "id": 39,
     "nombre": "CABLE ROYALCELL USB A V8 5 AMP. MALLADO",
-    "precio": 1600,
+    "precio": 1750,
     "foto": "https://i.postimg.cc/vZWknJ8M/Whats-App-Image-2025-09-10-at-23-33-22-2.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795882673712
   },
   {
     "id": 40,
     "nombre": "CABLE ROYALCELL USB A TIPO C 5 AMP. MALLADO ",
-    "precio": 1650,
+    "precio": 1800,
     "foto": "https://i.postimg.cc/43GCFJ2m/Whats-App-Image-2025-09-10-at-23-33-23.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795882693088
   },
   {
     "id": 42,
     "nombre": "CABLE IPHONE USB 1M",
-    "precio": 2400,
+    "precio": 2650,
     "foto": "https://i.postimg.cc/2SsWstnq/Captura-de-pantalla-2025-09-11-194526.png",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795881847504
   },
   {
     "id": 43,
@@ -161,10 +166,11 @@
   {
     "id": 45,
     "nombre": "CABLE VGA A VGA 1.5 M",
-    "precio": 1600,
+    "precio": 1950,
     "foto": "https://i.postimg.cc/0jhJrHd1/CAB-45019.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795881200033
   },
   {
     "id": 47,
@@ -289,18 +295,20 @@
   {
     "id": 94,
     "nombre": "AURICULAR BT INALAMBRICO JK-607",
-    "precio": 8900,
+    "precio": 9400,
     "foto": "https://i.postimg.cc/Mp9BPwPx/AURIKK607.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
+    "suspendido": true,
+    "fechaIngreso": 1795880096266
   },
   {
     "id": 100,
     "nombre": "AURICULAR BT INALAMBRICO P47",
-    "precio": 5800,
+    "precio": 6400,
     "foto": "https://i.postimg.cc/mZtpnzn0/AR-1401.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795880774721
   },
   {
     "id": 108,
@@ -735,7 +743,7 @@
   {
     "id": 249,
     "nombre": "AURICULAR  BLANCO BOLSITA EXCELENTE CALIDAD ",
-    "precio": 1850,
+    "precio": 1950,
     "foto": "https://i.postimg.cc/T1P7hxfh/AURI.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false,
@@ -744,15 +752,16 @@
   {
     "id": 251,
     "nombre": "AURICULAR MANOS LIBRES SAMSUNG S 30 ",
-    "precio": 2150,
+    "precio": 2350,
     "foto": "https://i.postimg.cc/sxVTFH13/AR-12.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879341683
   },
   {
     "id": 252,
     "nombre": "AURICULAR  MANOS LIBRE COLOR BOLSITA",
-    "precio": 1350,
+    "precio": 1450,
     "foto": "https://i.postimg.cc/SKyfj5tn/AU-11007.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false,
@@ -761,18 +770,20 @@
   {
     "id": 253,
     "nombre": "AURICULAR MANOS LIBRES SAMSUNG S10 ",
-    "precio": 2050,
+    "precio": 2250,
     "foto": "https://i.postimg.cc/02LNbfTq/Whats-App-Image-2025-09-10-at-20-57-09-3.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879362338
   },
   {
     "id": 271,
     "nombre": "CABLE USB  TIPO C 3.1 BOLSA",
-    "precio": 1350,
+    "precio": 1400,
     "foto": "https://i.postimg.cc/SQLWJLvx/cabletipoc.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795883002552
   },
   {
     "id": 280,
@@ -810,7 +821,7 @@
   {
     "id": 297,
     "nombre": "AURICULAR MANOS LIBRES AU-11011",
-    "precio": 1500,
+    "precio": 1600,
     "foto": "https://i.postimg.cc/y8MLGjKJ/auri11011.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": true,
@@ -827,10 +838,11 @@
   {
     "id": 301,
     "nombre": "CABLE UNIVERSAL REFORZADO 4 EN 1",
-    "precio": 2400,
+    "precio": 2650,
     "foto": "https://i.postimg.cc/vTGP8ZSR/cable4en1.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795882961928
   },
   {
     "id": 305,
@@ -884,23 +896,25 @@
   {
     "id": 329,
     "nombre": "AURICULAR MANOS LIBRE U19 CAJA",
-    "precio": 1500,
+    "precio": 1650,
     "foto": "https://i.postimg.cc/MpyRd3Mb/IMG-8017.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879121786
   },
   {
     "id": 332,
     "nombre": "AURICULAR MANOS LIBRE U19 BOLSA",
-    "precio": 1400,
+    "precio": 1550,
     "foto": "https://i.postimg.cc/wM2Lc0WF/17c918c6-4777-4ef3-982d-4e325a193721.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879109618
   },
   {
     "id": 336,
     "nombre": "AURICULAR BT INALAMBRICO COLORES",
-    "precio": 6200,
+    "precio": 6600,
     "foto": "https://i.postimg.cc/xdqXW96n/IMG-8024.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": true,
@@ -957,7 +971,7 @@
   {
     "id": 350,
     "nombre": "CABLE ROYALCELL USB A I PHONE 5 AMP. MALLADO",
-    "precio": 1950,
+    "precio": 1990,
     "foto": "https://i.postimg.cc/Kv3SsjSm/IMG-8044.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false,
@@ -966,39 +980,43 @@
   {
     "id": 351,
     "nombre": "CABLE USB TIPO C IBEK 6 AMP",
-    "precio": 1950,
+    "precio": 2100,
     "foto": "https://i.postimg.cc/hv9wczS8/IMG-8045.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795883356199
   },
   {
     "id": 352,
     "nombre": "CABLE USB  V8 3.1 BOLSA",
-    "precio": 1250,
+    "precio": 1300,
     "foto": "https://i.postimg.cc/pVYqVtf7/IMG-8046.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795883016863
   },
   {
     "id": 359,
     "nombre": "CABLE AUXILIAR A I PHONE",
-    "precio": 2700,
+    "precio": 2950,
     "foto": "https://i.postimg.cc/XvYp5dm9/IMG-8053.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795881493929
   },
   {
     "id": 361,
     "nombre": "CABLE AUXILIAR A TIPO C",
-    "precio": 2700,
+    "precio": 2950,
     "foto": "https://i.postimg.cc/Xvrn38tm/IMG-8055.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795881505656
   },
   {
     "id": 363,
     "nombre": "CABLE PARA IMPRESORA 1.5 MT",
-    "precio": 2500,
+    "precio": 2700,
     "foto": "https://i.postimg.cc/0QGFqK5w/IMG-8057.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false,
@@ -1007,7 +1025,7 @@
   {
     "id": 364,
     "nombre": "CABLE DE AUDIO Y VIDEO RCA DE 3 A 3",
-    "precio": 1450,
+    "precio": 1600,
     "foto": "https://i.postimg.cc/TY17t4bC/IMG-8058.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false,
@@ -1016,15 +1034,16 @@
   {
     "id": 365,
     "nombre": "CABLE DE AUDIO DE 2 A 1",
-    "precio": 950,
+    "precio": 1050,
     "foto": "https://i.postimg.cc/h4yMQ1Yr/IMG-8059.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795880911105
   },
   {
     "id": 366,
     "nombre": "CABLE HDMI A V8",
-    "precio": 3200,
+    "precio": 3500,
     "foto": "https://i.postimg.cc/7hf3njRC/IMG-8060.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false,
@@ -1033,7 +1052,7 @@
   {
     "id": 367,
     "nombre": "CABLE HDMI 3 MTS",
-    "precio": 2950,
+    "precio": 3200,
     "foto": "https://i.postimg.cc/x8JmzMk6/IMG-8061.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false,
@@ -1042,18 +1061,20 @@
   {
     "id": 368,
     "nombre": "CABLE AUXILIAR COLORES 1 MT",
-    "precio": 900,
+    "precio": 950,
     "foto": "https://i.postimg.cc/rmz0Bx9V/IMG-8062.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795880850793
   },
   {
     "id": 370,
     "nombre": "OTG ADAPTADOR DE USB A V8",
-    "precio": 800,
+    "precio": 900,
     "foto": "https://i.postimg.cc/5N5q1cz0/IMG-8064.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795881286809
   },
   {
     "id": 376,
@@ -1801,18 +1822,20 @@
   {
     "id": 1775837796550,
     "nombre": "CABLE ROYALCELL ENGOMADO USB A TIPO C 5 AMP. ",
-    "precio": 1400,
+    "precio": 1550,
     "foto": "https://i.postimg.cc/dQz02V0j/0b4ccd8d-5bae-42fc-9ff9-fba5843de3b9.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795881867480
   },
   {
     "id": 1775837827590,
     "nombre": "CABLE ROYALCELL ENGOMADO USB A V8 5 AMP. ",
-    "precio": 1400,
+    "precio": 1550,
     "foto": "https://i.postimg.cc/dQz02V0j/0b4ccd8d-5bae-42fc-9ff9-fba5843de3b9.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795881879104
   },
   {
     "id": 1775838202878,
@@ -1973,18 +1996,20 @@
   {
     "id": 1779820569602,
     "nombre": "CABLE DE RED X 3 MTS ",
-    "precio": 1700,
+    "precio": 1900,
     "foto": "https://i.postimg.cc/7h7mjd3P/dba589ac-0a96-4134-8dcd-c998d9b409f5.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795880973489
   },
   {
     "id": 1779820595026,
     "nombre": "CABLE DE RED 10 MTS ",
-    "precio": 3300,
+    "precio": 3700,
     "foto": "https://i.postimg.cc/7h7mjd3P/dba589ac-0a96-4134-8dcd-c998d9b409f5.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795880951346
   },
   {
     "id": 1779834989699,
@@ -2104,10 +2129,11 @@
   {
     "id": 1782415897573,
     "nombre": "AURICULAR MANOS LIBRES  FICHA TIPO C CAJA ACRILICA",
-    "precio": 3800,
+    "precio": 3950,
     "foto": "https://i.postimg.cc/Znd5QDJd/1f37c2f6-688a-49b3-8fcd-69ad8c566d3e.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879148466
   },
   {
     "id": 1782416063168,
@@ -2120,18 +2146,20 @@
   {
     "id": 1782416293206,
     "nombre": "AURICULAR MANOS LIBRES SAMSNUNG S 20 ",
-    "precio": 2100,
+    "precio": 2300,
     "foto": "https://i.postimg.cc/28nQJCj4/c770ac29-6cff-41f6-820e-e2ae2615a9ee.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879284034
   },
   {
     "id": 1782416386122,
     "nombre": "AURICULAR MANOS LIBRES PRO 21 CON FICHA TIPO C ",
-    "precio": 3500,
+    "precio": 3850,
     "foto": "https://i.postimg.cc/P54mXKwh/428a181e-ce0a-4835-852d-bd717935658a.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879245818
   },
   {
     "id": 1782416519876,
@@ -2274,10 +2302,11 @@
   {
     "id": 1785763854897,
     "nombre": "AURICULAR MANOS LIBRES TIPO C JBL ",
-    "precio": 4200,
+    "precio": 4600,
     "foto": "https://i.postimg.cc/y6tXgbWH/4357e241-3ecc-4881-8266-466ae7589380.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879383946
   },
   {
     "id": 1785763992905,
@@ -2489,10 +2518,11 @@
   {
     "id": 1786629024582,
     "nombre": "AURICULAR BT INALAMBRICO LEGATUS ",
-    "precio": 6300,
+    "precio": 6950,
     "foto": "https://i.postimg.cc/G3FxgKwd/4d3760ef-00ad-46d1-af46-338b47c148c2.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795880484898
   },
   {
     "id": 1786629577882,
@@ -2624,7 +2654,7 @@
   {
     "id": 1787258189450,
     "nombre": "CABLE USB TIPO C ENGOMADO LEGATUS 5 AMP. ",
-    "precio": 1350,
+    "precio": 1550,
     "foto": "https://i.postimg.cc/t4rd82xY/7d8a2bef-473d-4534-8894-f4db62df3b86.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false,
@@ -2684,7 +2714,7 @@
   {
     "id": 1787527197219,
     "nombre": "AURICULAR BT INALAMBRICO V5.0  AU-17005",
-    "precio": 7950,
+    "precio": 8500,
     "foto": "https://i.postimg.cc/tCgk1J1j/4a6e63ed-34a6-4989-947e-6de30f95ac01.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false,
@@ -2794,10 +2824,11 @@
   {
     "id": 1788794450341,
     "nombre": "CABLE IBEK 6 AMP. TIPO C A I PHONE ",
-    "precio": 1750,
+    "precio": 1950,
     "foto": "https://i.postimg.cc/Y2TDy2LB/79df690b-8f53-4b6d-b6d7-480659b09ef2.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795881804169
   },
   {
     "id": 1788794639078,
@@ -2826,26 +2857,29 @@
   {
     "id": 1788795058686,
     "nombre": "AURICULAR IBEK MANOS LIBRES CON FICHA I PHONE  ER 264",
-    "precio": 4300,
+    "precio": 4700,
     "foto": "https://i.postimg.cc/zfS1qbWL/618028d2-7bab-4674-9f86-df724fe00054.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879797537
   },
   {
     "id": 1788795140496,
     "nombre": "AURICULAR IBEK MANOS LIBRES CON FICHA I PHONE ER 261",
-    "precio": 3800,
+    "precio": 4200,
     "foto": "https://i.postimg.cc/52dGj9fx/824371fd-6b1c-404d-bd2f-a6f42e23a4da.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879820674
   },
   {
     "id": 1788809557969,
     "nombre": "CABLE TIPO C A I PHONE 1 MT.",
-    "precio": 2600,
+    "precio": 2750,
     "foto": "https://i.postimg.cc/cCxKR9Ph/64c00e01-a47a-4026-a826-2c37d8ddc9a1.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795882830072
   },
   {
     "id": 1788809686841,
@@ -2942,10 +2976,11 @@
   {
     "id": 1790602697003,
     "nombre": "AURICULAR MANOS LIBRE BOLSA COMUN ",
-    "precio": 1500,
+    "precio": 1600,
     "foto": "https://i.postimg.cc/9XKGVgy4/5280be90-d7bb-48e6-bb00-8c27bf6d2207.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879075675
   },
   {
     "id": 1790602969746,
@@ -2975,7 +3010,7 @@
   {
     "id": 1790604053726,
     "nombre": "AURICULAR VINCHA UNICORNIO ",
-    "precio": 8800,
+    "precio": 9300,
     "foto": "https://i.postimg.cc/7Z9hPXfp/d1341995-0052-4e95-8b84-aa12e2a9fab5.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": false,
@@ -3001,18 +3036,20 @@
   {
     "id": 1790606249058,
     "nombre": "CABLE USB TIPO C 3.4 CON LUZ",
-    "precio": 1950,
+    "precio": 2100,
     "foto": "https://i.postimg.cc/gkHwTGqh/8422e294-c8e0-44e6-b64a-b326f094f50d.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795883280927
   },
   {
     "id": 1790606298626,
     "nombre": "CABLE TIPO C A TIPO C BLANCO",
-    "precio": 2400,
+    "precio": 2500,
     "foto": "https://i.postimg.cc/3xryMznz/8d42cc7e-33d8-45dc-a8c1-ba17ee011c8f.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795882937832
   },
   {
     "id": 1790606381421,
@@ -3041,18 +3078,20 @@
   {
     "id": 1790618187077,
     "nombre": "CABLE TIPO C A TIPO C 1M ",
-    "precio": 2600,
+    "precio": 2700,
     "foto": "https://i.postimg.cc/JzLrb6T6/c3bbef1f-cd78-4c8a-be57-beab6d91432a.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795882793833
   },
   {
     "id": 1790946965238,
     "nombre": "CABLE USB I PHONE 3,1 MALLA DATOS",
-    "precio": 1650,
+    "precio": 1800,
     "foto": "https://i.postimg.cc/9MTKB31C/5514b1a6-c591-4b47-b749-c025d9fbdc26.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795883147463
   },
   {
     "id": 1790947096511,
@@ -3166,42 +3205,47 @@
   {
     "id": 1790950650679,
     "nombre": "AURICULAR BT INALAMBRICO JK 603 ",
-    "precio": 7100,
+    "precio": 7500,
     "foto": "https://i.postimg.cc/fbScrmFS/7057cb10-41e2-4455-b777-ad936982b2fd.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795880056018
   },
   {
     "id": 1790950743390,
     "nombre": "AURICULAR BT INALAMBRICO JK 605",
-    "precio": 8500,
+    "precio": 8900,
     "foto": "https://i.postimg.cc/YqSmPQL3/9ce3c1da-9e3b-42cb-afe1-52e771566b6e.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795880075682
   },
   {
     "id": 1790951486153,
     "nombre": "AURICULAR BT INALAMBRICO E10 MI PODS",
-    "precio": 9200,
+    "precio": 9650,
     "foto": "https://i.postimg.cc/5N3WXFsY/d5b455a8-d2eb-4239-bd5a-67b49d308f42.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879989930
   },
   {
     "id": 1790954777826,
     "nombre": "CABLE IBEK TIPO C A TIPO C 6 AMP.",
-    "precio": 1650,
+    "precio": 1850,
     "foto": "https://i.postimg.cc/5NS03ytW/9e26be59-c352-4080-a2c6-57b95870c5ba.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795881826065
   },
   {
     "id": 1790954850507,
     "nombre": "AURICULAR MANOS LIBRES JBL ",
-    "precio": 1650,
+    "precio": 1950,
     "foto": "https://i.postimg.cc/rs86FV2C/eb37f1fd-5ce6-4a4c-a75d-a3e32e244b17.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879221722
   },
   {
     "id": 1790954968243,
@@ -3214,7 +3258,7 @@
   {
     "id": 1793023232958,
     "nombre": "AURICULAR BT INALAMBRICO JK 604",
-    "precio": 6400,
+    "precio": 6650,
     "foto": "https://i.postimg.cc/cLpn6P3V/ff67519c-96b9-4c3e-bafb-b9ddaef3b8d2.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false,
@@ -3223,10 +3267,11 @@
   {
     "id": 1793023411535,
     "nombre": "AURICULAR BT INALAMBRICO JS 52 CON POWER BANK",
-    "precio": 10900,
+    "precio": 11600,
     "foto": "https://i.postimg.cc/KvyckFp4/6ef51c72-2906-434b-9b33-3b30fdff1b1b.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795880134081
   },
   {
     "id": 1793023689666,
@@ -3247,10 +3292,11 @@
   {
     "id": 1793024141046,
     "nombre": "AURICULAR MANOS LIBRES FICHA C 15 PRO MAX",
-    "precio": 3000,
+    "precio": 3300,
     "foto": "https://i.postimg.cc/Dzt0xG5V/e0bd2b12-adf6-4d6c-b86a-9c05f1e04d84.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879197306
   },
   {
     "id": 1793024399669,
@@ -3289,10 +3335,11 @@
   {
     "id": 1793025244442,
     "nombre": "CABLE ROYALCELL USB  A I PHONE ENGOMADO 5 AMP.",
-    "precio": 1500,
+    "precio": 1650,
     "foto": "https://i.postimg.cc/nzNHFfgQ/88ccffbb-c44c-4438-bfcf-bcfd6deacaca.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795882518915
   },
   {
     "id": 1793025474913,
@@ -3417,7 +3464,7 @@
   {
     "id": 1793102363950,
     "nombre": "AURICULAR BT INALAMBRICO CON TRADUCTOR IA JS 69",
-    "precio": 17500,
+    "precio": 18500,
     "foto": "https://i.postimg.cc/KvWWKt2R/c3654bc4-eac4-4f95-8b06-6025feafc9da.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false,
@@ -3499,18 +3546,20 @@
   {
     "id": 1793230166249,
     "nombre": "AURICULAR PUXIDA C 28 FICHA TIPO C",
-    "precio": 5600,
+    "precio": 5950,
     "foto": "https://i.postimg.cc/MHf6fLF4/9c8c0770-76e5-4b39-9ed3-c440de1c66e3.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879409258
   },
   {
     "id": 1793230254561,
     "nombre": "AURICULAR MANOS LIBRES SAMSUNG ",
-    "precio": 1850,
+    "precio": 2050,
     "foto": "https://i.postimg.cc/vTn1wDbV/61949ec2-796a-431c-a8ff-992b3eec3002.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1795879313219
   },
   {
     "id": 1793230382968,
@@ -3593,7 +3642,7 @@
   {
     "id": 1794316531866,
     "nombre": "AURICULAR BT INALAMBRICO M25 ",
-    "precio": 7500,
+    "precio": 8100,
     "foto": "https://i.postimg.cc/sxfFXpNC/5d9e3d6e-85eb-4403-a937-b6e498bbdd1f.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false,
@@ -3602,7 +3651,7 @@
   {
     "id": 1794316604202,
     "nombre": "AURICULAR BT INALAMBRICO M10 PRO ",
-    "precio": 5850,
+    "precio": 6500,
     "foto": "https://i.postimg.cc/L5xcZnch/ef521c4d-d449-4b84-a8a7-5acb85f066d3.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false,
